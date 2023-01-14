@@ -1,0 +1,17 @@
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/bin/Debug/netstandard2.0/LongoToDo.Forms.deps.json
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/bin/Debug/netstandard2.0/LongoToDo.Forms.dll
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/bin/Debug/netstandard2.0/ref/LongoToDo.Forms.dll
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/bin/Debug/netstandard2.0/LongoToDo.Forms.pdb
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/LongoToDo.Forms.csproj.AssemblyReference.cache
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/LongoToDo.Forms.AssemblyInfoInputs.cache
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/LongoToDo.Forms.AssemblyInfo.cs
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/LongoToDo.Forms.csproj.CoreCompileInputs.cache
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/LongoToDo.Forms.dll
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/ref/LongoToDo.Forms.dll
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/LongoToDo.Forms.pdb
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/bin/Debug/netstandard2.0/LongoToDo.Core.dll
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/bin/Debug/netstandard2.0/LongoToDo.Core.pdb
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/LongoToDo.Forms.csproj.CopyComplete
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/Views/ToDoListPage.xaml.g.cs

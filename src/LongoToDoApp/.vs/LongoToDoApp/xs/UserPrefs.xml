@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FEA89857-DCD7-4447-981E-334B4EF73DC4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LongoToDo.Forms/LongoToDo.Forms.Android/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="LongoToDo.Forms/LongoToDo.Forms/MainPage.xaml.cs" />
+      <File FileName="LongoToDo.Forms/LongoToDo.Forms/MainPage.xaml" Line="22" Column="19" />
+      <File FileName="LongoToDo.Forms/LongoToDo.Forms.Android/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LongoToDoApp" expanded="True">
+            <Node name="LongoToDo.Core" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="LongoToDo.Forms" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LongoToDo.Tests FirstBuild="True" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.LongoToDo.Forms.Android PreferredExecutionTarget="Android.e2ca12b0" />
+</Properties>
