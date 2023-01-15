@@ -148,6 +148,7 @@
         "dependencies": {
           "Newtonsoft.Json": "13.0.2",
           "Prism.Core": "8.1.97",
+          "Prism.Forms": "8.1.97",
           "Xamarin.Forms": "5.0.0.2545"
         },
         "runtime": {

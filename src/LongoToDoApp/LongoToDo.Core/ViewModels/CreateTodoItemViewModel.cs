@@ -6,7 +6,7 @@ using LongoToDo.Core.Services;
 
 namespace LongoToDo.Core.ViewModels
 {
-    public class CreateTodoItemViewModel : BaseViewModel
+    public class CreateTodoItemViewModel
     {
 
     }

@@ -5,9 +5,9 @@ using LongoToDo.Core.Models;
 
 namespace LongoToDo.Core.Services
 {
-	public interface IToDoService
+	public interface ITodoService
 	{
-		Task<List<TodoItem>> GetAllAsync();
+		Task<List<TodoItem>> GetAll();
 	}
 }
 

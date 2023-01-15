@@ -12,6 +12,7 @@
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "13.0.2",
           "Prism.Core": "8.1.97",
+          "Prism.Forms": "8.1.97",
           "Xamarin.Forms": "5.0.0.2545"
         },
         "runtime": {
@@ -35,6 +36,18 @@
       "Prism.Core/8.1.97": {
         "runtime": {
           "lib/netstandard2.0/Prism.dll": {
+            "assemblyVersion": "8.1.97.5141",
+            "fileVersion": "8.1.97.5141"
+          }
+        }
+      },
+      "Prism.Forms/8.1.97": {
+        "dependencies": {
+          "Prism.Core": "8.1.97",
+          "Xamarin.Forms": "5.0.0.2545"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Prism.Forms.dll": {
             "assemblyVersion": "8.1.97.5141",
             "fileVersion": "8.1.97.5141"
           }
@@ -91,6 +104,13 @@
       "sha512": "sha512-EP5zrvWddw3eSq25Y7hHnDYdmLZEC2Z/gMrvmHzUuLbitmA1UaS7wQUlSwNr9Km8lzJNCvytFnaGBEFukHgoHg==",
       "path": "prism.core/8.1.97",
       "hashPath": "prism.core.8.1.97.nupkg.sha512"
+    },
+    "Prism.Forms/8.1.97": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PZ11VwcKc1XNOhIAbdZXPwiRdG1QbxS3cV0JKdKJp914+LSGog71LbHg5hMY2C8AssfCe6wjG5wOvZaBV68nvw==",
+      "path": "prism.forms/8.1.97",
+      "hashPath": "prism.forms.8.1.97.nupkg.sha512"
     },
     "Xamarin.Forms/5.0.0.2545": {
       "type": "package",

@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[8.1.97, )"
             },
+            "Prism.Forms": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2545, )"

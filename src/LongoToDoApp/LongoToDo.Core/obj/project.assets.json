@@ -52,6 +52,23 @@
           }
         }
       },
+      "Prism.Forms/8.1.97": {
+        "type": "package",
+        "dependencies": {
+          "Prism.Core": "8.1.97",
+          "Xamarin.Forms": "5.0.0.2012"
+        },
+        "compile": {
+          "lib/netstandard2.0/Prism.Forms.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Prism.Forms.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Xamarin.Forms/5.0.0.2545": {
         "type": "package",
         "compile": {
@@ -280,6 +297,26 @@
         "readme.txt"
       ]
     },
+    "Prism.Forms/8.1.97": {
+      "sha512": "PZ11VwcKc1XNOhIAbdZXPwiRdG1QbxS3cV0JKdKJp914+LSGog71LbHg5hMY2C8AssfCe6wjG5wOvZaBV68nvw==",
+      "type": "package",
+      "path": "prism.forms/8.1.97",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "lib/monoandroid10.0/Prism.Forms.dll",
+        "lib/monoandroid10.0/Prism.Forms.pdb",
+        "lib/monoandroid10.0/Prism.Forms.xml",
+        "lib/netstandard2.0/Prism.Forms.dll",
+        "lib/netstandard2.0/Prism.Forms.pdb",
+        "lib/netstandard2.0/Prism.Forms.xml",
+        "prism-logo.png",
+        "prism.forms.8.1.97.nupkg.sha512",
+        "prism.forms.nuspec",
+        "readme.txt"
+      ]
+    },
     "Xamarin.Forms/5.0.0.2545": {
       "sha512": "mjfNx4Y/RD0FYjrBfETT2iNdFD1WCXN5wNHPhQaXm3k0u5XYJaOx5K83EZ8nVun+FPi7Wo3rQPIN0DLCs5PG4A==",
       "type": "package",
@@ -502,6 +539,7 @@
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 13.0.2",
       "Prism.Core >= 8.1.97",
+      "Prism.Forms >= 8.1.97",
       "Xamarin.Forms >= 5.0.0.2545"
     ]
   },
@@ -553,6 +591,10 @@
             "version": "[13.0.2, )"
           },
           "Prism.Core": {
+            "target": "Package",
+            "version": "[8.1.97, )"
+          },
+          "Prism.Forms": {
             "target": "Package",
             "version": "[8.1.97, )"
           },

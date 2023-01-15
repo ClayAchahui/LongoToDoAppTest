@@ -1,5 +1,6 @@
 ﻿using System;
 using LongoToDo.Core.Services;
+using LongoToDo.Core.ViewModels;
 using LongoToDo.Forms.Views;
 using Prism;
 using Prism.Ioc;
@@ -13,36 +14,35 @@ namespace LongoToDo.Forms
     {
         public App(IPlatformInitializer initializer = null) : base(initializer) { }
 
-        //public App ()
-        //{
-        //    InitializeComponent();
-
-        //    MainPage = new ToDoListPage();
-        //}
-
-        protected override void OnStart ()
-        {
-        }
-
-        protected override void OnSleep ()
-        {
-        }
-
-        protected override void OnResume ()
-        {
-        }
-
-        protected override void RegisterTypes(IContainerRegistry containerRegistry)
-        {
-            containerRegistry.RegisterForNavigation<ToDoListPage>();
-            containerRegistry.Register<IToDoService, ToDoService>();
-        }
-
         protected async override void OnInitialized()
         {
             InitializeComponent();
 
-            await NavigationService.NavigateAsync("ToDoListPage");
+            await NavigationService.NavigateAsync("TodoListPage");
+        }
+
+        protected override void RegisterTypes(IContainerRegistry containerRegistry)
+        {
+            RegisterViewModels(containerRegistry);
+            RegisterServices(containerRegistry, isFake: true);
+        }
+
+        private void RegisterViewModels(IContainerRegistry containerRegistry)
+        {
+            containerRegistry.RegisterForNavigation<TodoListPage, TodoListViewModel>();
+        }
+
+        private void RegisterServices(IContainerRegistry containerRegistry, bool isFake)
+        {
+            if (isFake)
+            {
+                containerRegistry.Register<ITodoService, FakeTodoService>();
+            }
+            else
+            {
+                containerRegistry.Register<ITodoService, TodoService>();
+            }
+
         }
     }
 }
