@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Tests/LongoToDo.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Tests/LongoToDo.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Tests/LongoToDo.Tests.csproj",
+        "projectName": "LongoToDo.Tests",
+        "projectPath": "/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Tests/LongoToDo.Tests.csproj",
+        "packagesPath": "/Users/carlinyahuiraachahui/.nuget/packages/",
+        "outputPath": "/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/carlinyahuiraachahui/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/carlinyahuiraachahui/Library/Caches/VisualStudio/17.0/MSBuild/4233_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

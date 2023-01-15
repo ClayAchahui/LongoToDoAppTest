@@ -1,0 +1,9 @@
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/bin/Debug/netstandard2.0/LongoToDo.Core.deps.json
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/bin/Debug/netstandard2.0/LongoToDo.Core.dll
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/bin/Debug/netstandard2.0/LongoToDo.Core.pdb
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/obj/Debug/netstandard2.0/LongoToDo.Core.csproj.AssemblyReference.cache
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/obj/Debug/netstandard2.0/LongoToDo.Core.AssemblyInfoInputs.cache
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/obj/Debug/netstandard2.0/LongoToDo.Core.AssemblyInfo.cs
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/obj/Debug/netstandard2.0/LongoToDo.Core.csproj.CoreCompileInputs.cache
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/obj/Debug/netstandard2.0/LongoToDo.Core.dll
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/obj/Debug/netstandard2.0/LongoToDo.Core.pdb
