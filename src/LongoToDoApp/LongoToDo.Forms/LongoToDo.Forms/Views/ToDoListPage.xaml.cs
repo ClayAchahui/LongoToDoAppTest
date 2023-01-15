@@ -11,6 +11,7 @@ namespace LongoToDo.Forms.Views
 		{
 			InitializeComponent ();
 			this.BindingContext = new ToDoListViewModel();
+			Navigation.PushAsync(new ToDoListPage());
 		}
 	}
 }

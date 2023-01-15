@@ -6,8 +6,10 @@
     <ContentPage.Content>
         <StackLayout>
             <Label Text="{Binding Title}"/>
-
+            <!--<ListView ItemsSource="{Binding TodoList}"/>-->
+            <!--<Button Text="Create" Command="{Binding CreateTodoItemCommand}"/>-->
         </StackLayout>
+
     </ContentPage.Content>
 </ContentPage>
 

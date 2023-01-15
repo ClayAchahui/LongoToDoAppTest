@@ -1,21 +1,24 @@
 ﻿using System;
-using LongoToDo.Forms.Utils;
+using LongoToDo.Core.Services;
 using LongoToDo.Forms.Views;
+using Prism;
+using Prism.Ioc;
+using Prism.Unity;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace LongoToDo.Forms
 {
-    public partial class App : Application
+    public partial class App : PrismApplication
     {
-        public App ()
-        {
-            InitializeComponent();
+        public App(IPlatformInitializer initializer = null) : base(initializer) { }
 
-            ViewModelLocator.RegisterDependencies();
+        //public App ()
+        //{
+        //    InitializeComponent();
 
-            MainPage = new ToDoListPage();
-        }
+        //    MainPage = new ToDoListPage();
+        //}
 
         protected override void OnStart ()
         {
@@ -27,6 +30,19 @@ namespace LongoToDo.Forms
 
         protected override void OnResume ()
         {
+        }
+
+        protected override void RegisterTypes(IContainerRegistry containerRegistry)
+        {
+            containerRegistry.RegisterForNavigation<ToDoListPage>();
+            containerRegistry.Register<IToDoService, ToDoService>();
+        }
+
+        protected async override void OnInitialized()
+        {
+            InitializeComponent();
+
+            await NavigationService.NavigateAsync("ToDoListPage");
         }
     }
 }
