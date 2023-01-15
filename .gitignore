@@ -303,3 +303,8 @@ $RECYCLE.BIN/
 *.lnk
 *.cache
 *.zip
+*.so
+*.o
+*.ll
+*.dex
+*.props
