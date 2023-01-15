@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="http://prismlibrary.com"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    x:Class="LongoToDo.Forms.Views.NewTodoPage">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Entry Text="{Binding TodoText}" Placeholder="Example: Call dad"/>
+            <Button
+                TextTransform="None"
+                BackgroundColor="#809A4C"
+                Text="Create"
+                TextColor="White"
+                VerticalOptions="EndAndExpand"
+                Command="{Binding CreateTodoCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

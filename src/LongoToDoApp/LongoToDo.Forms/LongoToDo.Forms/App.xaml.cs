@@ -30,13 +30,14 @@ namespace LongoToDo.Forms
         private void RegisterViewModels(IContainerRegistry containerRegistry)
         {
             containerRegistry.RegisterForNavigation<TodoListPage, TodoListViewModel>();
+            containerRegistry.RegisterForNavigation<NewTodoPage, NewTodoViewModel>();
         }
 
         private void RegisterServices(IContainerRegistry containerRegistry, bool isFake)
         {
             if (isFake)
             {
-                containerRegistry.Register<ITodoService, FakeTodoService>();
+                containerRegistry.RegisterSingleton<ITodoService, FakeTodoService>();
             }
             else
             {

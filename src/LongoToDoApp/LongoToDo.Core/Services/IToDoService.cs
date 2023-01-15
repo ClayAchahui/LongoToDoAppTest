@@ -8,6 +8,8 @@ namespace LongoToDo.Core.Services
 	public interface ITodoService
 	{
 		Task<List<TodoItem>> GetAll();
-	}
+
+		Task Add(TodoItem todo);
+    }
 }
 

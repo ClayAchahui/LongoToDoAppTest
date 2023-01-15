@@ -9,17 +9,30 @@
     <ContentPage.Content>
         <StackLayout>
             <ListView
+                SeparatorColor="Transparent"
+                SelectionMode="Single"
                 ItemsSource="{Binding TodoItems}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <StackLayout>
-                                <Label Text="{Binding Name}"/>
-                            </StackLayout>
+                            <Frame
+                                Margin="10,5"
+                                Padding="10">
+                                <Label
+                                    VerticalOptions="Center"
+                                    Text="{Binding Name}"/>
+                            </Frame>
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
+            <Button
+                Text="New"
+                BackgroundColor="#809A4C"
+                Margin="10"
+                TextColor="White"
+                TextTransform="None"
+                Command="{Binding CreateTodoCommand}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
