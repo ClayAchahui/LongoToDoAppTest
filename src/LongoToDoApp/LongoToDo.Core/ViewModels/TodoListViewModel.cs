@@ -40,6 +40,19 @@ namespace LongoToDo.Core.ViewModels
 			set { SetProperty(ref _isBusy, value); }
 		}
 
+		private TodoItem _selectedItem;
+		public TodoItem SelectedItem
+		{
+			get { return _selectedItem; }
+			set
+			{
+				SetProperty(ref _selectedItem, value);
+
+				if (value != null)
+					MarkAsCompleted();
+			}
+		}
+
 		private ObservableCollection<TodoItem> _todoItems;
 		public ObservableCollection<TodoItem> TodoItems
 		{
@@ -76,7 +89,15 @@ namespace LongoToDo.Core.ViewModels
             await GetAllTodos();
         }
 
+		private async void MarkAsCompleted()
+		{
+			SelectedItem.IsComplete = !SelectedItem.IsComplete;
+			await _todoService.Update(SelectedItem);
+			await GetAllTodos();
+		}
+
         public ICommand CreateTodoCommand => new DelegateCommand(async () =>await GoToCreateTodo());
+
         public DelegateCommand<TodoItem> DeleteTodoCommand => new DelegateCommand<TodoItem>(DeleteTodo);
     }
 }
