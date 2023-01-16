@@ -22,22 +22,6 @@ namespace LongoToDo.Core.ViewModels
 			_navigationService = navigationService;
 			_todoService = todoService;
 			_dialogService = dialogService;
-
-			Title = "Test";
-		}
-
-		private string _title;
-		public string Title
-		{
-			get { return _title; }
-			set { SetProperty(ref _title, value); }
-		}
-
-		private bool _isBusy;
-		public bool IsBusy
-		{
-			get { return _isBusy;  }
-			set { SetProperty(ref _isBusy, value); }
 		}
 
 		private TodoItem _selectedItem;
@@ -53,6 +37,13 @@ namespace LongoToDo.Core.ViewModels
 			}
 		}
 
+		private bool _isRefreshing;
+		public bool IsRefreshing
+		{
+			get { return _isRefreshing; }
+			set { SetProperty(ref _isRefreshing, value); }
+		}
+
 		private ObservableCollection<TodoItem> _todoItems;
 		public ObservableCollection<TodoItem> TodoItems
 		{
@@ -62,9 +53,9 @@ namespace LongoToDo.Core.ViewModels
 
 		private async Task GetAllTodos()
 		{
-			IsBusy = true;
+			IsRefreshing = true;
 			TodoItems = new ObservableCollection<TodoItem>(await _todoService.GetAll());
-			IsBusy = false;
+			IsRefreshing = false;
 		}
 
 		private async Task GoToCreateTodo()
@@ -96,9 +87,16 @@ namespace LongoToDo.Core.ViewModels
 			await GetAllTodos();
 		}
 
+		private async void Refresh()
+		{
+			await GetAllTodos();
+		}
+
         public ICommand CreateTodoCommand => new DelegateCommand(async () =>await GoToCreateTodo());
 
         public DelegateCommand<TodoItem> DeleteTodoCommand => new DelegateCommand<TodoItem>(DeleteTodo);
+
+        public ICommand RefreshCommand => new DelegateCommand(Refresh);
     }
 }
 
