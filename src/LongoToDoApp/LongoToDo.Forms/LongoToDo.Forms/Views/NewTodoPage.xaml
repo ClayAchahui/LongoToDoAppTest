@@ -6,13 +6,27 @@
     prism:ViewModelLocator.AutowireViewModel="True"
     x:Class="LongoToDo.Forms.Views.NewTodoPage">
     <ContentPage.Content>
-        <StackLayout Padding="10">
-            <Entry Text="{Binding TodoText}" Placeholder="Example: Call dad"/>
+        <StackLayout Spacing="20">
+            <Frame>
+                <Label
+                    Text="Longo To Do"
+                    FontSize="40"
+                    FontAttributes="Bold"
+                    TextColor="#809A4C"/>
+            </Frame>
+            <Entry
+                Text="{Binding TodoText}"
+                Placeholder="Call dad"
+                BackgroundColor="LightGray"
+                HeightRequest="100"
+                Margin="10"
+                VerticalOptions="CenterAndExpand"/>
             <Button
                 TextTransform="None"
                 BackgroundColor="#809A4C"
                 Text="Create"
                 TextColor="White"
+                Margin="10"
                 VerticalOptions="EndAndExpand"
                 Command="{Binding CreateTodoCommand}"/>
         </StackLayout>
