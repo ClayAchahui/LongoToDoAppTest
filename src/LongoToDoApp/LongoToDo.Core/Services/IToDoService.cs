@@ -12,6 +12,8 @@ namespace LongoToDo.Core.Services
 		Task Add(TodoItem todo);
 
 		Task Delete(string id);
+
+		Task Update(TodoItem todo);
     }
 }
 

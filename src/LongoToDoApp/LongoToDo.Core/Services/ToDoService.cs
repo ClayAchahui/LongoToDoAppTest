@@ -46,6 +46,21 @@ namespace LongoToDo.Core.Services
 
             await httpClient.DeleteAsync(uri);
         }
+
+        public async Task Update(TodoItem todo)
+        {
+            var uri = $"{Url}/{todo.Key}";
+            var httpClient = new HttpClient();
+
+            var json = JsonConvert.SerializeObject(todo);
+
+            StringContent content = new StringContent(json);
+
+            content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+
+            var result = await httpClient.PutAsync(uri, content);
+        }
+
     }
 
     public class FakeTodoService : ITodoService
@@ -66,25 +81,36 @@ namespace LongoToDo.Core.Services
 
         public async Task<List<TodoItem>> GetAll()
         {
-            await Task.Delay(1000);
+            await Task.Delay(500);
 
             return _items;
         }
 
         public async Task Add(TodoItem todo)
         {
-            await Task.Delay(1000);
+            await Task.Delay(500);
             todo.Key = Guid.NewGuid().ToString();
             _items.Add(todo);
         }
 
         public async Task Delete(string id)
         {
-            await Task.Delay(1000);
+            await Task.Delay(500);
 
             var item = _items.Where(x => x.Key.Equals(id)).FirstOrDefault();
 
             _items.Remove(item);
+        }
+
+        public async Task Update(TodoItem todo)
+        {
+            await Task.Delay(500);
+
+            _items.ForEach(x =>
+            {
+                if (x.Key.Equals(todo.Key))
+                    x.IsComplete = todo.IsComplete;
+            });
         }
     }
 }

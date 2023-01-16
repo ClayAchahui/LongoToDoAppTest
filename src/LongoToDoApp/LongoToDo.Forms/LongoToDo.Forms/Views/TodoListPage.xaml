@@ -12,6 +12,7 @@
                 x:Name="listTodos"
                 SeparatorColor="Transparent"
                 SelectionMode="Single"
+                SelectedItem="{Binding SelectedItem}"
                 ItemsSource="{Binding TodoItems}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
@@ -26,10 +27,17 @@
                                 HeightRequest="50"
                                 Padding="0"
                                 Margin="10,5">
-                                <Label
-                                    Margin="5"
-                                    VerticalOptions="Center"
-                                    Text="{Binding Name}"/>
+                                <StackLayout Orientation="Horizontal" Padding="10,0">
+                                    <Label
+                                        Margin="5"
+                                        VerticalOptions="Center"
+                                        Text="{Binding Name}"/>
+                                    <Image
+                                        WidthRequest="15"
+                                        HorizontalOptions="EndAndExpand"
+                                        Source="ic_check.png"
+                                        IsVisible="{Binding IsComplete}"/>
+                                </StackLayout>
                             </Frame>
                         </ViewCell>
                     </DataTemplate>
