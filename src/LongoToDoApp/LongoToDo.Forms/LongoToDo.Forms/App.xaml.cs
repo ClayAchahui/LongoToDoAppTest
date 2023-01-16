@@ -1,6 +1,7 @@
 ﻿using System;
 using LongoToDo.Core.Services;
 using LongoToDo.Core.ViewModels;
+using LongoToDo.Forms.Services;
 using LongoToDo.Forms.Views;
 using Prism;
 using Prism.Ioc;
@@ -38,10 +39,12 @@ namespace LongoToDo.Forms
             if (isFake)
             {
                 containerRegistry.RegisterSingleton<ITodoService, FakeTodoService>();
+                containerRegistry.Register<IDialogService, DialogService>();
             }
             else
             {
                 containerRegistry.Register<ITodoService, TodoService>();
+                containerRegistry.Register<IDialogService, DialogService>();
             }
 
         }

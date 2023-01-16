@@ -15,6 +15,16 @@ namespace LongoToDo.Core.ViewModels
     {
 		private INavigationService _navigationService;
 		private ITodoService _todoService;
+		private IDialogService _dialogService;
+
+		public TodoListViewModel(INavigationService navigationService ,ITodoService todoService, IDialogService dialogService)
+		{
+			_navigationService = navigationService;
+			_todoService = todoService;
+			_dialogService = dialogService;
+
+			Title = "Test";
+		}
 
 		private string _title;
 		public string Title
@@ -37,13 +47,6 @@ namespace LongoToDo.Core.ViewModels
 			set { SetProperty(ref _todoItems, value); }
 		}
 
-		public TodoListViewModel(INavigationService navigationService ,ITodoService todoService)
-		{
-			_navigationService = navigationService;
-			_todoService = todoService;
-			Title = "Test";
-		}
-
 		private async Task GetAllTodos()
 		{
 			IsBusy = true;
@@ -54,6 +57,13 @@ namespace LongoToDo.Core.ViewModels
 		private async Task GoToCreateTodo()
 		{
  			await _navigationService.NavigateAsync("NewTodoPage");
+		}
+
+		private async void DeleteTodo(TodoItem todo)
+		{
+			await _todoService.Delete(todo.Key);
+			await GetAllTodos();
+			await _dialogService.DisplayAlert($"ToDo item {todo.Name} has been deleted correctly", "Message", "Ok");
 		}
 
         public void OnNavigatedFrom(INavigationParameters parameters)
@@ -67,6 +77,7 @@ namespace LongoToDo.Core.ViewModels
         }
 
         public ICommand CreateTodoCommand => new DelegateCommand(async () =>await GoToCreateTodo());
+        public DelegateCommand<TodoItem> DeleteTodoCommand => new DelegateCommand<TodoItem>(DeleteTodo);
     }
 }
 
