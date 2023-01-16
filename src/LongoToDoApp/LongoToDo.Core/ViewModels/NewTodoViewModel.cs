@@ -9,11 +9,8 @@ using LongoToDo.Core.Models;
 
 namespace LongoToDo.Core.ViewModels
 {
-    public class NewTodoViewModel : BindableBase, IInitialize
+    public class NewTodoViewModel : BaseViewModel
     {
-        private INavigationService _navigationService;
-        private ITodoService _todoService;
-
         private string _todoText;
         public string TodoText
         {
@@ -21,13 +18,7 @@ namespace LongoToDo.Core.ViewModels
             set { SetProperty(ref _todoText, value); }
         }
 
-        public NewTodoViewModel(INavigationService navigationService, ITodoService todoService)
-        {
-            _navigationService = navigationService;
-            _todoService = todoService;
-        }
-
-        public void Initialize(INavigationParameters parameters)
+        public NewTodoViewModel(INavigationService navigationService, ITodoService todoService) : base(navigationService,todoService)
         {
         }
 

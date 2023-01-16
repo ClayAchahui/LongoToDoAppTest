@@ -11,20 +11,22 @@ using Prism.Navigation;
 
 namespace LongoToDo.Core.ViewModels
 {
-	public class TodoListViewModel : BindableBase, INavigatedAware
+	public class TodoListViewModel : BaseViewModel, INavigatedAware
     {
-		private INavigationService _navigationService;
-		private ITodoService _todoService;
 		private IDialogService _dialogService;
 
-		public TodoListViewModel(INavigationService navigationService ,ITodoService todoService, IDialogService dialogService)
+		public TodoListViewModel(
+			INavigationService navigationService ,
+			ITodoService todoService,
+			IDialogService dialogService):
+			base(navigationService, todoService)
 		{
-			_navigationService = navigationService;
-			_todoService = todoService;
 			_dialogService = dialogService;
 		}
 
-		private TodoItem _selectedItem;
+        #region Properties
+
+        private TodoItem _selectedItem;
 		public TodoItem SelectedItem
 		{
 			get { return _selectedItem; }
@@ -51,7 +53,21 @@ namespace LongoToDo.Core.ViewModels
 			set { SetProperty(ref _todoItems, value); }
 		}
 
-		private async Task GetAllTodos()
+        #endregion Properties
+
+        #region Commands
+
+        public ICommand CreateTodoCommand => new DelegateCommand(async () => await GoToCreateTodo());
+
+        public DelegateCommand<TodoItem> DeleteTodoCommand => new DelegateCommand<TodoItem>(DeleteTodo);
+
+        public ICommand RefreshCommand => new DelegateCommand(Refresh);
+
+        #endregion Commands
+
+        #region Methods
+
+        private async Task GetAllTodos()
 		{
 			IsRefreshing = true;
 			TodoItems = new ObservableCollection<TodoItem>(await _todoService.GetAll());
@@ -70,10 +86,7 @@ namespace LongoToDo.Core.ViewModels
 			await _dialogService.DisplayAlert($"ToDo item {todo.Name} has been deleted correctly", "Message", "Ok");
 		}
 
-        public void OnNavigatedFrom(INavigationParameters parameters)
-        {
-            throw new NotImplementedException();
-        }
+        public void OnNavigatedFrom(INavigationParameters parameters){ }
 
         public async void OnNavigatedTo(INavigationParameters parameters)
         {
@@ -92,11 +105,7 @@ namespace LongoToDo.Core.ViewModels
 			await GetAllTodos();
 		}
 
-        public ICommand CreateTodoCommand => new DelegateCommand(async () =>await GoToCreateTodo());
-
-        public DelegateCommand<TodoItem> DeleteTodoCommand => new DelegateCommand<TodoItem>(DeleteTodo);
-
-        public ICommand RefreshCommand => new DelegateCommand(Refresh);
+        #endregion Methods
     }
 }
 
