@@ -2,14 +2,16 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Threading.Tasks;
+using System.Windows.Input;
 using LongoToDo.Core.Models;
 using LongoToDo.Core.Services;
+using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Navigation;
 
 namespace LongoToDo.Core.ViewModels
 {
-	public class TodoListViewModel : BindableBase, IInitialize
+	public class TodoListViewModel : BindableBase, INavigatedAware
     {
 		private INavigationService _navigationService;
 		private ITodoService _todoService;
@@ -28,8 +30,8 @@ namespace LongoToDo.Core.ViewModels
 			set { SetProperty(ref _isBusy, value); }
 		}
 
-		private IEnumerable<TodoItem> _todoItems;
-		public IEnumerable<TodoItem> TodoItems
+		private ObservableCollection<TodoItem> _todoItems;
+		public ObservableCollection<TodoItem> TodoItems
 		{
 			get { return _todoItems; }
 			set { SetProperty(ref _todoItems, value); }
@@ -42,17 +44,29 @@ namespace LongoToDo.Core.ViewModels
 			Title = "Test";
 		}
 
-        public async void Initialize(INavigationParameters parameters)
-        {
-			await GetAllTodos();
-        }
-
 		private async Task GetAllTodos()
 		{
 			IsBusy = true;
-			TodoItems = await _todoService.GetAll();
+			TodoItems = new ObservableCollection<TodoItem>(await _todoService.GetAll());
 			IsBusy = false;
 		}
+
+		private async Task GoToCreateTodo()
+		{
+ 			await _navigationService.NavigateAsync("NewTodoPage");
+		}
+
+        public void OnNavigatedFrom(INavigationParameters parameters)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async void OnNavigatedTo(INavigationParameters parameters)
+        {
+            await GetAllTodos();
+        }
+
+        public ICommand CreateTodoCommand => new DelegateCommand(async () =>await GoToCreateTodo());
     }
 }
 
