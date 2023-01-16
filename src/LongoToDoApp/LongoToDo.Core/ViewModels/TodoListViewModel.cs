@@ -8,7 +8,6 @@ using LongoToDo.Core.Services;
 using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Navigation;
-using Prism.Services.Dialogs;
 
 namespace LongoToDo.Core.ViewModels
 {
@@ -17,6 +16,15 @@ namespace LongoToDo.Core.ViewModels
 		private INavigationService _navigationService;
 		private ITodoService _todoService;
 		private IDialogService _dialogService;
+
+		public TodoListViewModel(INavigationService navigationService ,ITodoService todoService, IDialogService dialogService)
+		{
+			_navigationService = navigationService;
+			_todoService = todoService;
+			_dialogService = dialogService;
+
+			Title = "Test";
+		}
 
 		private string _title;
 		public string Title
@@ -39,14 +47,6 @@ namespace LongoToDo.Core.ViewModels
 			set { SetProperty(ref _todoItems, value); }
 		}
 
-		public TodoListViewModel(INavigationService navigationService ,ITodoService todoService, IDialogService dialogService)
-		{
-			_navigationService = navigationService;
-			_todoService = todoService;
-			_dialogService = dialogService;
-			Title = "Test";
-		}
-
 		private async Task GetAllTodos()
 		{
 			IsBusy = true;
@@ -63,7 +63,7 @@ namespace LongoToDo.Core.ViewModels
 		{
 			await _todoService.Delete(todo.Key);
 			await GetAllTodos();
-			_dialogService.ShowDialog("Message", new DialogParameters($"ToDo item {todo.Name} has been deleted correctly"));
+			await _dialogService.DisplayAlert($"ToDo item {todo.Name} has been deleted correctly", "Message", "Ok");
 		}
 
         public void OnNavigatedFrom(INavigationParameters parameters)

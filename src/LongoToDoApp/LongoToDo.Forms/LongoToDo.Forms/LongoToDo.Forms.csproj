@@ -26,8 +26,10 @@
     <None Remove="Prism.Core" />
     <None Remove="Prism.Forms" />
     <None Remove="Prism.Unity.Forms" />
+    <None Remove="Services\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>
