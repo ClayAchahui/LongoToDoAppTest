@@ -8,6 +8,7 @@ using LongoToDo.Core.Services;
 using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Navigation;
+using Prism.Services.Dialogs;
 
 namespace LongoToDo.Core.ViewModels
 {
@@ -15,6 +16,7 @@ namespace LongoToDo.Core.ViewModels
     {
 		private INavigationService _navigationService;
 		private ITodoService _todoService;
+		private IDialogService _dialogService;
 
 		private string _title;
 		public string Title
@@ -37,10 +39,11 @@ namespace LongoToDo.Core.ViewModels
 			set { SetProperty(ref _todoItems, value); }
 		}
 
-		public TodoListViewModel(INavigationService navigationService ,ITodoService todoService)
+		public TodoListViewModel(INavigationService navigationService ,ITodoService todoService, IDialogService dialogService)
 		{
 			_navigationService = navigationService;
 			_todoService = todoService;
+			_dialogService = dialogService;
 			Title = "Test";
 		}
 
@@ -56,6 +59,13 @@ namespace LongoToDo.Core.ViewModels
  			await _navigationService.NavigateAsync("NewTodoPage");
 		}
 
+		private async void DeleteTodo(TodoItem todo)
+		{
+			await _todoService.Delete(todo.Key);
+			await GetAllTodos();
+			_dialogService.ShowDialog("Message", new DialogParameters($"ToDo item {todo.Name} has been deleted correctly"));
+		}
+
         public void OnNavigatedFrom(INavigationParameters parameters)
         {
             throw new NotImplementedException();
@@ -67,6 +77,7 @@ namespace LongoToDo.Core.ViewModels
         }
 
         public ICommand CreateTodoCommand => new DelegateCommand(async () =>await GoToCreateTodo());
+        public DelegateCommand<TodoItem> DeleteTodoCommand => new DelegateCommand<TodoItem>(DeleteTodo);
     }
 }
 

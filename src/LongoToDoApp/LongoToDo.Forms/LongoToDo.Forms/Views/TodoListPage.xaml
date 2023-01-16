@@ -9,16 +9,25 @@
     <ContentPage.Content>
         <StackLayout>
             <ListView
+                x:Name="listTodos"
                 SeparatorColor="Transparent"
                 SelectionMode="Single"
                 ItemsSource="{Binding TodoItems}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
+                            <ViewCell.ContextActions>
+                                <MenuItem
+                                    Text="Delete"
+                                    Command="{Binding BindingContext.DeleteTodoCommand, Source={x:Reference listTodos}}"
+                                    CommandParameter="{Binding .}"/>
+                            </ViewCell.ContextActions>
                             <Frame
-                                Margin="10,5"
-                                Padding="10">
+                                HeightRequest="50"
+                                Padding="0"
+                                Margin="10,5">
                                 <Label
+                                    Margin="5"
                                     VerticalOptions="Center"
                                     Text="{Binding Name}"/>
                             </Frame>

@@ -37,15 +37,24 @@ namespace LongoToDo.Core.Services
 
             await httpClient.PostAsync(Url, content);
         }
+
+        public async Task Delete(string id)
+        {
+            var uri = $"{Url}/{id}";
+
+            var httpClient = new HttpClient();
+
+            await httpClient.DeleteAsync(uri);
+        }
     }
 
     public class FakeTodoService : ITodoService
     {
-        List<TodoItem> items;
+        private List<TodoItem> _items;
 
         public FakeTodoService()
         {
-            items = new List<TodoItem>
+            _items = new List<TodoItem>
             {
                 new TodoItem { Key = Guid.NewGuid().ToString(), Name = "Call to mom", IsComplete = false },
 
@@ -59,14 +68,23 @@ namespace LongoToDo.Core.Services
         {
             await Task.Delay(1000);
 
-            return items;
+            return _items;
         }
 
         public async Task Add(TodoItem todo)
         {
             await Task.Delay(1000);
+            todo.Key = Guid.NewGuid().ToString();
+            _items.Add(todo);
+        }
 
-            items.Add(todo);
+        public async Task Delete(string id)
+        {
+            await Task.Delay(1000);
+
+            var item = _items.Where(x => x.Key.Equals(id)).FirstOrDefault();
+
+            _items.Remove(item);
         }
     }
 }

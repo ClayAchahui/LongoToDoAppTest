@@ -10,6 +10,8 @@ namespace LongoToDo.Core.Services
 		Task<List<TodoItem>> GetAll();
 
 		Task Add(TodoItem todo);
+
+		Task Delete(string id);
     }
 }
 
