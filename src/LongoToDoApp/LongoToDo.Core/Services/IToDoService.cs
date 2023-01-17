@@ -9,11 +9,11 @@ namespace LongoToDo.Core.Services
 	{
 		Task<List<TodoItem>> GetAll();
 
-		Task Add(TodoItem todo);
+		Task<TodoItem> Add(TodoItem todo);
 
-		Task Delete(string id);
+		Task<bool> Delete(string id);
 
-		Task Update(TodoItem todo);
+		Task<bool> Update(TodoItem todo);
     }
 }
 

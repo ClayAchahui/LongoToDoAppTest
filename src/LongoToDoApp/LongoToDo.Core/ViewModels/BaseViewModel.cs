@@ -9,11 +9,13 @@ namespace LongoToDo.Core.ViewModels
     {
         protected INavigationService _navigationService;
         protected ITodoService _todoService;
+        protected IDialogService _dialogService;
 
-        public BaseViewModel(INavigationService navigationService, ITodoService todoService)
+        public BaseViewModel(INavigationService navigationService, ITodoService todoService, IDialogService dialogService)
         {
             _navigationService = navigationService;
             _todoService = todoService;
+            _dialogService = dialogService;
         }
     }
 }

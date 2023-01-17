@@ -6,6 +6,7 @@ using Prism.Navigation;
 using System.Threading.Tasks;
 using LongoToDo.Core.Services;
 using LongoToDo.Core.Models;
+using LongoToDo.Core.Utils;
 
 namespace LongoToDo.Core.ViewModels
 {
@@ -18,8 +19,13 @@ namespace LongoToDo.Core.ViewModels
             set { SetProperty(ref _todoText, value); }
         }
 
-        public NewTodoViewModel(INavigationService navigationService, ITodoService todoService) : base(navigationService,todoService)
+        public NewTodoViewModel(
+            INavigationService navigationService,
+            ITodoService todoService,
+            IDialogService dialogService)
+            : base(navigationService,todoService,dialogService)
         {
+
         }
 
         private async Task CreateTodo()
@@ -27,9 +33,25 @@ namespace LongoToDo.Core.ViewModels
             if (!ValidateTodoText())
                 return;
 
-            await _todoService.Add(new TodoItem { Name = TodoText, IsComplete = false });
-            TodoText = string.Empty;
-            await _navigationService.GoBackAsync();
+            try
+            {
+                var response = await _todoService.Add(new TodoItem { Name = TodoText, IsComplete = false });
+
+                if (response != null)
+                {
+                    TodoText = string.Empty;
+                    await _navigationService.GoBackAsync();
+                }
+                else
+                {
+                    await _dialogService.DisplayAlert(Constants.Messages.NullResult, Constants.Messages.TitleMessage, Constants.Messages.OK);
+                }
+            }
+            catch (Exception ex)
+            {
+                await _dialogService.DisplayAlert(ex.Message, Constants.Messages.TitleMessage, Constants.Messages.OK);
+                //TODO: Track the error 
+            }
         }
 
         private bool ValidateTodoText()
