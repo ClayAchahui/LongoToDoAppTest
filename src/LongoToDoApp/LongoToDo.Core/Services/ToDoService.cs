@@ -6,59 +6,71 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using LongoToDo.Core.Models;
+using LongoToDo.Core.Utils;
 using Newtonsoft.Json;
 
 namespace LongoToDo.Core.Services
 {
 	public class TodoService : ITodoService
 	{
-        private string Url = "https://localhost:8080/api/Todo";
 
         public async Task<List<TodoItem>> GetAll()
         {
             var httpClient = new HttpClient();
+            var result = await httpClient.GetAsync(Constants.ApiUrl);
 
-            var json = await httpClient.GetStringAsync(Url);
+            if (result.IsSuccessStatusCode)
+            {
+                var json = await result.Content.ReadAsStringAsync();
+                var list = JsonConvert.DeserializeObject<List<TodoItem>>(json);
+                return list;
+            }
 
-            var result = JsonConvert.DeserializeObject<List<TodoItem>>(json);
-
-            return result;
+            return null;
         }
 
-        public async Task Add(TodoItem todo)
+        public async Task<TodoItem> Add(TodoItem todo)
         {
             var httpClient = new HttpClient();
-
-            var json = JsonConvert.SerializeObject(todo);
-
-            StringContent content = new StringContent(json);
-
+            var body = JsonConvert.SerializeObject(todo);
+            StringContent content = new StringContent(body);
             content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+            var result = await httpClient.PostAsync(Constants.ApiUrl, content);
 
-            await httpClient.PostAsync(Url, content);
+            if (result.IsSuccessStatusCode)
+            {
+                var json = await result.Content.ReadAsStringAsync();
+                var newTodo = JsonConvert.DeserializeObject<TodoItem>(json);
+            }
+
+            return null;
         }
 
-        public async Task Delete(string id)
+        public async Task<bool> Delete(string id)
         {
-            var uri = $"{Url}/{id}";
-
+            var uri = $"{Constants.ApiUrl}/{id}";
             var httpClient = new HttpClient();
+            var result = await httpClient.DeleteAsync(uri);
 
-            await httpClient.DeleteAsync(uri);
+            if (result.IsSuccessStatusCode)
+                return true;
+
+            return false;
         }
 
-        public async Task Update(TodoItem todo)
+        public async Task<bool> Update(TodoItem todo)
         {
-            var uri = $"{Url}/{todo.Key}";
+            var uri = $"{Constants.ApiUrl}/{todo.Key}";
             var httpClient = new HttpClient();
-
             var json = JsonConvert.SerializeObject(todo);
-
             StringContent content = new StringContent(json);
-
             content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
-
             var result = await httpClient.PutAsync(uri, content);
+
+            if (result.IsSuccessStatusCode)
+                return true;
+
+            return false;
         }
 
     }
@@ -86,23 +98,24 @@ namespace LongoToDo.Core.Services
             return _items;
         }
 
-        public async Task Add(TodoItem todo)
+        public async Task<TodoItem> Add(TodoItem todo)
         {
             await Task.Delay(500);
             todo.Key = Guid.NewGuid().ToString();
             _items.Add(todo);
+            return todo;
         }
 
-        public async Task Delete(string id)
+        public async Task<bool> Delete(string id)
         {
             await Task.Delay(500);
 
             var item = _items.Where(x => x.Key.Equals(id)).FirstOrDefault();
-
             _items.Remove(item);
+            return true;
         }
 
-        public async Task Update(TodoItem todo)
+        public async Task<bool> Update(TodoItem todo)
         {
             await Task.Delay(500);
 
@@ -111,6 +124,8 @@ namespace LongoToDo.Core.Services
                 if (x.Key.Equals(todo.Key))
                     x.IsComplete = todo.IsComplete;
             });
+
+            return true;
         }
     }
 }
