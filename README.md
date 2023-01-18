@@ -25,7 +25,7 @@ protected override void RegisterTypes(IContainerRegistry containerRegistry)
 
 ## Features
 
-###List the To Do items
+### List the To Do items
 
 After you run the app you will see a list of To Do items in the screen
 <br/>
