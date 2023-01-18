@@ -2,7 +2,7 @@
 LongoToDo is a To Do app that helps users keep a balanced life organizing themselves. This project is done using [Xamarin](https://learn.microsoft.com/es-es/xamarin/get-started/what-is-xamarin)
 
 
-##Installation
+## Installation
 - Clone the API repository
 ```bash
 $ git clone https://github.com/fluendo/ToDoAPI.git
@@ -23,7 +23,7 @@ protected override void RegisterTypes(IContainerRegistry containerRegistry)
 ````
 - If you don't change the paramater in the previous step the application will start using the fake service, but don't worry it'll work!
 
-##Features
+## Features
 
 ###List the To Do items
 
@@ -32,7 +32,7 @@ After you run the app you will see a list of To Do items in the screen
 <img src="https://github.com/ClayAchahui/LongoToDoAppTest/blob/main/images/list_todo.png" width="300">
 <br/>
 
-###Create a new To Do
+### Create a new To Do
 
 To create a new To Do item you can tap on the `new` button
 <br/>
@@ -48,7 +48,7 @@ and then tap on the `Create` button
 <br/>
 the app automatically will navigate back and the To Do item will appear.
 
-###Delete a To Do item
+### Delete a To Do item
 
 In order te delete a To Do item you have to tap over one item like for 1 second 
 <br/>
@@ -59,7 +59,7 @@ Tap over the `Delete` option and then you will see a message like the next scree
 <img src="https://github.com/ClayAchahui/LongoToDoAppTest/blob/main/images/delete2.png" width="300">
 <br/>
 
-###Complete To Do Item
+### Complete To Do Item
 
 In order te complete the task you just have to tap once over the item and check mark will appear
 <br/>
@@ -67,7 +67,7 @@ In order te complete the task you just have to tap once over the item and check 
 <br/>
 you can mark the To Do item like `done` or vice-versa if you like.
 
-###Refresh the To Do list
+### Refresh the To Do list
 
 Refresh the To Do list is easy, you just have to pull down :)
 
