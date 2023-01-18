@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="http://prismlibrary.com"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    x:Class="LongoToDo.Forms.Views.TodoListPage"
+    NavigationPage.HasNavigationBar="True">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame>
+                <Label Text="Longo To Do" FontSize="40" FontAttributes="Bold" TextColor="#809A4C"/>
+            </Frame>
+            <ListView
+                x:Name="listTodos"
+                SeparatorColor="Transparent"
+                SelectionMode="Single"
+                IsPullToRefreshEnabled="True"
+                RefreshCommand="{Binding RefreshCommand}"
+                IsRefreshing="{Binding IsRefreshing}"
+                SelectedItem="{Binding SelectedItem}"
+                ItemsSource="{Binding TodoItems}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.ContextActions>
+                                <MenuItem
+                                    Text="Delete"
+                                    Command="{Binding BindingContext.DeleteTodoCommand, Source={x:Reference listTodos}}"
+                                    CommandParameter="{Binding .}"/>
+                            </ViewCell.ContextActions>
+                            <Frame
+                                HeightRequest="50"
+                                Padding="0"
+                                Margin="10,5">
+                                <StackLayout Orientation="Horizontal" Padding="10,0">
+                                    <Label
+                                        Margin="5"
+                                        VerticalOptions="Center"
+                                        Text="{Binding Name}"/>
+                                    <Image
+                                        WidthRequest="15"
+                                        HorizontalOptions="EndAndExpand"
+                                        Source="ic_check.png"
+                                        IsVisible="{Binding IsComplete}"/>
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button
+                Text="New"
+                BackgroundColor="#809A4C"
+                Margin="10"
+                TextColor="White"
+                TextTransform="None"
+                Command="{Binding CreateTodoCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

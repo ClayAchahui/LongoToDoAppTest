@@ -8,17 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("LongoToDo.Forms.Views.ToDoListPage.xaml", "Views/ToDoListPage.xaml", typeof(global::LongoToDo.Forms.Views.ToDoListPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("LongoToDo.Forms.Views.TodoListPage.xaml", "Views/TodoListPage.xaml", typeof(global::LongoToDo.Forms.Views.TodoListPage))]
 
 namespace LongoToDo.Forms.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/ToDoListPage.xaml")]
-    public partial class ToDoListPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/TodoListPage.xaml")]
+    public partial class TodoListPage : global::Xamarin.Forms.ContentPage {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.ListView listTodos;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ToDoListPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(TodoListPage));
+            listTodos = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "listTodos");
         }
     }
 }

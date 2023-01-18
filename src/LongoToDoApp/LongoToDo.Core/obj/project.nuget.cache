@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "4ojrkuGQdbqXLLd3nChoYQC/jKzTYLEWzmeib9p3vfwr5ys1sb+J+vTmnjp2AEI4hpD8bSgLMi74LU4RCNT/KA==",
+  "dgSpecHash": "aF4zFddPM/TwHPSo6hKdfWiDnkYMPK0u1NHGq4eY6JIlkxYieBsBAImSSnlqjNaNYg7JV3yFoaTsP0S1DGv+qg==",
   "success": true,
   "projectFilePath": "/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Core/LongoToDo.Core.csproj",
   "expectedPackageFiles": [
     "/Users/carlinyahuiraachahui/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/carlinyahuiraachahui/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/carlinyahuiraachahui/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/carlinyahuiraachahui/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/carlinyahuiraachahui/.nuget/packages/prism.core/8.1.97/prism.core.8.1.97.nupkg.sha512",
+    "/Users/carlinyahuiraachahui/.nuget/packages/prism.forms/8.1.97/prism.forms.8.1.97.nupkg.sha512",
+    "/Users/carlinyahuiraachahui/.nuget/packages/xamarin.forms/5.0.0.2545/xamarin.forms.5.0.0.2545.nupkg.sha512"
   ],
   "logs": []
 }

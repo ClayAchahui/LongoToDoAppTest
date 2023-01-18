@@ -7,10 +7,22 @@
   <ItemGroup>
     <None Remove="ViewModels\" />
     <None Remove="Autofac" />
-    <None Remove="Services\" />
+    <None Remove="Models\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="Xamarin.Forms" />
+    <None Remove="Prism.Core" />
+    <None Remove="Prism.Forms" />
+    <None Remove="Utils\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewModels\" />
-    <Folder Include="Services\" />
+    <Folder Include="Models\" />
+    <Folder Include="Utils\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2545" />
+    <PackageReference Include="Prism.Core" Version="8.1.97" />
+    <PackageReference Include="Prism.Forms" Version="8.1.97" />
   </ItemGroup>
 </Project>

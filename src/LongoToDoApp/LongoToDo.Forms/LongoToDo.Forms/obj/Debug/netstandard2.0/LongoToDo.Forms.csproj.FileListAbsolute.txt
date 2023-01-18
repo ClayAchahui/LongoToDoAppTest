@@ -15,3 +15,4 @@
 /Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/bin/Debug/netstandard2.0/LongoToDo.Core.pdb
 /Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/LongoToDo.Forms.csproj.CopyComplete
 /Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/Views/ToDoListPage.xaml.g.cs
+/Users/carlinyahuiraachahui/Downloads/Projects/Fluendo/LongoToDoAppTest/src/LongoToDoApp/LongoToDo.Forms/LongoToDo.Forms/obj/Debug/netstandard2.0/Views/CreateTodoItem.xaml.g.cs

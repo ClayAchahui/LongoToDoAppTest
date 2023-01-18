@@ -1,17 +1,21 @@
 ﻿using System;
-using System.ComponentModel;
+using LongoToDo.Core.Services;
+using Prism.Mvvm;
+using Prism.Navigation;
 
 namespace LongoToDo.Core.ViewModels
 {
-	public class BaseViewModel : INotifyPropertyChanged
-	{
-        public event PropertyChangedEventHandler PropertyChanged;
+	public class BaseViewModel : BindableBase
+    {
+        protected INavigationService _navigationService;
+        protected ITodoService _todoService;
+        protected IDialogService _dialogService;
 
-        protected void OnPropertyChanged(string propertyName)
+        public BaseViewModel(INavigationService navigationService, ITodoService todoService, IDialogService dialogService)
         {
-            var handler = PropertyChanged;
-            if (handler != null)
-                handler(this, new PropertyChangedEventArgs(propertyName));
+            _navigationService = navigationService;
+            _todoService = todoService;
+            _dialogService = dialogService;
         }
     }
 }

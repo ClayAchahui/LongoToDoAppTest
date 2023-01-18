@@ -26,6 +26,3609 @@ namespace LongoToDo.Forms.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Prism.Resource.Animation.abc_fade_in = global::LongoToDo.Forms.Droid.Resource.Animation.abc_fade_in;
+			global::Prism.Resource.Animation.abc_fade_out = global::LongoToDo.Forms.Droid.Resource.Animation.abc_fade_out;
+			global::Prism.Resource.Animation.abc_grow_fade_in_from_bottom = global::LongoToDo.Forms.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Prism.Resource.Animation.abc_popup_enter = global::LongoToDo.Forms.Droid.Resource.Animation.abc_popup_enter;
+			global::Prism.Resource.Animation.abc_popup_exit = global::LongoToDo.Forms.Droid.Resource.Animation.abc_popup_exit;
+			global::Prism.Resource.Animation.abc_shrink_fade_out_from_bottom = global::LongoToDo.Forms.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Prism.Resource.Animation.abc_slide_in_bottom = global::LongoToDo.Forms.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Prism.Resource.Animation.abc_slide_in_top = global::LongoToDo.Forms.Droid.Resource.Animation.abc_slide_in_top;
+			global::Prism.Resource.Animation.abc_slide_out_bottom = global::LongoToDo.Forms.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Prism.Resource.Animation.abc_slide_out_top = global::LongoToDo.Forms.Droid.Resource.Animation.abc_slide_out_top;
+			global::Prism.Resource.Animation.abc_tooltip_enter = global::LongoToDo.Forms.Droid.Resource.Animation.abc_tooltip_enter;
+			global::Prism.Resource.Animation.abc_tooltip_exit = global::LongoToDo.Forms.Droid.Resource.Animation.abc_tooltip_exit;
+			global::Prism.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::Prism.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::Prism.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::Prism.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::Prism.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::Prism.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::Prism.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::Prism.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::Prism.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::Prism.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::Prism.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::Prism.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::LongoToDo.Forms.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::Prism.Resource.Animation.design_bottom_sheet_slide_in = global::LongoToDo.Forms.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Prism.Resource.Animation.design_bottom_sheet_slide_out = global::LongoToDo.Forms.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Prism.Resource.Animation.design_snackbar_in = global::LongoToDo.Forms.Droid.Resource.Animation.design_snackbar_in;
+			global::Prism.Resource.Animation.design_snackbar_out = global::LongoToDo.Forms.Droid.Resource.Animation.design_snackbar_out;
+			global::Prism.Resource.Animation.EnterFromLeft = global::LongoToDo.Forms.Droid.Resource.Animation.EnterFromLeft;
+			global::Prism.Resource.Animation.EnterFromRight = global::LongoToDo.Forms.Droid.Resource.Animation.EnterFromRight;
+			global::Prism.Resource.Animation.ExitToLeft = global::LongoToDo.Forms.Droid.Resource.Animation.ExitToLeft;
+			global::Prism.Resource.Animation.ExitToRight = global::LongoToDo.Forms.Droid.Resource.Animation.ExitToRight;
+			global::Prism.Resource.Animation.fragment_fast_out_extra_slow_in = global::LongoToDo.Forms.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::Prism.Resource.Animation.mtrl_bottom_sheet_slide_in = global::LongoToDo.Forms.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
+			global::Prism.Resource.Animation.mtrl_bottom_sheet_slide_out = global::LongoToDo.Forms.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
+			global::Prism.Resource.Animation.mtrl_card_lowers_interpolator = global::LongoToDo.Forms.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
+			global::Prism.Resource.Animator.design_appbar_state_list_animator = global::LongoToDo.Forms.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Prism.Resource.Animator.design_fab_hide_motion_spec = global::LongoToDo.Forms.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::Prism.Resource.Animator.design_fab_show_motion_spec = global::LongoToDo.Forms.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::Prism.Resource.Animator.mtrl_btn_state_list_anim = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Prism.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Prism.Resource.Animator.mtrl_card_state_list_anim = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_card_state_list_anim;
+			global::Prism.Resource.Animator.mtrl_chip_state_list_anim = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Prism.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
+			global::Prism.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
+			global::Prism.Resource.Animator.mtrl_extended_fab_state_list_animator = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
+			global::Prism.Resource.Animator.mtrl_fab_hide_motion_spec = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Prism.Resource.Animator.mtrl_fab_show_motion_spec = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Prism.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Prism.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::LongoToDo.Forms.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Prism.Resource.Attribute.actionBarDivider = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarDivider;
+			global::Prism.Resource.Attribute.actionBarItemBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Prism.Resource.Attribute.actionBarPopupTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Prism.Resource.Attribute.actionBarSize = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarSize;
+			global::Prism.Resource.Attribute.actionBarSplitStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Prism.Resource.Attribute.actionBarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarStyle;
+			global::Prism.Resource.Attribute.actionBarTabBarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Prism.Resource.Attribute.actionBarTabStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Prism.Resource.Attribute.actionBarTabTextStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Prism.Resource.Attribute.actionBarTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarTheme;
+			global::Prism.Resource.Attribute.actionBarWidgetTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Prism.Resource.Attribute.actionButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionButtonStyle;
+			global::Prism.Resource.Attribute.actionDropDownStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Prism.Resource.Attribute.actionLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.actionLayout;
+			global::Prism.Resource.Attribute.actionMenuTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Prism.Resource.Attribute.actionMenuTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Prism.Resource.Attribute.actionModeBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeBackground;
+			global::Prism.Resource.Attribute.actionModeCloseButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Prism.Resource.Attribute.actionModeCloseDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Prism.Resource.Attribute.actionModeCopyDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Prism.Resource.Attribute.actionModeCutDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Prism.Resource.Attribute.actionModeFindDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Prism.Resource.Attribute.actionModePasteDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Prism.Resource.Attribute.actionModePopupWindowStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Prism.Resource.Attribute.actionModeSelectAllDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Prism.Resource.Attribute.actionModeShareDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Prism.Resource.Attribute.actionModeSplitBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Prism.Resource.Attribute.actionModeStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeStyle;
+			global::Prism.Resource.Attribute.actionModeWebSearchDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Prism.Resource.Attribute.actionOverflowButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Prism.Resource.Attribute.actionOverflowMenuStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Prism.Resource.Attribute.actionProviderClass = global::LongoToDo.Forms.Droid.Resource.Attribute.actionProviderClass;
+			global::Prism.Resource.Attribute.actionTextColorAlpha = global::LongoToDo.Forms.Droid.Resource.Attribute.actionTextColorAlpha;
+			global::Prism.Resource.Attribute.actionViewClass = global::LongoToDo.Forms.Droid.Resource.Attribute.actionViewClass;
+			global::Prism.Resource.Attribute.activityChooserViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Prism.Resource.Attribute.alertDialogButtonGroupStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Prism.Resource.Attribute.alertDialogCenterButtons = global::LongoToDo.Forms.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Prism.Resource.Attribute.alertDialogStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.alertDialogStyle;
+			global::Prism.Resource.Attribute.alertDialogTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.alertDialogTheme;
+			global::Prism.Resource.Attribute.allowStacking = global::LongoToDo.Forms.Droid.Resource.Attribute.allowStacking;
+			global::Prism.Resource.Attribute.alpha = global::LongoToDo.Forms.Droid.Resource.Attribute.alpha;
+			global::Prism.Resource.Attribute.alphabeticModifiers = global::LongoToDo.Forms.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Prism.Resource.Attribute.animationMode = global::LongoToDo.Forms.Droid.Resource.Attribute.animationMode;
+			global::Prism.Resource.Attribute.appBarLayoutStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.appBarLayoutStyle;
+			global::Prism.Resource.Attribute.arrowHeadLength = global::LongoToDo.Forms.Droid.Resource.Attribute.arrowHeadLength;
+			global::Prism.Resource.Attribute.arrowShaftLength = global::LongoToDo.Forms.Droid.Resource.Attribute.arrowShaftLength;
+			global::Prism.Resource.Attribute.autoCompleteTextViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Prism.Resource.Attribute.autoSizeMaxTextSize = global::LongoToDo.Forms.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Prism.Resource.Attribute.autoSizeMinTextSize = global::LongoToDo.Forms.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Prism.Resource.Attribute.autoSizePresetSizes = global::LongoToDo.Forms.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Prism.Resource.Attribute.autoSizeStepGranularity = global::LongoToDo.Forms.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Prism.Resource.Attribute.autoSizeTextType = global::LongoToDo.Forms.Droid.Resource.Attribute.autoSizeTextType;
+			global::Prism.Resource.Attribute.background = global::LongoToDo.Forms.Droid.Resource.Attribute.background;
+			global::Prism.Resource.Attribute.backgroundColor = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundColor;
+			global::Prism.Resource.Attribute.backgroundInsetBottom = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundInsetBottom;
+			global::Prism.Resource.Attribute.backgroundInsetEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundInsetEnd;
+			global::Prism.Resource.Attribute.backgroundInsetStart = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundInsetStart;
+			global::Prism.Resource.Attribute.backgroundInsetTop = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundInsetTop;
+			global::Prism.Resource.Attribute.backgroundOverlayColorAlpha = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
+			global::Prism.Resource.Attribute.backgroundSplit = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundSplit;
+			global::Prism.Resource.Attribute.backgroundStacked = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundStacked;
+			global::Prism.Resource.Attribute.backgroundTint = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundTint;
+			global::Prism.Resource.Attribute.backgroundTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.backgroundTintMode;
+			global::Prism.Resource.Attribute.badgeGravity = global::LongoToDo.Forms.Droid.Resource.Attribute.badgeGravity;
+			global::Prism.Resource.Attribute.badgeStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.badgeStyle;
+			global::Prism.Resource.Attribute.badgeTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.badgeTextColor;
+			global::Prism.Resource.Attribute.barLength = global::LongoToDo.Forms.Droid.Resource.Attribute.barLength;
+			global::Prism.Resource.Attribute.behavior_autoHide = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_autoHide;
+			global::Prism.Resource.Attribute.behavior_autoShrink = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_autoShrink;
+			global::Prism.Resource.Attribute.behavior_draggable = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_draggable;
+			global::Prism.Resource.Attribute.behavior_expandedOffset = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_expandedOffset;
+			global::Prism.Resource.Attribute.behavior_fitToContents = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_fitToContents;
+			global::Prism.Resource.Attribute.behavior_halfExpandedRatio = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_halfExpandedRatio;
+			global::Prism.Resource.Attribute.behavior_hideable = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_hideable;
+			global::Prism.Resource.Attribute.behavior_overlapTop = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Prism.Resource.Attribute.behavior_peekHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Prism.Resource.Attribute.behavior_saveFlags = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_saveFlags;
+			global::Prism.Resource.Attribute.behavior_skipCollapsed = global::LongoToDo.Forms.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Prism.Resource.Attribute.borderlessButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Prism.Resource.Attribute.borderWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.borderWidth;
+			global::Prism.Resource.Attribute.bottomAppBarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::Prism.Resource.Attribute.bottomNavigationStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::Prism.Resource.Attribute.bottomSheetDialogTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Prism.Resource.Attribute.bottomSheetStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Prism.Resource.Attribute.boxBackgroundColor = global::LongoToDo.Forms.Droid.Resource.Attribute.boxBackgroundColor;
+			global::Prism.Resource.Attribute.boxBackgroundMode = global::LongoToDo.Forms.Droid.Resource.Attribute.boxBackgroundMode;
+			global::Prism.Resource.Attribute.boxCollapsedPaddingTop = global::LongoToDo.Forms.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Prism.Resource.Attribute.boxCornerRadiusBottomEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Prism.Resource.Attribute.boxCornerRadiusBottomStart = global::LongoToDo.Forms.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Prism.Resource.Attribute.boxCornerRadiusTopEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Prism.Resource.Attribute.boxCornerRadiusTopStart = global::LongoToDo.Forms.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Prism.Resource.Attribute.boxStrokeColor = global::LongoToDo.Forms.Droid.Resource.Attribute.boxStrokeColor;
+			global::Prism.Resource.Attribute.boxStrokeErrorColor = global::LongoToDo.Forms.Droid.Resource.Attribute.boxStrokeErrorColor;
+			global::Prism.Resource.Attribute.boxStrokeWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.boxStrokeWidth;
+			global::Prism.Resource.Attribute.boxStrokeWidthFocused = global::LongoToDo.Forms.Droid.Resource.Attribute.boxStrokeWidthFocused;
+			global::Prism.Resource.Attribute.buttonBarButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarNegativeButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarNeutralButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarPositiveButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonBarStyle;
+			global::Prism.Resource.Attribute.buttonCompat = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonCompat;
+			global::Prism.Resource.Attribute.buttonGravity = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonGravity;
+			global::Prism.Resource.Attribute.buttonIconDimen = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonIconDimen;
+			global::Prism.Resource.Attribute.buttonPanelSideLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Prism.Resource.Attribute.buttonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonStyle;
+			global::Prism.Resource.Attribute.buttonStyleSmall = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Prism.Resource.Attribute.buttonTint = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonTint;
+			global::Prism.Resource.Attribute.buttonTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.buttonTintMode;
+			global::Prism.Resource.Attribute.cardBackgroundColor = global::LongoToDo.Forms.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Prism.Resource.Attribute.cardCornerRadius = global::LongoToDo.Forms.Droid.Resource.Attribute.cardCornerRadius;
+			global::Prism.Resource.Attribute.cardElevation = global::LongoToDo.Forms.Droid.Resource.Attribute.cardElevation;
+			global::Prism.Resource.Attribute.cardForegroundColor = global::LongoToDo.Forms.Droid.Resource.Attribute.cardForegroundColor;
+			global::Prism.Resource.Attribute.cardMaxElevation = global::LongoToDo.Forms.Droid.Resource.Attribute.cardMaxElevation;
+			global::Prism.Resource.Attribute.cardPreventCornerOverlap = global::LongoToDo.Forms.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Prism.Resource.Attribute.cardUseCompatPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Prism.Resource.Attribute.cardViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.cardViewStyle;
+			global::Prism.Resource.Attribute.checkboxStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.checkboxStyle;
+			global::Prism.Resource.Attribute.checkedButton = global::LongoToDo.Forms.Droid.Resource.Attribute.checkedButton;
+			global::Prism.Resource.Attribute.checkedChip = global::LongoToDo.Forms.Droid.Resource.Attribute.checkedChip;
+			global::Prism.Resource.Attribute.checkedIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.checkedIcon;
+			global::Prism.Resource.Attribute.checkedIconEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.checkedIconEnabled;
+			global::Prism.Resource.Attribute.checkedIconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.checkedIconTint;
+			global::Prism.Resource.Attribute.checkedIconVisible = global::LongoToDo.Forms.Droid.Resource.Attribute.checkedIconVisible;
+			global::Prism.Resource.Attribute.checkedTextViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Prism.Resource.Attribute.chipBackgroundColor = global::LongoToDo.Forms.Droid.Resource.Attribute.chipBackgroundColor;
+			global::Prism.Resource.Attribute.chipCornerRadius = global::LongoToDo.Forms.Droid.Resource.Attribute.chipCornerRadius;
+			global::Prism.Resource.Attribute.chipEndPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.chipEndPadding;
+			global::Prism.Resource.Attribute.chipGroupStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.chipGroupStyle;
+			global::Prism.Resource.Attribute.chipIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.chipIcon;
+			global::Prism.Resource.Attribute.chipIconEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.chipIconEnabled;
+			global::Prism.Resource.Attribute.chipIconSize = global::LongoToDo.Forms.Droid.Resource.Attribute.chipIconSize;
+			global::Prism.Resource.Attribute.chipIconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.chipIconTint;
+			global::Prism.Resource.Attribute.chipIconVisible = global::LongoToDo.Forms.Droid.Resource.Attribute.chipIconVisible;
+			global::Prism.Resource.Attribute.chipMinHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.chipMinHeight;
+			global::Prism.Resource.Attribute.chipMinTouchTargetSize = global::LongoToDo.Forms.Droid.Resource.Attribute.chipMinTouchTargetSize;
+			global::Prism.Resource.Attribute.chipSpacing = global::LongoToDo.Forms.Droid.Resource.Attribute.chipSpacing;
+			global::Prism.Resource.Attribute.chipSpacingHorizontal = global::LongoToDo.Forms.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::Prism.Resource.Attribute.chipSpacingVertical = global::LongoToDo.Forms.Droid.Resource.Attribute.chipSpacingVertical;
+			global::Prism.Resource.Attribute.chipStandaloneStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::Prism.Resource.Attribute.chipStartPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.chipStartPadding;
+			global::Prism.Resource.Attribute.chipStrokeColor = global::LongoToDo.Forms.Droid.Resource.Attribute.chipStrokeColor;
+			global::Prism.Resource.Attribute.chipStrokeWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.chipStrokeWidth;
+			global::Prism.Resource.Attribute.chipStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.chipStyle;
+			global::Prism.Resource.Attribute.chipSurfaceColor = global::LongoToDo.Forms.Droid.Resource.Attribute.chipSurfaceColor;
+			global::Prism.Resource.Attribute.closeIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.closeIcon;
+			global::Prism.Resource.Attribute.closeIconEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.closeIconEnabled;
+			global::Prism.Resource.Attribute.closeIconEndPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.closeIconEndPadding;
+			global::Prism.Resource.Attribute.closeIconSize = global::LongoToDo.Forms.Droid.Resource.Attribute.closeIconSize;
+			global::Prism.Resource.Attribute.closeIconStartPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.closeIconStartPadding;
+			global::Prism.Resource.Attribute.closeIconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.closeIconTint;
+			global::Prism.Resource.Attribute.closeIconVisible = global::LongoToDo.Forms.Droid.Resource.Attribute.closeIconVisible;
+			global::Prism.Resource.Attribute.closeItemLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.closeItemLayout;
+			global::Prism.Resource.Attribute.collapseContentDescription = global::LongoToDo.Forms.Droid.Resource.Attribute.collapseContentDescription;
+			global::Prism.Resource.Attribute.collapsedTitleGravity = global::LongoToDo.Forms.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Prism.Resource.Attribute.collapsedTitleTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Prism.Resource.Attribute.collapseIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.collapseIcon;
+			global::Prism.Resource.Attribute.collectionViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.collectionViewStyle;
+			global::Prism.Resource.Attribute.color = global::LongoToDo.Forms.Droid.Resource.Attribute.color;
+			global::Prism.Resource.Attribute.colorAccent = global::LongoToDo.Forms.Droid.Resource.Attribute.colorAccent;
+			global::Prism.Resource.Attribute.colorBackgroundFloating = global::LongoToDo.Forms.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Prism.Resource.Attribute.colorButtonNormal = global::LongoToDo.Forms.Droid.Resource.Attribute.colorButtonNormal;
+			global::Prism.Resource.Attribute.colorControlActivated = global::LongoToDo.Forms.Droid.Resource.Attribute.colorControlActivated;
+			global::Prism.Resource.Attribute.colorControlHighlight = global::LongoToDo.Forms.Droid.Resource.Attribute.colorControlHighlight;
+			global::Prism.Resource.Attribute.colorControlNormal = global::LongoToDo.Forms.Droid.Resource.Attribute.colorControlNormal;
+			global::Prism.Resource.Attribute.colorError = global::LongoToDo.Forms.Droid.Resource.Attribute.colorError;
+			global::Prism.Resource.Attribute.colorOnBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.colorOnBackground;
+			global::Prism.Resource.Attribute.colorOnError = global::LongoToDo.Forms.Droid.Resource.Attribute.colorOnError;
+			global::Prism.Resource.Attribute.colorOnPrimary = global::LongoToDo.Forms.Droid.Resource.Attribute.colorOnPrimary;
+			global::Prism.Resource.Attribute.colorOnPrimarySurface = global::LongoToDo.Forms.Droid.Resource.Attribute.colorOnPrimarySurface;
+			global::Prism.Resource.Attribute.colorOnSecondary = global::LongoToDo.Forms.Droid.Resource.Attribute.colorOnSecondary;
+			global::Prism.Resource.Attribute.colorOnSurface = global::LongoToDo.Forms.Droid.Resource.Attribute.colorOnSurface;
+			global::Prism.Resource.Attribute.colorPrimary = global::LongoToDo.Forms.Droid.Resource.Attribute.colorPrimary;
+			global::Prism.Resource.Attribute.colorPrimaryDark = global::LongoToDo.Forms.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Prism.Resource.Attribute.colorPrimarySurface = global::LongoToDo.Forms.Droid.Resource.Attribute.colorPrimarySurface;
+			global::Prism.Resource.Attribute.colorPrimaryVariant = global::LongoToDo.Forms.Droid.Resource.Attribute.colorPrimaryVariant;
+			global::Prism.Resource.Attribute.colorSecondary = global::LongoToDo.Forms.Droid.Resource.Attribute.colorSecondary;
+			global::Prism.Resource.Attribute.colorSecondaryVariant = global::LongoToDo.Forms.Droid.Resource.Attribute.colorSecondaryVariant;
+			global::Prism.Resource.Attribute.colorSurface = global::LongoToDo.Forms.Droid.Resource.Attribute.colorSurface;
+			global::Prism.Resource.Attribute.colorSwitchThumbNormal = global::LongoToDo.Forms.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Prism.Resource.Attribute.commitIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.commitIcon;
+			global::Prism.Resource.Attribute.contentDescription = global::LongoToDo.Forms.Droid.Resource.Attribute.contentDescription;
+			global::Prism.Resource.Attribute.contentInsetEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.contentInsetEnd;
+			global::Prism.Resource.Attribute.contentInsetEndWithActions = global::LongoToDo.Forms.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Prism.Resource.Attribute.contentInsetLeft = global::LongoToDo.Forms.Droid.Resource.Attribute.contentInsetLeft;
+			global::Prism.Resource.Attribute.contentInsetRight = global::LongoToDo.Forms.Droid.Resource.Attribute.contentInsetRight;
+			global::Prism.Resource.Attribute.contentInsetStart = global::LongoToDo.Forms.Droid.Resource.Attribute.contentInsetStart;
+			global::Prism.Resource.Attribute.contentInsetStartWithNavigation = global::LongoToDo.Forms.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Prism.Resource.Attribute.contentPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.contentPadding;
+			global::Prism.Resource.Attribute.contentPaddingBottom = global::LongoToDo.Forms.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Prism.Resource.Attribute.contentPaddingLeft = global::LongoToDo.Forms.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Prism.Resource.Attribute.contentPaddingRight = global::LongoToDo.Forms.Droid.Resource.Attribute.contentPaddingRight;
+			global::Prism.Resource.Attribute.contentPaddingTop = global::LongoToDo.Forms.Droid.Resource.Attribute.contentPaddingTop;
+			global::Prism.Resource.Attribute.contentScrim = global::LongoToDo.Forms.Droid.Resource.Attribute.contentScrim;
+			global::Prism.Resource.Attribute.controlBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.controlBackground;
+			global::Prism.Resource.Attribute.coordinatorLayoutStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Prism.Resource.Attribute.cornerFamily = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerFamily;
+			global::Prism.Resource.Attribute.cornerFamilyBottomLeft = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerFamilyBottomLeft;
+			global::Prism.Resource.Attribute.cornerFamilyBottomRight = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerFamilyBottomRight;
+			global::Prism.Resource.Attribute.cornerFamilyTopLeft = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerFamilyTopLeft;
+			global::Prism.Resource.Attribute.cornerFamilyTopRight = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerFamilyTopRight;
+			global::Prism.Resource.Attribute.cornerRadius = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerRadius;
+			global::Prism.Resource.Attribute.cornerSize = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerSize;
+			global::Prism.Resource.Attribute.cornerSizeBottomLeft = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerSizeBottomLeft;
+			global::Prism.Resource.Attribute.cornerSizeBottomRight = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerSizeBottomRight;
+			global::Prism.Resource.Attribute.cornerSizeTopLeft = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerSizeTopLeft;
+			global::Prism.Resource.Attribute.cornerSizeTopRight = global::LongoToDo.Forms.Droid.Resource.Attribute.cornerSizeTopRight;
+			global::Prism.Resource.Attribute.counterEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.counterEnabled;
+			global::Prism.Resource.Attribute.counterMaxLength = global::LongoToDo.Forms.Droid.Resource.Attribute.counterMaxLength;
+			global::Prism.Resource.Attribute.counterOverflowTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Prism.Resource.Attribute.counterOverflowTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.counterOverflowTextColor;
+			global::Prism.Resource.Attribute.counterTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.counterTextAppearance;
+			global::Prism.Resource.Attribute.counterTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.counterTextColor;
+			global::Prism.Resource.Attribute.customNavigationLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.customNavigationLayout;
+			global::Prism.Resource.Attribute.dayInvalidStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.dayInvalidStyle;
+			global::Prism.Resource.Attribute.daySelectedStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.daySelectedStyle;
+			global::Prism.Resource.Attribute.dayStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.dayStyle;
+			global::Prism.Resource.Attribute.dayTodayStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.dayTodayStyle;
+			global::Prism.Resource.Attribute.defaultQueryHint = global::LongoToDo.Forms.Droid.Resource.Attribute.defaultQueryHint;
+			global::Prism.Resource.Attribute.dialogCornerRadius = global::LongoToDo.Forms.Droid.Resource.Attribute.dialogCornerRadius;
+			global::Prism.Resource.Attribute.dialogPreferredPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Prism.Resource.Attribute.dialogTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.dialogTheme;
+			global::Prism.Resource.Attribute.displayOptions = global::LongoToDo.Forms.Droid.Resource.Attribute.displayOptions;
+			global::Prism.Resource.Attribute.divider = global::LongoToDo.Forms.Droid.Resource.Attribute.divider;
+			global::Prism.Resource.Attribute.dividerHorizontal = global::LongoToDo.Forms.Droid.Resource.Attribute.dividerHorizontal;
+			global::Prism.Resource.Attribute.dividerPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.dividerPadding;
+			global::Prism.Resource.Attribute.dividerVertical = global::LongoToDo.Forms.Droid.Resource.Attribute.dividerVertical;
+			global::Prism.Resource.Attribute.drawableBottomCompat = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableBottomCompat;
+			global::Prism.Resource.Attribute.drawableEndCompat = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableEndCompat;
+			global::Prism.Resource.Attribute.drawableLeftCompat = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableLeftCompat;
+			global::Prism.Resource.Attribute.drawableRightCompat = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableRightCompat;
+			global::Prism.Resource.Attribute.drawableSize = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableSize;
+			global::Prism.Resource.Attribute.drawableStartCompat = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableStartCompat;
+			global::Prism.Resource.Attribute.drawableTint = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableTint;
+			global::Prism.Resource.Attribute.drawableTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableTintMode;
+			global::Prism.Resource.Attribute.drawableTopCompat = global::LongoToDo.Forms.Droid.Resource.Attribute.drawableTopCompat;
+			global::Prism.Resource.Attribute.drawerArrowStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Prism.Resource.Attribute.drawerLayoutStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.drawerLayoutStyle;
+			global::Prism.Resource.Attribute.dropdownListPreferredItemHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Prism.Resource.Attribute.dropDownListViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Prism.Resource.Attribute.editTextBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.editTextBackground;
+			global::Prism.Resource.Attribute.editTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.editTextColor;
+			global::Prism.Resource.Attribute.editTextStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.editTextStyle;
+			global::Prism.Resource.Attribute.elevation = global::LongoToDo.Forms.Droid.Resource.Attribute.elevation;
+			global::Prism.Resource.Attribute.elevationOverlayColor = global::LongoToDo.Forms.Droid.Resource.Attribute.elevationOverlayColor;
+			global::Prism.Resource.Attribute.elevationOverlayEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.elevationOverlayEnabled;
+			global::Prism.Resource.Attribute.endIconCheckable = global::LongoToDo.Forms.Droid.Resource.Attribute.endIconCheckable;
+			global::Prism.Resource.Attribute.endIconContentDescription = global::LongoToDo.Forms.Droid.Resource.Attribute.endIconContentDescription;
+			global::Prism.Resource.Attribute.endIconDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.endIconDrawable;
+			global::Prism.Resource.Attribute.endIconMode = global::LongoToDo.Forms.Droid.Resource.Attribute.endIconMode;
+			global::Prism.Resource.Attribute.endIconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.endIconTint;
+			global::Prism.Resource.Attribute.endIconTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.endIconTintMode;
+			global::Prism.Resource.Attribute.enforceMaterialTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::Prism.Resource.Attribute.enforceTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.enforceTextAppearance;
+			global::Prism.Resource.Attribute.ensureMinTouchTargetSize = global::LongoToDo.Forms.Droid.Resource.Attribute.ensureMinTouchTargetSize;
+			global::Prism.Resource.Attribute.errorContentDescription = global::LongoToDo.Forms.Droid.Resource.Attribute.errorContentDescription;
+			global::Prism.Resource.Attribute.errorEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.errorEnabled;
+			global::Prism.Resource.Attribute.errorIconDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.errorIconDrawable;
+			global::Prism.Resource.Attribute.errorIconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.errorIconTint;
+			global::Prism.Resource.Attribute.errorIconTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.errorIconTintMode;
+			global::Prism.Resource.Attribute.errorTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.errorTextAppearance;
+			global::Prism.Resource.Attribute.errorTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.errorTextColor;
+			global::Prism.Resource.Attribute.expandActivityOverflowButtonDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Prism.Resource.Attribute.expanded = global::LongoToDo.Forms.Droid.Resource.Attribute.expanded;
+			global::Prism.Resource.Attribute.expandedTitleGravity = global::LongoToDo.Forms.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Prism.Resource.Attribute.expandedTitleMargin = global::LongoToDo.Forms.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Prism.Resource.Attribute.expandedTitleMarginBottom = global::LongoToDo.Forms.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Prism.Resource.Attribute.expandedTitleMarginEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Prism.Resource.Attribute.expandedTitleMarginStart = global::LongoToDo.Forms.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Prism.Resource.Attribute.expandedTitleMarginTop = global::LongoToDo.Forms.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Prism.Resource.Attribute.expandedTitleTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Prism.Resource.Attribute.extendedFloatingActionButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
+			global::Prism.Resource.Attribute.extendMotionSpec = global::LongoToDo.Forms.Droid.Resource.Attribute.extendMotionSpec;
+			global::Prism.Resource.Attribute.fabAlignmentMode = global::LongoToDo.Forms.Droid.Resource.Attribute.fabAlignmentMode;
+			global::Prism.Resource.Attribute.fabAnimationMode = global::LongoToDo.Forms.Droid.Resource.Attribute.fabAnimationMode;
+			global::Prism.Resource.Attribute.fabCradleMargin = global::LongoToDo.Forms.Droid.Resource.Attribute.fabCradleMargin;
+			global::Prism.Resource.Attribute.fabCradleRoundedCornerRadius = global::LongoToDo.Forms.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Prism.Resource.Attribute.fabCradleVerticalOffset = global::LongoToDo.Forms.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::Prism.Resource.Attribute.fabCustomSize = global::LongoToDo.Forms.Droid.Resource.Attribute.fabCustomSize;
+			global::Prism.Resource.Attribute.fabSize = global::LongoToDo.Forms.Droid.Resource.Attribute.fabSize;
+			global::Prism.Resource.Attribute.fastScrollEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Prism.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Prism.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Prism.Resource.Attribute.fastScrollVerticalThumbDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Prism.Resource.Attribute.fastScrollVerticalTrackDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Prism.Resource.Attribute.firstBaselineToTopHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::Prism.Resource.Attribute.floatingActionButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::Prism.Resource.Attribute.font = global::LongoToDo.Forms.Droid.Resource.Attribute.font;
+			global::Prism.Resource.Attribute.fontFamily = global::LongoToDo.Forms.Droid.Resource.Attribute.fontFamily;
+			global::Prism.Resource.Attribute.fontProviderAuthority = global::LongoToDo.Forms.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Prism.Resource.Attribute.fontProviderCerts = global::LongoToDo.Forms.Droid.Resource.Attribute.fontProviderCerts;
+			global::Prism.Resource.Attribute.fontProviderFetchStrategy = global::LongoToDo.Forms.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Prism.Resource.Attribute.fontProviderFetchTimeout = global::LongoToDo.Forms.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Prism.Resource.Attribute.fontProviderPackage = global::LongoToDo.Forms.Droid.Resource.Attribute.fontProviderPackage;
+			global::Prism.Resource.Attribute.fontProviderQuery = global::LongoToDo.Forms.Droid.Resource.Attribute.fontProviderQuery;
+			global::Prism.Resource.Attribute.fontStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.fontStyle;
+			global::Prism.Resource.Attribute.fontVariationSettings = global::LongoToDo.Forms.Droid.Resource.Attribute.fontVariationSettings;
+			global::Prism.Resource.Attribute.fontWeight = global::LongoToDo.Forms.Droid.Resource.Attribute.fontWeight;
+			global::Prism.Resource.Attribute.foregroundInsidePadding = global::LongoToDo.Forms.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Prism.Resource.Attribute.gapBetweenBars = global::LongoToDo.Forms.Droid.Resource.Attribute.gapBetweenBars;
+			global::Prism.Resource.Attribute.gestureInsetBottomIgnored = global::LongoToDo.Forms.Droid.Resource.Attribute.gestureInsetBottomIgnored;
+			global::Prism.Resource.Attribute.goIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.goIcon;
+			global::Prism.Resource.Attribute.haloColor = global::LongoToDo.Forms.Droid.Resource.Attribute.haloColor;
+			global::Prism.Resource.Attribute.haloRadius = global::LongoToDo.Forms.Droid.Resource.Attribute.haloRadius;
+			global::Prism.Resource.Attribute.headerLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.headerLayout;
+			global::Prism.Resource.Attribute.height = global::LongoToDo.Forms.Droid.Resource.Attribute.height;
+			global::Prism.Resource.Attribute.helperText = global::LongoToDo.Forms.Droid.Resource.Attribute.helperText;
+			global::Prism.Resource.Attribute.helperTextEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.helperTextEnabled;
+			global::Prism.Resource.Attribute.helperTextTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::Prism.Resource.Attribute.helperTextTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.helperTextTextColor;
+			global::Prism.Resource.Attribute.hideMotionSpec = global::LongoToDo.Forms.Droid.Resource.Attribute.hideMotionSpec;
+			global::Prism.Resource.Attribute.hideOnContentScroll = global::LongoToDo.Forms.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Prism.Resource.Attribute.hideOnScroll = global::LongoToDo.Forms.Droid.Resource.Attribute.hideOnScroll;
+			global::Prism.Resource.Attribute.hintAnimationEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Prism.Resource.Attribute.hintEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.hintEnabled;
+			global::Prism.Resource.Attribute.hintTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.hintTextAppearance;
+			global::Prism.Resource.Attribute.hintTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.hintTextColor;
+			global::Prism.Resource.Attribute.homeAsUpIndicator = global::LongoToDo.Forms.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Prism.Resource.Attribute.homeLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.homeLayout;
+			global::Prism.Resource.Attribute.horizontalOffset = global::LongoToDo.Forms.Droid.Resource.Attribute.horizontalOffset;
+			global::Prism.Resource.Attribute.hoveredFocusedTranslationZ = global::LongoToDo.Forms.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Prism.Resource.Attribute.icon = global::LongoToDo.Forms.Droid.Resource.Attribute.icon;
+			global::Prism.Resource.Attribute.iconEndPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.iconEndPadding;
+			global::Prism.Resource.Attribute.iconGravity = global::LongoToDo.Forms.Droid.Resource.Attribute.iconGravity;
+			global::Prism.Resource.Attribute.iconifiedByDefault = global::LongoToDo.Forms.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Prism.Resource.Attribute.iconPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.iconPadding;
+			global::Prism.Resource.Attribute.iconSize = global::LongoToDo.Forms.Droid.Resource.Attribute.iconSize;
+			global::Prism.Resource.Attribute.iconStartPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.iconStartPadding;
+			global::Prism.Resource.Attribute.iconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.iconTint;
+			global::Prism.Resource.Attribute.iconTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.iconTintMode;
+			global::Prism.Resource.Attribute.imageButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.imageButtonStyle;
+			global::Prism.Resource.Attribute.indeterminateProgressStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Prism.Resource.Attribute.initialActivityCount = global::LongoToDo.Forms.Droid.Resource.Attribute.initialActivityCount;
+			global::Prism.Resource.Attribute.insetForeground = global::LongoToDo.Forms.Droid.Resource.Attribute.insetForeground;
+			global::Prism.Resource.Attribute.isLightTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.isLightTheme;
+			global::Prism.Resource.Attribute.isMaterialTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.isMaterialTheme;
+			global::Prism.Resource.Attribute.itemBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.itemBackground;
+			global::Prism.Resource.Attribute.itemFillColor = global::LongoToDo.Forms.Droid.Resource.Attribute.itemFillColor;
+			global::Prism.Resource.Attribute.itemHorizontalPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::Prism.Resource.Attribute.itemHorizontalTranslationEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Prism.Resource.Attribute.itemIconPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.itemIconPadding;
+			global::Prism.Resource.Attribute.itemIconSize = global::LongoToDo.Forms.Droid.Resource.Attribute.itemIconSize;
+			global::Prism.Resource.Attribute.itemIconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.itemIconTint;
+			global::Prism.Resource.Attribute.itemMaxLines = global::LongoToDo.Forms.Droid.Resource.Attribute.itemMaxLines;
+			global::Prism.Resource.Attribute.itemPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.itemPadding;
+			global::Prism.Resource.Attribute.itemRippleColor = global::LongoToDo.Forms.Droid.Resource.Attribute.itemRippleColor;
+			global::Prism.Resource.Attribute.itemShapeAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.itemShapeAppearance;
+			global::Prism.Resource.Attribute.itemShapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
+			global::Prism.Resource.Attribute.itemShapeFillColor = global::LongoToDo.Forms.Droid.Resource.Attribute.itemShapeFillColor;
+			global::Prism.Resource.Attribute.itemShapeInsetBottom = global::LongoToDo.Forms.Droid.Resource.Attribute.itemShapeInsetBottom;
+			global::Prism.Resource.Attribute.itemShapeInsetEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.itemShapeInsetEnd;
+			global::Prism.Resource.Attribute.itemShapeInsetStart = global::LongoToDo.Forms.Droid.Resource.Attribute.itemShapeInsetStart;
+			global::Prism.Resource.Attribute.itemShapeInsetTop = global::LongoToDo.Forms.Droid.Resource.Attribute.itemShapeInsetTop;
+			global::Prism.Resource.Attribute.itemSpacing = global::LongoToDo.Forms.Droid.Resource.Attribute.itemSpacing;
+			global::Prism.Resource.Attribute.itemStrokeColor = global::LongoToDo.Forms.Droid.Resource.Attribute.itemStrokeColor;
+			global::Prism.Resource.Attribute.itemStrokeWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.itemStrokeWidth;
+			global::Prism.Resource.Attribute.itemTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.itemTextAppearance;
+			global::Prism.Resource.Attribute.itemTextAppearanceActive = global::LongoToDo.Forms.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::Prism.Resource.Attribute.itemTextAppearanceInactive = global::LongoToDo.Forms.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::Prism.Resource.Attribute.itemTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.itemTextColor;
+			global::Prism.Resource.Attribute.keylines = global::LongoToDo.Forms.Droid.Resource.Attribute.keylines;
+			global::Prism.Resource.Attribute.labelBehavior = global::LongoToDo.Forms.Droid.Resource.Attribute.labelBehavior;
+			global::Prism.Resource.Attribute.labelStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.labelStyle;
+			global::Prism.Resource.Attribute.labelVisibilityMode = global::LongoToDo.Forms.Droid.Resource.Attribute.labelVisibilityMode;
+			global::Prism.Resource.Attribute.lastBaselineToBottomHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Prism.Resource.Attribute.layout = global::LongoToDo.Forms.Droid.Resource.Attribute.layout;
+			global::Prism.Resource.Attribute.layoutManager = global::LongoToDo.Forms.Droid.Resource.Attribute.layoutManager;
+			global::Prism.Resource.Attribute.layout_anchor = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_anchor;
+			global::Prism.Resource.Attribute.layout_anchorGravity = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Prism.Resource.Attribute.layout_behavior = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_behavior;
+			global::Prism.Resource.Attribute.layout_collapseMode = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_collapseMode;
+			global::Prism.Resource.Attribute.layout_collapseParallaxMultiplier = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Prism.Resource.Attribute.layout_dodgeInsetEdges = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Prism.Resource.Attribute.layout_insetEdge = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_insetEdge;
+			global::Prism.Resource.Attribute.layout_keyline = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_keyline;
+			global::Prism.Resource.Attribute.layout_scrollFlags = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Prism.Resource.Attribute.layout_scrollInterpolator = global::LongoToDo.Forms.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Prism.Resource.Attribute.liftOnScroll = global::LongoToDo.Forms.Droid.Resource.Attribute.liftOnScroll;
+			global::Prism.Resource.Attribute.liftOnScrollTargetViewId = global::LongoToDo.Forms.Droid.Resource.Attribute.liftOnScrollTargetViewId;
+			global::Prism.Resource.Attribute.lineHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.lineHeight;
+			global::Prism.Resource.Attribute.lineSpacing = global::LongoToDo.Forms.Droid.Resource.Attribute.lineSpacing;
+			global::Prism.Resource.Attribute.listChoiceBackgroundIndicator = global::LongoToDo.Forms.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Prism.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::LongoToDo.Forms.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::Prism.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::LongoToDo.Forms.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::Prism.Resource.Attribute.listDividerAlertDialog = global::LongoToDo.Forms.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Prism.Resource.Attribute.listItemLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.listItemLayout;
+			global::Prism.Resource.Attribute.listLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.listLayout;
+			global::Prism.Resource.Attribute.listMenuViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Prism.Resource.Attribute.listPopupWindowStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Prism.Resource.Attribute.listPreferredItemHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Prism.Resource.Attribute.listPreferredItemHeightLarge = global::LongoToDo.Forms.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Prism.Resource.Attribute.listPreferredItemHeightSmall = global::LongoToDo.Forms.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Prism.Resource.Attribute.listPreferredItemPaddingEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::Prism.Resource.Attribute.listPreferredItemPaddingLeft = global::LongoToDo.Forms.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Prism.Resource.Attribute.listPreferredItemPaddingRight = global::LongoToDo.Forms.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Prism.Resource.Attribute.listPreferredItemPaddingStart = global::LongoToDo.Forms.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::Prism.Resource.Attribute.logo = global::LongoToDo.Forms.Droid.Resource.Attribute.logo;
+			global::Prism.Resource.Attribute.logoDescription = global::LongoToDo.Forms.Droid.Resource.Attribute.logoDescription;
+			global::Prism.Resource.Attribute.materialAlertDialogBodyTextStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
+			global::Prism.Resource.Attribute.materialAlertDialogTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.materialAlertDialogTheme;
+			global::Prism.Resource.Attribute.materialAlertDialogTitleIconStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
+			global::Prism.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
+			global::Prism.Resource.Attribute.materialAlertDialogTitleTextStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
+			global::Prism.Resource.Attribute.materialButtonOutlinedStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialButtonOutlinedStyle;
+			global::Prism.Resource.Attribute.materialButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialButtonStyle;
+			global::Prism.Resource.Attribute.materialButtonToggleGroupStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
+			global::Prism.Resource.Attribute.materialCalendarDay = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarDay;
+			global::Prism.Resource.Attribute.materialCalendarFullscreenTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
+			global::Prism.Resource.Attribute.materialCalendarHeaderConfirmButton = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
+			global::Prism.Resource.Attribute.materialCalendarHeaderDivider = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarHeaderDivider;
+			global::Prism.Resource.Attribute.materialCalendarHeaderLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarHeaderLayout;
+			global::Prism.Resource.Attribute.materialCalendarHeaderSelection = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarHeaderSelection;
+			global::Prism.Resource.Attribute.materialCalendarHeaderTitle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarHeaderTitle;
+			global::Prism.Resource.Attribute.materialCalendarHeaderToggleButton = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
+			global::Prism.Resource.Attribute.materialCalendarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarStyle;
+			global::Prism.Resource.Attribute.materialCalendarTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCalendarTheme;
+			global::Prism.Resource.Attribute.materialCardViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.materialCardViewStyle;
+			global::Prism.Resource.Attribute.materialThemeOverlay = global::LongoToDo.Forms.Droid.Resource.Attribute.materialThemeOverlay;
+			global::Prism.Resource.Attribute.maxActionInlineWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Prism.Resource.Attribute.maxButtonHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.maxButtonHeight;
+			global::Prism.Resource.Attribute.maxCharacterCount = global::LongoToDo.Forms.Droid.Resource.Attribute.maxCharacterCount;
+			global::Prism.Resource.Attribute.maxImageSize = global::LongoToDo.Forms.Droid.Resource.Attribute.maxImageSize;
+			global::Prism.Resource.Attribute.maxLines = global::LongoToDo.Forms.Droid.Resource.Attribute.maxLines;
+			global::Prism.Resource.Attribute.measureWithLargestChild = global::LongoToDo.Forms.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Prism.Resource.Attribute.menu = global::LongoToDo.Forms.Droid.Resource.Attribute.menu;
+			global::Prism.Resource.Attribute.minTouchTargetSize = global::LongoToDo.Forms.Droid.Resource.Attribute.minTouchTargetSize;
+			global::Prism.Resource.Attribute.multiChoiceItemLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Prism.Resource.Attribute.navigationContentDescription = global::LongoToDo.Forms.Droid.Resource.Attribute.navigationContentDescription;
+			global::Prism.Resource.Attribute.navigationIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.navigationIcon;
+			global::Prism.Resource.Attribute.navigationMode = global::LongoToDo.Forms.Droid.Resource.Attribute.navigationMode;
+			global::Prism.Resource.Attribute.navigationViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.navigationViewStyle;
+			global::Prism.Resource.Attribute.number = global::LongoToDo.Forms.Droid.Resource.Attribute.number;
+			global::Prism.Resource.Attribute.numericModifiers = global::LongoToDo.Forms.Droid.Resource.Attribute.numericModifiers;
+			global::Prism.Resource.Attribute.overlapAnchor = global::LongoToDo.Forms.Droid.Resource.Attribute.overlapAnchor;
+			global::Prism.Resource.Attribute.paddingBottomNoButtons = global::LongoToDo.Forms.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Prism.Resource.Attribute.paddingBottomSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Attribute.paddingBottomSystemWindowInsets;
+			global::Prism.Resource.Attribute.paddingEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.paddingEnd;
+			global::Prism.Resource.Attribute.paddingLeftSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Attribute.paddingLeftSystemWindowInsets;
+			global::Prism.Resource.Attribute.paddingRightSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Attribute.paddingRightSystemWindowInsets;
+			global::Prism.Resource.Attribute.paddingStart = global::LongoToDo.Forms.Droid.Resource.Attribute.paddingStart;
+			global::Prism.Resource.Attribute.paddingTopNoTitle = global::LongoToDo.Forms.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Prism.Resource.Attribute.panelBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.panelBackground;
+			global::Prism.Resource.Attribute.panelMenuListTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Prism.Resource.Attribute.panelMenuListWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Prism.Resource.Attribute.passwordToggleContentDescription = global::LongoToDo.Forms.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Prism.Resource.Attribute.passwordToggleDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Prism.Resource.Attribute.passwordToggleEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Prism.Resource.Attribute.passwordToggleTint = global::LongoToDo.Forms.Droid.Resource.Attribute.passwordToggleTint;
+			global::Prism.Resource.Attribute.passwordToggleTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Prism.Resource.Attribute.placeholderText = global::LongoToDo.Forms.Droid.Resource.Attribute.placeholderText;
+			global::Prism.Resource.Attribute.placeholderTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.placeholderTextAppearance;
+			global::Prism.Resource.Attribute.placeholderTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.placeholderTextColor;
+			global::Prism.Resource.Attribute.popupMenuBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.popupMenuBackground;
+			global::Prism.Resource.Attribute.popupMenuStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.popupMenuStyle;
+			global::Prism.Resource.Attribute.popupTheme = global::LongoToDo.Forms.Droid.Resource.Attribute.popupTheme;
+			global::Prism.Resource.Attribute.popupWindowStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.popupWindowStyle;
+			global::Prism.Resource.Attribute.prefixText = global::LongoToDo.Forms.Droid.Resource.Attribute.prefixText;
+			global::Prism.Resource.Attribute.prefixTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.prefixTextAppearance;
+			global::Prism.Resource.Attribute.prefixTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.prefixTextColor;
+			global::Prism.Resource.Attribute.preserveIconSpacing = global::LongoToDo.Forms.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Prism.Resource.Attribute.pressedTranslationZ = global::LongoToDo.Forms.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Prism.Resource.Attribute.progressBarPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.progressBarPadding;
+			global::Prism.Resource.Attribute.progressBarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.progressBarStyle;
+			global::Prism.Resource.Attribute.queryBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.queryBackground;
+			global::Prism.Resource.Attribute.queryHint = global::LongoToDo.Forms.Droid.Resource.Attribute.queryHint;
+			global::Prism.Resource.Attribute.radioButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.radioButtonStyle;
+			global::Prism.Resource.Attribute.rangeFillColor = global::LongoToDo.Forms.Droid.Resource.Attribute.rangeFillColor;
+			global::Prism.Resource.Attribute.ratingBarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.ratingBarStyle;
+			global::Prism.Resource.Attribute.ratingBarStyleIndicator = global::LongoToDo.Forms.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Prism.Resource.Attribute.ratingBarStyleSmall = global::LongoToDo.Forms.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Prism.Resource.Attribute.recyclerViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.recyclerViewStyle;
+			global::Prism.Resource.Attribute.reverseLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.reverseLayout;
+			global::Prism.Resource.Attribute.rippleColor = global::LongoToDo.Forms.Droid.Resource.Attribute.rippleColor;
+			global::Prism.Resource.Attribute.scrimAnimationDuration = global::LongoToDo.Forms.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Prism.Resource.Attribute.scrimBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.scrimBackground;
+			global::Prism.Resource.Attribute.scrimVisibleHeightTrigger = global::LongoToDo.Forms.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Prism.Resource.Attribute.scrollViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.scrollViewStyle;
+			global::Prism.Resource.Attribute.searchHintIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.searchHintIcon;
+			global::Prism.Resource.Attribute.searchIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.searchIcon;
+			global::Prism.Resource.Attribute.searchViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.searchViewStyle;
+			global::Prism.Resource.Attribute.seekBarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.seekBarStyle;
+			global::Prism.Resource.Attribute.selectableItemBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.selectableItemBackground;
+			global::Prism.Resource.Attribute.selectableItemBackgroundBorderless = global::LongoToDo.Forms.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Prism.Resource.Attribute.selectionRequired = global::LongoToDo.Forms.Droid.Resource.Attribute.selectionRequired;
+			global::Prism.Resource.Attribute.shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.shapeAppearance;
+			global::Prism.Resource.Attribute.shapeAppearanceLargeComponent = global::LongoToDo.Forms.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
+			global::Prism.Resource.Attribute.shapeAppearanceMediumComponent = global::LongoToDo.Forms.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
+			global::Prism.Resource.Attribute.shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Attribute.shapeAppearanceOverlay;
+			global::Prism.Resource.Attribute.shapeAppearanceSmallComponent = global::LongoToDo.Forms.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
+			global::Prism.Resource.Attribute.showAsAction = global::LongoToDo.Forms.Droid.Resource.Attribute.showAsAction;
+			global::Prism.Resource.Attribute.showDividers = global::LongoToDo.Forms.Droid.Resource.Attribute.showDividers;
+			global::Prism.Resource.Attribute.showMotionSpec = global::LongoToDo.Forms.Droid.Resource.Attribute.showMotionSpec;
+			global::Prism.Resource.Attribute.showText = global::LongoToDo.Forms.Droid.Resource.Attribute.showText;
+			global::Prism.Resource.Attribute.showTitle = global::LongoToDo.Forms.Droid.Resource.Attribute.showTitle;
+			global::Prism.Resource.Attribute.shrinkMotionSpec = global::LongoToDo.Forms.Droid.Resource.Attribute.shrinkMotionSpec;
+			global::Prism.Resource.Attribute.singleChoiceItemLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Prism.Resource.Attribute.singleLine = global::LongoToDo.Forms.Droid.Resource.Attribute.singleLine;
+			global::Prism.Resource.Attribute.singleSelection = global::LongoToDo.Forms.Droid.Resource.Attribute.singleSelection;
+			global::Prism.Resource.Attribute.sliderStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.sliderStyle;
+			global::Prism.Resource.Attribute.snackbarButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::Prism.Resource.Attribute.snackbarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.snackbarStyle;
+			global::Prism.Resource.Attribute.snackbarTextViewStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.snackbarTextViewStyle;
+			global::Prism.Resource.Attribute.spanCount = global::LongoToDo.Forms.Droid.Resource.Attribute.spanCount;
+			global::Prism.Resource.Attribute.spinBars = global::LongoToDo.Forms.Droid.Resource.Attribute.spinBars;
+			global::Prism.Resource.Attribute.spinnerDropDownItemStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Prism.Resource.Attribute.spinnerStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.spinnerStyle;
+			global::Prism.Resource.Attribute.splitTrack = global::LongoToDo.Forms.Droid.Resource.Attribute.splitTrack;
+			global::Prism.Resource.Attribute.srcCompat = global::LongoToDo.Forms.Droid.Resource.Attribute.srcCompat;
+			global::Prism.Resource.Attribute.stackFromEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.stackFromEnd;
+			global::Prism.Resource.Attribute.startIconCheckable = global::LongoToDo.Forms.Droid.Resource.Attribute.startIconCheckable;
+			global::Prism.Resource.Attribute.startIconContentDescription = global::LongoToDo.Forms.Droid.Resource.Attribute.startIconContentDescription;
+			global::Prism.Resource.Attribute.startIconDrawable = global::LongoToDo.Forms.Droid.Resource.Attribute.startIconDrawable;
+			global::Prism.Resource.Attribute.startIconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.startIconTint;
+			global::Prism.Resource.Attribute.startIconTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.startIconTintMode;
+			global::Prism.Resource.Attribute.state_above_anchor = global::LongoToDo.Forms.Droid.Resource.Attribute.state_above_anchor;
+			global::Prism.Resource.Attribute.state_collapsed = global::LongoToDo.Forms.Droid.Resource.Attribute.state_collapsed;
+			global::Prism.Resource.Attribute.state_collapsible = global::LongoToDo.Forms.Droid.Resource.Attribute.state_collapsible;
+			global::Prism.Resource.Attribute.state_dragged = global::LongoToDo.Forms.Droid.Resource.Attribute.state_dragged;
+			global::Prism.Resource.Attribute.state_liftable = global::LongoToDo.Forms.Droid.Resource.Attribute.state_liftable;
+			global::Prism.Resource.Attribute.state_lifted = global::LongoToDo.Forms.Droid.Resource.Attribute.state_lifted;
+			global::Prism.Resource.Attribute.statusBarBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.statusBarBackground;
+			global::Prism.Resource.Attribute.statusBarForeground = global::LongoToDo.Forms.Droid.Resource.Attribute.statusBarForeground;
+			global::Prism.Resource.Attribute.statusBarScrim = global::LongoToDo.Forms.Droid.Resource.Attribute.statusBarScrim;
+			global::Prism.Resource.Attribute.strokeColor = global::LongoToDo.Forms.Droid.Resource.Attribute.strokeColor;
+			global::Prism.Resource.Attribute.strokeWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.strokeWidth;
+			global::Prism.Resource.Attribute.subMenuArrow = global::LongoToDo.Forms.Droid.Resource.Attribute.subMenuArrow;
+			global::Prism.Resource.Attribute.submitBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.submitBackground;
+			global::Prism.Resource.Attribute.subtitle = global::LongoToDo.Forms.Droid.Resource.Attribute.subtitle;
+			global::Prism.Resource.Attribute.subtitleTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Prism.Resource.Attribute.subtitleTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.subtitleTextColor;
+			global::Prism.Resource.Attribute.subtitleTextStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Prism.Resource.Attribute.suffixText = global::LongoToDo.Forms.Droid.Resource.Attribute.suffixText;
+			global::Prism.Resource.Attribute.suffixTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.suffixTextAppearance;
+			global::Prism.Resource.Attribute.suffixTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.suffixTextColor;
+			global::Prism.Resource.Attribute.suggestionRowLayout = global::LongoToDo.Forms.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Prism.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor = global::LongoToDo.Forms.Droid.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::Prism.Resource.Attribute.switchMinWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.switchMinWidth;
+			global::Prism.Resource.Attribute.switchPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.switchPadding;
+			global::Prism.Resource.Attribute.switchStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.switchStyle;
+			global::Prism.Resource.Attribute.switchTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.switchTextAppearance;
+			global::Prism.Resource.Attribute.tabBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.tabBackground;
+			global::Prism.Resource.Attribute.tabContentStart = global::LongoToDo.Forms.Droid.Resource.Attribute.tabContentStart;
+			global::Prism.Resource.Attribute.tabGravity = global::LongoToDo.Forms.Droid.Resource.Attribute.tabGravity;
+			global::Prism.Resource.Attribute.tabIconTint = global::LongoToDo.Forms.Droid.Resource.Attribute.tabIconTint;
+			global::Prism.Resource.Attribute.tabIconTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.tabIconTintMode;
+			global::Prism.Resource.Attribute.tabIndicator = global::LongoToDo.Forms.Droid.Resource.Attribute.tabIndicator;
+			global::Prism.Resource.Attribute.tabIndicatorAnimationDuration = global::LongoToDo.Forms.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Prism.Resource.Attribute.tabIndicatorColor = global::LongoToDo.Forms.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Prism.Resource.Attribute.tabIndicatorFullWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::Prism.Resource.Attribute.tabIndicatorGravity = global::LongoToDo.Forms.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::Prism.Resource.Attribute.tabIndicatorHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Prism.Resource.Attribute.tabInlineLabel = global::LongoToDo.Forms.Droid.Resource.Attribute.tabInlineLabel;
+			global::Prism.Resource.Attribute.tabMaxWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.tabMaxWidth;
+			global::Prism.Resource.Attribute.tabMinWidth = global::LongoToDo.Forms.Droid.Resource.Attribute.tabMinWidth;
+			global::Prism.Resource.Attribute.tabMode = global::LongoToDo.Forms.Droid.Resource.Attribute.tabMode;
+			global::Prism.Resource.Attribute.tabPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.tabPadding;
+			global::Prism.Resource.Attribute.tabPaddingBottom = global::LongoToDo.Forms.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Prism.Resource.Attribute.tabPaddingEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Prism.Resource.Attribute.tabPaddingStart = global::LongoToDo.Forms.Droid.Resource.Attribute.tabPaddingStart;
+			global::Prism.Resource.Attribute.tabPaddingTop = global::LongoToDo.Forms.Droid.Resource.Attribute.tabPaddingTop;
+			global::Prism.Resource.Attribute.tabRippleColor = global::LongoToDo.Forms.Droid.Resource.Attribute.tabRippleColor;
+			global::Prism.Resource.Attribute.tabSelectedTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Prism.Resource.Attribute.tabStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.tabStyle;
+			global::Prism.Resource.Attribute.tabTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.tabTextAppearance;
+			global::Prism.Resource.Attribute.tabTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.tabTextColor;
+			global::Prism.Resource.Attribute.tabUnboundedRipple = global::LongoToDo.Forms.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::Prism.Resource.Attribute.textAllCaps = global::LongoToDo.Forms.Droid.Resource.Attribute.textAllCaps;
+			global::Prism.Resource.Attribute.textAppearanceBody1 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceBody1;
+			global::Prism.Resource.Attribute.textAppearanceBody2 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceBody2;
+			global::Prism.Resource.Attribute.textAppearanceButton = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceButton;
+			global::Prism.Resource.Attribute.textAppearanceCaption = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceCaption;
+			global::Prism.Resource.Attribute.textAppearanceHeadline1 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::Prism.Resource.Attribute.textAppearanceHeadline2 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::Prism.Resource.Attribute.textAppearanceHeadline3 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::Prism.Resource.Attribute.textAppearanceHeadline4 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::Prism.Resource.Attribute.textAppearanceHeadline5 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::Prism.Resource.Attribute.textAppearanceHeadline6 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::Prism.Resource.Attribute.textAppearanceLargePopupMenu = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Prism.Resource.Attribute.textAppearanceLineHeightEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
+			global::Prism.Resource.Attribute.textAppearanceListItem = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Prism.Resource.Attribute.textAppearanceListItemSecondary = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Prism.Resource.Attribute.textAppearanceListItemSmall = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Prism.Resource.Attribute.textAppearanceOverline = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceOverline;
+			global::Prism.Resource.Attribute.textAppearancePopupMenuHeader = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Prism.Resource.Attribute.textAppearanceSearchResultSubtitle = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Prism.Resource.Attribute.textAppearanceSearchResultTitle = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Prism.Resource.Attribute.textAppearanceSmallPopupMenu = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Prism.Resource.Attribute.textAppearanceSubtitle1 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::Prism.Resource.Attribute.textAppearanceSubtitle2 = global::LongoToDo.Forms.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::Prism.Resource.Attribute.textColorAlertDialogListItem = global::LongoToDo.Forms.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Prism.Resource.Attribute.textColorSearchUrl = global::LongoToDo.Forms.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Prism.Resource.Attribute.textEndPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.textEndPadding;
+			global::Prism.Resource.Attribute.textInputLayoutFocusedRectEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.textInputLayoutFocusedRectEnabled;
+			global::Prism.Resource.Attribute.textInputStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.textInputStyle;
+			global::Prism.Resource.Attribute.textLocale = global::LongoToDo.Forms.Droid.Resource.Attribute.textLocale;
+			global::Prism.Resource.Attribute.textStartPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.textStartPadding;
+			global::Prism.Resource.Attribute.theme = global::LongoToDo.Forms.Droid.Resource.Attribute.theme;
+			global::Prism.Resource.Attribute.themeLineHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.themeLineHeight;
+			global::Prism.Resource.Attribute.thickness = global::LongoToDo.Forms.Droid.Resource.Attribute.thickness;
+			global::Prism.Resource.Attribute.thumbColor = global::LongoToDo.Forms.Droid.Resource.Attribute.thumbColor;
+			global::Prism.Resource.Attribute.thumbElevation = global::LongoToDo.Forms.Droid.Resource.Attribute.thumbElevation;
+			global::Prism.Resource.Attribute.thumbRadius = global::LongoToDo.Forms.Droid.Resource.Attribute.thumbRadius;
+			global::Prism.Resource.Attribute.thumbTextPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.thumbTextPadding;
+			global::Prism.Resource.Attribute.thumbTint = global::LongoToDo.Forms.Droid.Resource.Attribute.thumbTint;
+			global::Prism.Resource.Attribute.thumbTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.thumbTintMode;
+			global::Prism.Resource.Attribute.tickColor = global::LongoToDo.Forms.Droid.Resource.Attribute.tickColor;
+			global::Prism.Resource.Attribute.tickColorActive = global::LongoToDo.Forms.Droid.Resource.Attribute.tickColorActive;
+			global::Prism.Resource.Attribute.tickColorInactive = global::LongoToDo.Forms.Droid.Resource.Attribute.tickColorInactive;
+			global::Prism.Resource.Attribute.tickMark = global::LongoToDo.Forms.Droid.Resource.Attribute.tickMark;
+			global::Prism.Resource.Attribute.tickMarkTint = global::LongoToDo.Forms.Droid.Resource.Attribute.tickMarkTint;
+			global::Prism.Resource.Attribute.tickMarkTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Prism.Resource.Attribute.tint = global::LongoToDo.Forms.Droid.Resource.Attribute.tint;
+			global::Prism.Resource.Attribute.tintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.tintMode;
+			global::Prism.Resource.Attribute.title = global::LongoToDo.Forms.Droid.Resource.Attribute.title;
+			global::Prism.Resource.Attribute.titleEnabled = global::LongoToDo.Forms.Droid.Resource.Attribute.titleEnabled;
+			global::Prism.Resource.Attribute.titleMargin = global::LongoToDo.Forms.Droid.Resource.Attribute.titleMargin;
+			global::Prism.Resource.Attribute.titleMarginBottom = global::LongoToDo.Forms.Droid.Resource.Attribute.titleMarginBottom;
+			global::Prism.Resource.Attribute.titleMarginEnd = global::LongoToDo.Forms.Droid.Resource.Attribute.titleMarginEnd;
+			global::Prism.Resource.Attribute.titleMargins = global::LongoToDo.Forms.Droid.Resource.Attribute.titleMargins;
+			global::Prism.Resource.Attribute.titleMarginStart = global::LongoToDo.Forms.Droid.Resource.Attribute.titleMarginStart;
+			global::Prism.Resource.Attribute.titleMarginTop = global::LongoToDo.Forms.Droid.Resource.Attribute.titleMarginTop;
+			global::Prism.Resource.Attribute.titleTextAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.titleTextAppearance;
+			global::Prism.Resource.Attribute.titleTextColor = global::LongoToDo.Forms.Droid.Resource.Attribute.titleTextColor;
+			global::Prism.Resource.Attribute.titleTextStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.titleTextStyle;
+			global::Prism.Resource.Attribute.toolbarId = global::LongoToDo.Forms.Droid.Resource.Attribute.toolbarId;
+			global::Prism.Resource.Attribute.toolbarNavigationButtonStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Prism.Resource.Attribute.toolbarStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.toolbarStyle;
+			global::Prism.Resource.Attribute.tooltipForegroundColor = global::LongoToDo.Forms.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Prism.Resource.Attribute.tooltipFrameBackground = global::LongoToDo.Forms.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Prism.Resource.Attribute.tooltipStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.tooltipStyle;
+			global::Prism.Resource.Attribute.tooltipText = global::LongoToDo.Forms.Droid.Resource.Attribute.tooltipText;
+			global::Prism.Resource.Attribute.track = global::LongoToDo.Forms.Droid.Resource.Attribute.track;
+			global::Prism.Resource.Attribute.trackColor = global::LongoToDo.Forms.Droid.Resource.Attribute.trackColor;
+			global::Prism.Resource.Attribute.trackColorActive = global::LongoToDo.Forms.Droid.Resource.Attribute.trackColorActive;
+			global::Prism.Resource.Attribute.trackColorInactive = global::LongoToDo.Forms.Droid.Resource.Attribute.trackColorInactive;
+			global::Prism.Resource.Attribute.trackHeight = global::LongoToDo.Forms.Droid.Resource.Attribute.trackHeight;
+			global::Prism.Resource.Attribute.trackTint = global::LongoToDo.Forms.Droid.Resource.Attribute.trackTint;
+			global::Prism.Resource.Attribute.trackTintMode = global::LongoToDo.Forms.Droid.Resource.Attribute.trackTintMode;
+			global::Prism.Resource.Attribute.transitionShapeAppearance = global::LongoToDo.Forms.Droid.Resource.Attribute.transitionShapeAppearance;
+			global::Prism.Resource.Attribute.ttcIndex = global::LongoToDo.Forms.Droid.Resource.Attribute.ttcIndex;
+			global::Prism.Resource.Attribute.useCompatPadding = global::LongoToDo.Forms.Droid.Resource.Attribute.useCompatPadding;
+			global::Prism.Resource.Attribute.useMaterialThemeColors = global::LongoToDo.Forms.Droid.Resource.Attribute.useMaterialThemeColors;
+			global::Prism.Resource.Attribute.values = global::LongoToDo.Forms.Droid.Resource.Attribute.values;
+			global::Prism.Resource.Attribute.verticalOffset = global::LongoToDo.Forms.Droid.Resource.Attribute.verticalOffset;
+			global::Prism.Resource.Attribute.viewInflaterClass = global::LongoToDo.Forms.Droid.Resource.Attribute.viewInflaterClass;
+			global::Prism.Resource.Attribute.voiceIcon = global::LongoToDo.Forms.Droid.Resource.Attribute.voiceIcon;
+			global::Prism.Resource.Attribute.windowActionBar = global::LongoToDo.Forms.Droid.Resource.Attribute.windowActionBar;
+			global::Prism.Resource.Attribute.windowActionBarOverlay = global::LongoToDo.Forms.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Prism.Resource.Attribute.windowActionModeOverlay = global::LongoToDo.Forms.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Prism.Resource.Attribute.windowFixedHeightMajor = global::LongoToDo.Forms.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Prism.Resource.Attribute.windowFixedHeightMinor = global::LongoToDo.Forms.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Prism.Resource.Attribute.windowFixedWidthMajor = global::LongoToDo.Forms.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Prism.Resource.Attribute.windowFixedWidthMinor = global::LongoToDo.Forms.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Prism.Resource.Attribute.windowMinWidthMajor = global::LongoToDo.Forms.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Prism.Resource.Attribute.windowMinWidthMinor = global::LongoToDo.Forms.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Prism.Resource.Attribute.windowNoTitle = global::LongoToDo.Forms.Droid.Resource.Attribute.windowNoTitle;
+			global::Prism.Resource.Attribute.yearSelectedStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.yearSelectedStyle;
+			global::Prism.Resource.Attribute.yearStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.yearStyle;
+			global::Prism.Resource.Attribute.yearTodayStyle = global::LongoToDo.Forms.Droid.Resource.Attribute.yearTodayStyle;
+			global::Prism.Resource.Boolean.abc_action_bar_embed_tabs = global::LongoToDo.Forms.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Prism.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::LongoToDo.Forms.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Prism.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::LongoToDo.Forms.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Prism.Resource.Color.abc_background_cache_hint_selector_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Prism.Resource.Color.abc_background_cache_hint_selector_material_light = global::LongoToDo.Forms.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Prism.Resource.Color.abc_btn_colored_borderless_text_material = global::LongoToDo.Forms.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Prism.Resource.Color.abc_btn_colored_text_material = global::LongoToDo.Forms.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Prism.Resource.Color.abc_color_highlight_material = global::LongoToDo.Forms.Droid.Resource.Color.abc_color_highlight_material;
+			global::Prism.Resource.Color.abc_decor_view_status_guard = global::LongoToDo.Forms.Droid.Resource.Color.abc_decor_view_status_guard;
+			global::Prism.Resource.Color.abc_decor_view_status_guard_light = global::LongoToDo.Forms.Droid.Resource.Color.abc_decor_view_status_guard_light;
+			global::Prism.Resource.Color.abc_hint_foreground_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Prism.Resource.Color.abc_hint_foreground_material_light = global::LongoToDo.Forms.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Prism.Resource.Color.abc_primary_text_disable_only_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Prism.Resource.Color.abc_primary_text_disable_only_material_light = global::LongoToDo.Forms.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Prism.Resource.Color.abc_primary_text_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Prism.Resource.Color.abc_primary_text_material_light = global::LongoToDo.Forms.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Prism.Resource.Color.abc_search_url_text = global::LongoToDo.Forms.Droid.Resource.Color.abc_search_url_text;
+			global::Prism.Resource.Color.abc_search_url_text_normal = global::LongoToDo.Forms.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Prism.Resource.Color.abc_search_url_text_pressed = global::LongoToDo.Forms.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Prism.Resource.Color.abc_search_url_text_selected = global::LongoToDo.Forms.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Prism.Resource.Color.abc_secondary_text_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Prism.Resource.Color.abc_secondary_text_material_light = global::LongoToDo.Forms.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Prism.Resource.Color.abc_tint_btn_checkable = global::LongoToDo.Forms.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Prism.Resource.Color.abc_tint_default = global::LongoToDo.Forms.Droid.Resource.Color.abc_tint_default;
+			global::Prism.Resource.Color.abc_tint_edittext = global::LongoToDo.Forms.Droid.Resource.Color.abc_tint_edittext;
+			global::Prism.Resource.Color.abc_tint_seek_thumb = global::LongoToDo.Forms.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Prism.Resource.Color.abc_tint_spinner = global::LongoToDo.Forms.Droid.Resource.Color.abc_tint_spinner;
+			global::Prism.Resource.Color.abc_tint_switch_track = global::LongoToDo.Forms.Droid.Resource.Color.abc_tint_switch_track;
+			global::Prism.Resource.Color.accent_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.accent_material_dark;
+			global::Prism.Resource.Color.accent_material_light = global::LongoToDo.Forms.Droid.Resource.Color.accent_material_light;
+			global::Prism.Resource.Color.androidx_core_ripple_material_light = global::LongoToDo.Forms.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::Prism.Resource.Color.androidx_core_secondary_text_default_material_light = global::LongoToDo.Forms.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::Prism.Resource.Color.background_floating_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.background_floating_material_dark;
+			global::Prism.Resource.Color.background_floating_material_light = global::LongoToDo.Forms.Droid.Resource.Color.background_floating_material_light;
+			global::Prism.Resource.Color.background_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.background_material_dark;
+			global::Prism.Resource.Color.background_material_light = global::LongoToDo.Forms.Droid.Resource.Color.background_material_light;
+			global::Prism.Resource.Color.bright_foreground_disabled_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Prism.Resource.Color.bright_foreground_disabled_material_light = global::LongoToDo.Forms.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Prism.Resource.Color.bright_foreground_inverse_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Prism.Resource.Color.bright_foreground_inverse_material_light = global::LongoToDo.Forms.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Prism.Resource.Color.bright_foreground_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Prism.Resource.Color.bright_foreground_material_light = global::LongoToDo.Forms.Droid.Resource.Color.bright_foreground_material_light;
+			global::Prism.Resource.Color.browser_actions_bg_grey = global::LongoToDo.Forms.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Prism.Resource.Color.browser_actions_divider_color = global::LongoToDo.Forms.Droid.Resource.Color.browser_actions_divider_color;
+			global::Prism.Resource.Color.browser_actions_text_color = global::LongoToDo.Forms.Droid.Resource.Color.browser_actions_text_color;
+			global::Prism.Resource.Color.browser_actions_title_color = global::LongoToDo.Forms.Droid.Resource.Color.browser_actions_title_color;
+			global::Prism.Resource.Color.button_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.button_material_dark;
+			global::Prism.Resource.Color.button_material_light = global::LongoToDo.Forms.Droid.Resource.Color.button_material_light;
+			global::Prism.Resource.Color.cardview_dark_background = global::LongoToDo.Forms.Droid.Resource.Color.cardview_dark_background;
+			global::Prism.Resource.Color.cardview_light_background = global::LongoToDo.Forms.Droid.Resource.Color.cardview_light_background;
+			global::Prism.Resource.Color.cardview_shadow_end_color = global::LongoToDo.Forms.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Prism.Resource.Color.cardview_shadow_start_color = global::LongoToDo.Forms.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Prism.Resource.Color.checkbox_themeable_attribute_color = global::LongoToDo.Forms.Droid.Resource.Color.checkbox_themeable_attribute_color;
+			global::Prism.Resource.Color.design_bottom_navigation_shadow_color = global::LongoToDo.Forms.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Prism.Resource.Color.design_box_stroke_color = global::LongoToDo.Forms.Droid.Resource.Color.design_box_stroke_color;
+			global::Prism.Resource.Color.design_dark_default_color_background = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_background;
+			global::Prism.Resource.Color.design_dark_default_color_error = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_error;
+			global::Prism.Resource.Color.design_dark_default_color_on_background = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_on_background;
+			global::Prism.Resource.Color.design_dark_default_color_on_error = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_on_error;
+			global::Prism.Resource.Color.design_dark_default_color_on_primary = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_on_primary;
+			global::Prism.Resource.Color.design_dark_default_color_on_secondary = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_on_secondary;
+			global::Prism.Resource.Color.design_dark_default_color_on_surface = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_on_surface;
+			global::Prism.Resource.Color.design_dark_default_color_primary = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_primary;
+			global::Prism.Resource.Color.design_dark_default_color_primary_dark = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_primary_dark;
+			global::Prism.Resource.Color.design_dark_default_color_primary_variant = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_primary_variant;
+			global::Prism.Resource.Color.design_dark_default_color_secondary = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_secondary;
+			global::Prism.Resource.Color.design_dark_default_color_secondary_variant = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_secondary_variant;
+			global::Prism.Resource.Color.design_dark_default_color_surface = global::LongoToDo.Forms.Droid.Resource.Color.design_dark_default_color_surface;
+			global::Prism.Resource.Color.design_default_color_background = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_background;
+			global::Prism.Resource.Color.design_default_color_error = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_error;
+			global::Prism.Resource.Color.design_default_color_on_background = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_on_background;
+			global::Prism.Resource.Color.design_default_color_on_error = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_on_error;
+			global::Prism.Resource.Color.design_default_color_on_primary = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_on_primary;
+			global::Prism.Resource.Color.design_default_color_on_secondary = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_on_secondary;
+			global::Prism.Resource.Color.design_default_color_on_surface = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_on_surface;
+			global::Prism.Resource.Color.design_default_color_primary = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_primary;
+			global::Prism.Resource.Color.design_default_color_primary_dark = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_primary_dark;
+			global::Prism.Resource.Color.design_default_color_primary_variant = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_primary_variant;
+			global::Prism.Resource.Color.design_default_color_secondary = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_secondary;
+			global::Prism.Resource.Color.design_default_color_secondary_variant = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_secondary_variant;
+			global::Prism.Resource.Color.design_default_color_surface = global::LongoToDo.Forms.Droid.Resource.Color.design_default_color_surface;
+			global::Prism.Resource.Color.design_error = global::LongoToDo.Forms.Droid.Resource.Color.design_error;
+			global::Prism.Resource.Color.design_fab_shadow_end_color = global::LongoToDo.Forms.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Prism.Resource.Color.design_fab_shadow_mid_color = global::LongoToDo.Forms.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Prism.Resource.Color.design_fab_shadow_start_color = global::LongoToDo.Forms.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Prism.Resource.Color.design_fab_stroke_end_inner_color = global::LongoToDo.Forms.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Prism.Resource.Color.design_fab_stroke_end_outer_color = global::LongoToDo.Forms.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Prism.Resource.Color.design_fab_stroke_top_inner_color = global::LongoToDo.Forms.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Prism.Resource.Color.design_fab_stroke_top_outer_color = global::LongoToDo.Forms.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Prism.Resource.Color.design_icon_tint = global::LongoToDo.Forms.Droid.Resource.Color.design_icon_tint;
+			global::Prism.Resource.Color.design_snackbar_background_color = global::LongoToDo.Forms.Droid.Resource.Color.design_snackbar_background_color;
+			global::Prism.Resource.Color.dim_foreground_disabled_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Prism.Resource.Color.dim_foreground_disabled_material_light = global::LongoToDo.Forms.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Prism.Resource.Color.dim_foreground_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Prism.Resource.Color.dim_foreground_material_light = global::LongoToDo.Forms.Droid.Resource.Color.dim_foreground_material_light;
+			global::Prism.Resource.Color.error_color_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.error_color_material_dark;
+			global::Prism.Resource.Color.error_color_material_light = global::LongoToDo.Forms.Droid.Resource.Color.error_color_material_light;
+			global::Prism.Resource.Color.foreground_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.foreground_material_dark;
+			global::Prism.Resource.Color.foreground_material_light = global::LongoToDo.Forms.Droid.Resource.Color.foreground_material_light;
+			global::Prism.Resource.Color.highlighted_text_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Prism.Resource.Color.highlighted_text_material_light = global::LongoToDo.Forms.Droid.Resource.Color.highlighted_text_material_light;
+			global::Prism.Resource.Color.material_blue_grey_800 = global::LongoToDo.Forms.Droid.Resource.Color.material_blue_grey_800;
+			global::Prism.Resource.Color.material_blue_grey_900 = global::LongoToDo.Forms.Droid.Resource.Color.material_blue_grey_900;
+			global::Prism.Resource.Color.material_blue_grey_950 = global::LongoToDo.Forms.Droid.Resource.Color.material_blue_grey_950;
+			global::Prism.Resource.Color.material_deep_teal_200 = global::LongoToDo.Forms.Droid.Resource.Color.material_deep_teal_200;
+			global::Prism.Resource.Color.material_deep_teal_500 = global::LongoToDo.Forms.Droid.Resource.Color.material_deep_teal_500;
+			global::Prism.Resource.Color.material_grey_100 = global::LongoToDo.Forms.Droid.Resource.Color.material_grey_100;
+			global::Prism.Resource.Color.material_grey_300 = global::LongoToDo.Forms.Droid.Resource.Color.material_grey_300;
+			global::Prism.Resource.Color.material_grey_50 = global::LongoToDo.Forms.Droid.Resource.Color.material_grey_50;
+			global::Prism.Resource.Color.material_grey_600 = global::LongoToDo.Forms.Droid.Resource.Color.material_grey_600;
+			global::Prism.Resource.Color.material_grey_800 = global::LongoToDo.Forms.Droid.Resource.Color.material_grey_800;
+			global::Prism.Resource.Color.material_grey_850 = global::LongoToDo.Forms.Droid.Resource.Color.material_grey_850;
+			global::Prism.Resource.Color.material_grey_900 = global::LongoToDo.Forms.Droid.Resource.Color.material_grey_900;
+			global::Prism.Resource.Color.material_on_background_disabled = global::LongoToDo.Forms.Droid.Resource.Color.material_on_background_disabled;
+			global::Prism.Resource.Color.material_on_background_emphasis_high_type = global::LongoToDo.Forms.Droid.Resource.Color.material_on_background_emphasis_high_type;
+			global::Prism.Resource.Color.material_on_background_emphasis_medium = global::LongoToDo.Forms.Droid.Resource.Color.material_on_background_emphasis_medium;
+			global::Prism.Resource.Color.material_on_primary_disabled = global::LongoToDo.Forms.Droid.Resource.Color.material_on_primary_disabled;
+			global::Prism.Resource.Color.material_on_primary_emphasis_high_type = global::LongoToDo.Forms.Droid.Resource.Color.material_on_primary_emphasis_high_type;
+			global::Prism.Resource.Color.material_on_primary_emphasis_medium = global::LongoToDo.Forms.Droid.Resource.Color.material_on_primary_emphasis_medium;
+			global::Prism.Resource.Color.material_on_surface_disabled = global::LongoToDo.Forms.Droid.Resource.Color.material_on_surface_disabled;
+			global::Prism.Resource.Color.material_on_surface_emphasis_high_type = global::LongoToDo.Forms.Droid.Resource.Color.material_on_surface_emphasis_high_type;
+			global::Prism.Resource.Color.material_on_surface_emphasis_medium = global::LongoToDo.Forms.Droid.Resource.Color.material_on_surface_emphasis_medium;
+			global::Prism.Resource.Color.material_on_surface_stroke = global::LongoToDo.Forms.Droid.Resource.Color.material_on_surface_stroke;
+			global::Prism.Resource.Color.material_slider_active_tick_marks_color = global::LongoToDo.Forms.Droid.Resource.Color.material_slider_active_tick_marks_color;
+			global::Prism.Resource.Color.material_slider_active_track_color = global::LongoToDo.Forms.Droid.Resource.Color.material_slider_active_track_color;
+			global::Prism.Resource.Color.material_slider_halo_color = global::LongoToDo.Forms.Droid.Resource.Color.material_slider_halo_color;
+			global::Prism.Resource.Color.material_slider_inactive_tick_marks_color = global::LongoToDo.Forms.Droid.Resource.Color.material_slider_inactive_tick_marks_color;
+			global::Prism.Resource.Color.material_slider_inactive_track_color = global::LongoToDo.Forms.Droid.Resource.Color.material_slider_inactive_track_color;
+			global::Prism.Resource.Color.material_slider_thumb_color = global::LongoToDo.Forms.Droid.Resource.Color.material_slider_thumb_color;
+			global::Prism.Resource.Color.mtrl_btn_bg_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Prism.Resource.Color.mtrl_btn_ripple_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::Prism.Resource.Color.mtrl_btn_stroke_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Prism.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
+			global::Prism.Resource.Color.mtrl_btn_text_btn_ripple_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Prism.Resource.Color.mtrl_btn_text_color_disabled = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Prism.Resource.Color.mtrl_btn_text_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::Prism.Resource.Color.mtrl_btn_transparent_bg_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Prism.Resource.Color.mtrl_calendar_item_stroke_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
+			global::Prism.Resource.Color.mtrl_calendar_selected_range = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_calendar_selected_range;
+			global::Prism.Resource.Color.mtrl_card_view_foreground = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_card_view_foreground;
+			global::Prism.Resource.Color.mtrl_card_view_ripple = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_card_view_ripple;
+			global::Prism.Resource.Color.mtrl_chip_background_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_chip_background_color;
+			global::Prism.Resource.Color.mtrl_chip_close_icon_tint = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Prism.Resource.Color.mtrl_chip_surface_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_chip_surface_color;
+			global::Prism.Resource.Color.mtrl_chip_text_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_chip_text_color;
+			global::Prism.Resource.Color.mtrl_choice_chip_background_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_choice_chip_background_color;
+			global::Prism.Resource.Color.mtrl_choice_chip_ripple_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
+			global::Prism.Resource.Color.mtrl_choice_chip_text_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_choice_chip_text_color;
+			global::Prism.Resource.Color.mtrl_error = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_error;
+			global::Prism.Resource.Color.mtrl_fab_bg_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_fab_bg_color_selector;
+			global::Prism.Resource.Color.mtrl_fab_icon_text_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_fab_icon_text_color_selector;
+			global::Prism.Resource.Color.mtrl_fab_ripple_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::Prism.Resource.Color.mtrl_filled_background_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_filled_background_color;
+			global::Prism.Resource.Color.mtrl_filled_icon_tint = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_filled_icon_tint;
+			global::Prism.Resource.Color.mtrl_filled_stroke_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_filled_stroke_color;
+			global::Prism.Resource.Color.mtrl_indicator_text_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_indicator_text_color;
+			global::Prism.Resource.Color.mtrl_navigation_item_background_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_navigation_item_background_color;
+			global::Prism.Resource.Color.mtrl_navigation_item_icon_tint = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
+			global::Prism.Resource.Color.mtrl_navigation_item_text_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_navigation_item_text_color;
+			global::Prism.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
+			global::Prism.Resource.Color.mtrl_outlined_icon_tint = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_outlined_icon_tint;
+			global::Prism.Resource.Color.mtrl_outlined_stroke_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_outlined_stroke_color;
+			global::Prism.Resource.Color.mtrl_popupmenu_overlay_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
+			global::Prism.Resource.Color.mtrl_scrim_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_scrim_color;
+			global::Prism.Resource.Color.mtrl_tabs_colored_ripple_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Prism.Resource.Color.mtrl_tabs_icon_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Prism.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Prism.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Prism.Resource.Color.mtrl_tabs_ripple_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Prism.Resource.Color.mtrl_textinput_default_box_stroke_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Prism.Resource.Color.mtrl_textinput_disabled_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::Prism.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Prism.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
+			global::Prism.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Prism.Resource.Color.mtrl_text_btn_text_color_selector = global::LongoToDo.Forms.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Prism.Resource.Color.notification_action_color_filter = global::LongoToDo.Forms.Droid.Resource.Color.notification_action_color_filter;
+			global::Prism.Resource.Color.notification_icon_bg_color = global::LongoToDo.Forms.Droid.Resource.Color.notification_icon_bg_color;
+			global::Prism.Resource.Color.notification_material_background_media_default_color = global::LongoToDo.Forms.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Prism.Resource.Color.primary_dark_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.primary_dark_material_dark;
+			global::Prism.Resource.Color.primary_dark_material_light = global::LongoToDo.Forms.Droid.Resource.Color.primary_dark_material_light;
+			global::Prism.Resource.Color.primary_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.primary_material_dark;
+			global::Prism.Resource.Color.primary_material_light = global::LongoToDo.Forms.Droid.Resource.Color.primary_material_light;
+			global::Prism.Resource.Color.primary_text_default_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Prism.Resource.Color.primary_text_default_material_light = global::LongoToDo.Forms.Droid.Resource.Color.primary_text_default_material_light;
+			global::Prism.Resource.Color.primary_text_disabled_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Prism.Resource.Color.primary_text_disabled_material_light = global::LongoToDo.Forms.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Prism.Resource.Color.radiobutton_themeable_attribute_color = global::LongoToDo.Forms.Droid.Resource.Color.radiobutton_themeable_attribute_color;
+			global::Prism.Resource.Color.ripple_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.ripple_material_dark;
+			global::Prism.Resource.Color.ripple_material_light = global::LongoToDo.Forms.Droid.Resource.Color.ripple_material_light;
+			global::Prism.Resource.Color.secondary_text_default_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Prism.Resource.Color.secondary_text_default_material_light = global::LongoToDo.Forms.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Prism.Resource.Color.secondary_text_disabled_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Prism.Resource.Color.secondary_text_disabled_material_light = global::LongoToDo.Forms.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Prism.Resource.Color.switch_thumb_disabled_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Prism.Resource.Color.switch_thumb_disabled_material_light = global::LongoToDo.Forms.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Prism.Resource.Color.switch_thumb_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Prism.Resource.Color.switch_thumb_material_light = global::LongoToDo.Forms.Droid.Resource.Color.switch_thumb_material_light;
+			global::Prism.Resource.Color.switch_thumb_normal_material_dark = global::LongoToDo.Forms.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Prism.Resource.Color.switch_thumb_normal_material_light = global::LongoToDo.Forms.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Prism.Resource.Color.test_mtrl_calendar_day = global::LongoToDo.Forms.Droid.Resource.Color.test_mtrl_calendar_day;
+			global::Prism.Resource.Color.test_mtrl_calendar_day_selected = global::LongoToDo.Forms.Droid.Resource.Color.test_mtrl_calendar_day_selected;
+			global::Prism.Resource.Color.tooltip_background_dark = global::LongoToDo.Forms.Droid.Resource.Color.tooltip_background_dark;
+			global::Prism.Resource.Color.tooltip_background_light = global::LongoToDo.Forms.Droid.Resource.Color.tooltip_background_light;
+			global::Prism.Resource.Dimension.abc_action_bar_content_inset_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Prism.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Prism.Resource.Dimension.abc_action_bar_default_height_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Prism.Resource.Dimension.abc_action_bar_default_padding_end_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Prism.Resource.Dimension.abc_action_bar_default_padding_start_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Prism.Resource.Dimension.abc_action_bar_elevation_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Prism.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Prism.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Prism.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Prism.Resource.Dimension.abc_action_bar_stacked_max_height = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Prism.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Prism.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Prism.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_height_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_width_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_width_overflow_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Prism.Resource.Dimension.abc_alert_dialog_button_bar_height = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Prism.Resource.Dimension.abc_alert_dialog_button_dimen = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Prism.Resource.Dimension.abc_button_inset_horizontal_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Prism.Resource.Dimension.abc_button_inset_vertical_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Prism.Resource.Dimension.abc_button_padding_horizontal_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Prism.Resource.Dimension.abc_button_padding_vertical_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Prism.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Prism.Resource.Dimension.abc_config_prefDialogWidth = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Prism.Resource.Dimension.abc_control_corner_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Prism.Resource.Dimension.abc_control_inset_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Prism.Resource.Dimension.abc_control_padding_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Prism.Resource.Dimension.abc_dialog_corner_radius_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_height_major = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_height_minor = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_width_major = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_width_minor = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Prism.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Prism.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Prism.Resource.Dimension.abc_dialog_min_width_major = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Prism.Resource.Dimension.abc_dialog_min_width_minor = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Prism.Resource.Dimension.abc_dialog_padding_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Prism.Resource.Dimension.abc_dialog_padding_top_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Prism.Resource.Dimension.abc_dialog_title_divider_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Prism.Resource.Dimension.abc_disabled_alpha_material_dark = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Prism.Resource.Dimension.abc_disabled_alpha_material_light = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Prism.Resource.Dimension.abc_dropdownitem_icon_width = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Prism.Resource.Dimension.abc_dropdownitem_text_padding_left = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Prism.Resource.Dimension.abc_dropdownitem_text_padding_right = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_bottom_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_top_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Prism.Resource.Dimension.abc_floating_window_z = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Prism.Resource.Dimension.abc_list_item_height_large_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::Prism.Resource.Dimension.abc_list_item_height_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::Prism.Resource.Dimension.abc_list_item_height_small_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::Prism.Resource.Dimension.abc_list_item_padding_horizontal_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Prism.Resource.Dimension.abc_panel_menu_list_width = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Prism.Resource.Dimension.abc_progress_bar_height_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Prism.Resource.Dimension.abc_search_view_preferred_height = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Prism.Resource.Dimension.abc_search_view_preferred_width = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Prism.Resource.Dimension.abc_seekbar_track_background_height_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Prism.Resource.Dimension.abc_seekbar_track_progress_height_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Prism.Resource.Dimension.abc_select_dialog_padding_start_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Prism.Resource.Dimension.abc_switch_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_switch_padding;
+			global::Prism.Resource.Dimension.abc_text_size_body_1_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Prism.Resource.Dimension.abc_text_size_body_2_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Prism.Resource.Dimension.abc_text_size_button_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Prism.Resource.Dimension.abc_text_size_caption_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_1_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_2_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_3_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_4_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Prism.Resource.Dimension.abc_text_size_headline_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Prism.Resource.Dimension.abc_text_size_large_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Prism.Resource.Dimension.abc_text_size_medium_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Prism.Resource.Dimension.abc_text_size_menu_header_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Prism.Resource.Dimension.abc_text_size_menu_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Prism.Resource.Dimension.abc_text_size_small_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Prism.Resource.Dimension.abc_text_size_subhead_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Prism.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Prism.Resource.Dimension.abc_text_size_title_material = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Prism.Resource.Dimension.abc_text_size_title_material_toolbar = global::LongoToDo.Forms.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Prism.Resource.Dimension.action_bar_size = global::LongoToDo.Forms.Droid.Resource.Dimension.action_bar_size;
+			global::Prism.Resource.Dimension.appcompat_dialog_background_inset = global::LongoToDo.Forms.Droid.Resource.Dimension.appcompat_dialog_background_inset;
+			global::Prism.Resource.Dimension.browser_actions_context_menu_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Prism.Resource.Dimension.browser_actions_context_menu_min_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Prism.Resource.Dimension.cardview_compat_inset_shadow = global::LongoToDo.Forms.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Prism.Resource.Dimension.cardview_default_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Prism.Resource.Dimension.cardview_default_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.cardview_default_radius;
+			global::Prism.Resource.Dimension.compat_button_inset_horizontal_material = global::LongoToDo.Forms.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Prism.Resource.Dimension.compat_button_inset_vertical_material = global::LongoToDo.Forms.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Prism.Resource.Dimension.compat_button_padding_horizontal_material = global::LongoToDo.Forms.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Prism.Resource.Dimension.compat_button_padding_vertical_material = global::LongoToDo.Forms.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Prism.Resource.Dimension.compat_control_corner_material = global::LongoToDo.Forms.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Prism.Resource.Dimension.compat_notification_large_icon_max_height = global::LongoToDo.Forms.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Prism.Resource.Dimension.compat_notification_large_icon_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Prism.Resource.Dimension.default_dimension = global::LongoToDo.Forms.Droid.Resource.Dimension.default_dimension;
+			global::Prism.Resource.Dimension.def_drawer_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.def_drawer_elevation;
+			global::Prism.Resource.Dimension.design_appbar_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Prism.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_active_text_size = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Prism.Resource.Dimension.design_bottom_navigation_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Prism.Resource.Dimension.design_bottom_navigation_height = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Prism.Resource.Dimension.design_bottom_navigation_icon_size = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Prism.Resource.Dimension.design_bottom_navigation_item_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_item_min_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Prism.Resource.Dimension.design_bottom_navigation_shadow_height = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Prism.Resource.Dimension.design_bottom_navigation_text_size = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Prism.Resource.Dimension.design_bottom_sheet_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_sheet_elevation;
+			global::Prism.Resource.Dimension.design_bottom_sheet_modal_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Prism.Resource.Dimension.design_bottom_sheet_peek_height_min = global::LongoToDo.Forms.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Prism.Resource.Dimension.design_fab_border_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_fab_border_width;
+			global::Prism.Resource.Dimension.design_fab_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.design_fab_elevation;
+			global::Prism.Resource.Dimension.design_fab_image_size = global::LongoToDo.Forms.Droid.Resource.Dimension.design_fab_image_size;
+			global::Prism.Resource.Dimension.design_fab_size_mini = global::LongoToDo.Forms.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Prism.Resource.Dimension.design_fab_size_normal = global::LongoToDo.Forms.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Prism.Resource.Dimension.design_fab_translation_z_hovered_focused = global::LongoToDo.Forms.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Prism.Resource.Dimension.design_fab_translation_z_pressed = global::LongoToDo.Forms.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Prism.Resource.Dimension.design_navigation_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Prism.Resource.Dimension.design_navigation_icon_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Prism.Resource.Dimension.design_navigation_icon_size = global::LongoToDo.Forms.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Prism.Resource.Dimension.design_navigation_item_horizontal_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Prism.Resource.Dimension.design_navigation_item_icon_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Prism.Resource.Dimension.design_navigation_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Prism.Resource.Dimension.design_navigation_padding_bottom = global::LongoToDo.Forms.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Prism.Resource.Dimension.design_navigation_separator_vertical_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Prism.Resource.Dimension.design_snackbar_action_inline_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Prism.Resource.Dimension.design_snackbar_action_text_color_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
+			global::Prism.Resource.Dimension.design_snackbar_background_corner_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Prism.Resource.Dimension.design_snackbar_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Prism.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Prism.Resource.Dimension.design_snackbar_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Prism.Resource.Dimension.design_snackbar_min_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Prism.Resource.Dimension.design_snackbar_padding_horizontal = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Prism.Resource.Dimension.design_snackbar_padding_vertical = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Prism.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Prism.Resource.Dimension.design_snackbar_text_size = global::LongoToDo.Forms.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Prism.Resource.Dimension.design_tab_max_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_tab_max_width;
+			global::Prism.Resource.Dimension.design_tab_scrollable_min_width = global::LongoToDo.Forms.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Prism.Resource.Dimension.design_tab_text_size = global::LongoToDo.Forms.Droid.Resource.Dimension.design_tab_text_size;
+			global::Prism.Resource.Dimension.design_tab_text_size_2line = global::LongoToDo.Forms.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Prism.Resource.Dimension.design_textinput_caption_translate_y = global::LongoToDo.Forms.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Prism.Resource.Dimension.disabled_alpha_material_dark = global::LongoToDo.Forms.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Prism.Resource.Dimension.disabled_alpha_material_light = global::LongoToDo.Forms.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Prism.Resource.Dimension.fastscroll_default_thickness = global::LongoToDo.Forms.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Prism.Resource.Dimension.fastscroll_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.fastscroll_margin;
+			global::Prism.Resource.Dimension.fastscroll_minimum_range = global::LongoToDo.Forms.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Prism.Resource.Dimension.highlight_alpha_material_colored = global::LongoToDo.Forms.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Prism.Resource.Dimension.highlight_alpha_material_dark = global::LongoToDo.Forms.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Prism.Resource.Dimension.highlight_alpha_material_light = global::LongoToDo.Forms.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Prism.Resource.Dimension.hint_alpha_material_dark = global::LongoToDo.Forms.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Prism.Resource.Dimension.hint_alpha_material_light = global::LongoToDo.Forms.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Prism.Resource.Dimension.hint_pressed_alpha_material_dark = global::LongoToDo.Forms.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Prism.Resource.Dimension.hint_pressed_alpha_material_light = global::LongoToDo.Forms.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Prism.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::LongoToDo.Forms.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Prism.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::LongoToDo.Forms.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Prism.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::LongoToDo.Forms.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Prism.Resource.Dimension.material_emphasis_disabled = global::LongoToDo.Forms.Droid.Resource.Dimension.material_emphasis_disabled;
+			global::Prism.Resource.Dimension.material_emphasis_high_type = global::LongoToDo.Forms.Droid.Resource.Dimension.material_emphasis_high_type;
+			global::Prism.Resource.Dimension.material_emphasis_medium = global::LongoToDo.Forms.Droid.Resource.Dimension.material_emphasis_medium;
+			global::Prism.Resource.Dimension.material_text_view_test_line_height = global::LongoToDo.Forms.Droid.Resource.Dimension.material_text_view_test_line_height;
+			global::Prism.Resource.Dimension.material_text_view_test_line_height_override = global::LongoToDo.Forms.Droid.Resource.Dimension.material_text_view_test_line_height_override;
+			global::Prism.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
+			global::Prism.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
+			global::Prism.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
+			global::Prism.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
+			global::Prism.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
+			global::Prism.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
+			global::Prism.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
+			global::Prism.Resource.Dimension.mtrl_badge_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_badge_radius;
+			global::Prism.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
+			global::Prism.Resource.Dimension.mtrl_badge_text_size = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_badge_text_size;
+			global::Prism.Resource.Dimension.mtrl_badge_with_text_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
+			global::Prism.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Prism.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
+			global::Prism.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Prism.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Prism.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Prism.Resource.Dimension.mtrl_bottomappbar_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Prism.Resource.Dimension.mtrl_btn_corner_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Prism.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Prism.Resource.Dimension.mtrl_btn_disabled_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Prism.Resource.Dimension.mtrl_btn_disabled_z = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Prism.Resource.Dimension.mtrl_btn_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::Prism.Resource.Dimension.mtrl_btn_focused_z = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::Prism.Resource.Dimension.mtrl_btn_hovered_z = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Prism.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Prism.Resource.Dimension.mtrl_btn_icon_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Prism.Resource.Dimension.mtrl_btn_inset = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::Prism.Resource.Dimension.mtrl_btn_letter_spacing = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Prism.Resource.Dimension.mtrl_btn_padding_bottom = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Prism.Resource.Dimension.mtrl_btn_padding_left = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::Prism.Resource.Dimension.mtrl_btn_padding_right = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::Prism.Resource.Dimension.mtrl_btn_padding_top = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::Prism.Resource.Dimension.mtrl_btn_pressed_z = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Prism.Resource.Dimension.mtrl_btn_stroke_size = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Prism.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Prism.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Prism.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Prism.Resource.Dimension.mtrl_btn_text_size = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::Prism.Resource.Dimension.mtrl_btn_z = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_btn_z;
+			global::Prism.Resource.Dimension.mtrl_calendar_action_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_action_height;
+			global::Prism.Resource.Dimension.mtrl_calendar_action_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_action_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_bottom_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_content_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_content_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_days_of_week_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
+			global::Prism.Resource.Dimension.mtrl_calendar_day_corner = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_day_corner;
+			global::Prism.Resource.Dimension.mtrl_calendar_day_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_day_height;
+			global::Prism.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_day_today_stroke = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
+			global::Prism.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_day_width = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_day_width;
+			global::Prism.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_content_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_height;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_text_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
+			global::Prism.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
+			global::Prism.Resource.Dimension.mtrl_calendar_landscape_header_width = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
+			global::Prism.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
+			global::Prism.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_navigation_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
+			global::Prism.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
+			global::Prism.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
+			global::Prism.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
+			global::Prism.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
+			global::Prism.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
+			global::Prism.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
+			global::Prism.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
+			global::Prism.Resource.Dimension.mtrl_calendar_year_corner = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_year_corner;
+			global::Prism.Resource.Dimension.mtrl_calendar_year_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_year_height;
+			global::Prism.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
+			global::Prism.Resource.Dimension.mtrl_calendar_year_width = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_calendar_year_width;
+			global::Prism.Resource.Dimension.mtrl_card_checked_icon_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
+			global::Prism.Resource.Dimension.mtrl_card_checked_icon_size = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
+			global::Prism.Resource.Dimension.mtrl_card_corner_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_card_corner_radius;
+			global::Prism.Resource.Dimension.mtrl_card_dragged_z = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_card_dragged_z;
+			global::Prism.Resource.Dimension.mtrl_card_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::Prism.Resource.Dimension.mtrl_card_spacing = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::Prism.Resource.Dimension.mtrl_chip_pressed_translation_z = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Prism.Resource.Dimension.mtrl_chip_text_size = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::Prism.Resource.Dimension.mtrl_edittext_rectangle_top_offset = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_edittext_rectangle_top_offset;
+			global::Prism.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
+			global::Prism.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
+			global::Prism.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_corner_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_end_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_icon_size = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_min_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_min_width = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_start_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_top_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
+			global::Prism.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
+			global::Prism.Resource.Dimension.mtrl_fab_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::Prism.Resource.Dimension.mtrl_fab_min_touch_target = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
+			global::Prism.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Prism.Resource.Dimension.mtrl_fab_translation_z_pressed = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Prism.Resource.Dimension.mtrl_high_ripple_default_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
+			global::Prism.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
+			global::Prism.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
+			global::Prism.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
+			global::Prism.Resource.Dimension.mtrl_large_touch_target = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_large_touch_target;
+			global::Prism.Resource.Dimension.mtrl_low_ripple_default_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
+			global::Prism.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
+			global::Prism.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
+			global::Prism.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
+			global::Prism.Resource.Dimension.mtrl_min_touch_target_size = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_min_touch_target_size;
+			global::Prism.Resource.Dimension.mtrl_navigation_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::Prism.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Prism.Resource.Dimension.mtrl_navigation_item_icon_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Prism.Resource.Dimension.mtrl_navigation_item_icon_size = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
+			global::Prism.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
+			global::Prism.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
+			global::Prism.Resource.Dimension.mtrl_shape_corner_size_large_component = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
+			global::Prism.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
+			global::Prism.Resource.Dimension.mtrl_shape_corner_size_small_component = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
+			global::Prism.Resource.Dimension.mtrl_slider_halo_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_halo_radius;
+			global::Prism.Resource.Dimension.mtrl_slider_label_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_label_padding;
+			global::Prism.Resource.Dimension.mtrl_slider_label_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_label_radius;
+			global::Prism.Resource.Dimension.mtrl_slider_label_square_side = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_label_square_side;
+			global::Prism.Resource.Dimension.mtrl_slider_thumb_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_thumb_elevation;
+			global::Prism.Resource.Dimension.mtrl_slider_thumb_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_thumb_radius;
+			global::Prism.Resource.Dimension.mtrl_slider_track_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_track_height;
+			global::Prism.Resource.Dimension.mtrl_slider_track_side_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_track_side_padding;
+			global::Prism.Resource.Dimension.mtrl_slider_track_top = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_track_top;
+			global::Prism.Resource.Dimension.mtrl_slider_widget_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_slider_widget_height;
+			global::Prism.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
+			global::Prism.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Prism.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
+			global::Prism.Resource.Dimension.mtrl_snackbar_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::Prism.Resource.Dimension.mtrl_switch_thumb_elevation = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
+			global::Prism.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Prism.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Prism.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Prism.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Prism.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Prism.Resource.Dimension.mtrl_textinput_counter_margin_start = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_counter_margin_start;
+			global::Prism.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
+			global::Prism.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Prism.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
+			global::Prism.Resource.Dimension.mtrl_toolbar_default_height = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Prism.Resource.Dimension.mtrl_tooltip_arrowSize = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_tooltip_arrowSize;
+			global::Prism.Resource.Dimension.mtrl_tooltip_cornerSize = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_tooltip_cornerSize;
+			global::Prism.Resource.Dimension.mtrl_tooltip_minHeight = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_tooltip_minHeight;
+			global::Prism.Resource.Dimension.mtrl_tooltip_minWidth = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_tooltip_minWidth;
+			global::Prism.Resource.Dimension.mtrl_tooltip_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_tooltip_padding;
+			global::Prism.Resource.Dimension.mtrl_transition_shared_axis_slide_distance = global::LongoToDo.Forms.Droid.Resource.Dimension.mtrl_transition_shared_axis_slide_distance;
+			global::Prism.Resource.Dimension.notification_action_icon_size = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Prism.Resource.Dimension.notification_action_text_size = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_action_text_size;
+			global::Prism.Resource.Dimension.notification_big_circle_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Prism.Resource.Dimension.notification_content_margin_start = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Prism.Resource.Dimension.notification_large_icon_height = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Prism.Resource.Dimension.notification_large_icon_width = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Prism.Resource.Dimension.notification_main_column_padding_top = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Prism.Resource.Dimension.notification_media_narrow_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Prism.Resource.Dimension.notification_right_icon_size = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Prism.Resource.Dimension.notification_right_side_padding_top = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Prism.Resource.Dimension.notification_small_icon_background_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Prism.Resource.Dimension.notification_small_icon_size_as_large = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Prism.Resource.Dimension.notification_subtext_size = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_subtext_size;
+			global::Prism.Resource.Dimension.notification_top_pad = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_top_pad;
+			global::Prism.Resource.Dimension.notification_top_pad_large_text = global::LongoToDo.Forms.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Prism.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::LongoToDo.Forms.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
+			global::Prism.Resource.Dimension.tooltip_corner_radius = global::LongoToDo.Forms.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Prism.Resource.Dimension.tooltip_horizontal_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Prism.Resource.Dimension.tooltip_margin = global::LongoToDo.Forms.Droid.Resource.Dimension.tooltip_margin;
+			global::Prism.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::LongoToDo.Forms.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Prism.Resource.Dimension.tooltip_precise_anchor_threshold = global::LongoToDo.Forms.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Prism.Resource.Dimension.tooltip_vertical_padding = global::LongoToDo.Forms.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Prism.Resource.Dimension.tooltip_y_offset_non_touch = global::LongoToDo.Forms.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Prism.Resource.Dimension.tooltip_y_offset_touch = global::LongoToDo.Forms.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Prism.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_action_bar_item_background_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Prism.Resource.Drawable.abc_btn_borderless_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Prism.Resource.Drawable.abc_btn_check_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Prism.Resource.Drawable.abc_btn_check_material_anim = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::Prism.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Prism.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Prism.Resource.Drawable.abc_btn_colored_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Prism.Resource.Drawable.abc_btn_default_mtrl_shape = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Prism.Resource.Drawable.abc_btn_radio_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Prism.Resource.Drawable.abc_btn_radio_material_anim = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::Prism.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Prism.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Prism.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Prism.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Prism.Resource.Drawable.abc_cab_background_internal_bg = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Prism.Resource.Drawable.abc_cab_background_top_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Prism.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_control_background_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_control_background_material;
+			global::Prism.Resource.Drawable.abc_dialog_material_background = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Prism.Resource.Drawable.abc_edit_text_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Prism.Resource.Drawable.abc_ic_ab_back_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Prism.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Prism.Resource.Drawable.abc_ic_clear_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Prism.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_go_search_api_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Prism.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_overflow_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Prism.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_search_api_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Prism.Resource.Drawable.abc_ic_voice_search_api_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Prism.Resource.Drawable.abc_item_background_holo_dark = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Prism.Resource.Drawable.abc_item_background_holo_light = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Prism.Resource.Drawable.abc_list_divider_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_divider_material;
+			global::Prism.Resource.Drawable.abc_list_divider_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_list_focused_holo = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Prism.Resource.Drawable.abc_list_longpressed_holo = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Prism.Resource.Drawable.abc_list_pressed_holo_dark = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_pressed_holo_light = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_disabled_holo_light = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_holo_dark = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_holo_light = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Prism.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Prism.Resource.Drawable.abc_popup_background_mtrl_mult = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Prism.Resource.Drawable.abc_ratingbar_indicator_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Prism.Resource.Drawable.abc_ratingbar_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Prism.Resource.Drawable.abc_ratingbar_small_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Prism.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Prism.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Prism.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_seekbar_thumb_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Prism.Resource.Drawable.abc_seekbar_tick_mark_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Prism.Resource.Drawable.abc_seekbar_track_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Prism.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_spinner_textfield_background_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Prism.Resource.Drawable.abc_switch_thumb_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Prism.Resource.Drawable.abc_switch_track_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_tab_indicator_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Prism.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Prism.Resource.Drawable.abc_text_cursor_material = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Prism.Resource.Drawable.abc_vector_test = global::LongoToDo.Forms.Droid.Resource.Drawable.abc_vector_test;
+			global::Prism.Resource.Drawable.avd_hide_password = global::LongoToDo.Forms.Droid.Resource.Drawable.avd_hide_password;
+			global::Prism.Resource.Drawable.avd_show_password = global::LongoToDo.Forms.Droid.Resource.Drawable.avd_show_password;
+			global::Prism.Resource.Drawable.btn_checkbox_checked_mtrl = global::LongoToDo.Forms.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::Prism.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::LongoToDo.Forms.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::Prism.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::LongoToDo.Forms.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::Prism.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::LongoToDo.Forms.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::Prism.Resource.Drawable.btn_radio_off_mtrl = global::LongoToDo.Forms.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::Prism.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::LongoToDo.Forms.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::Prism.Resource.Drawable.btn_radio_on_mtrl = global::LongoToDo.Forms.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::Prism.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::LongoToDo.Forms.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::Prism.Resource.Drawable.design_fab_background = global::LongoToDo.Forms.Droid.Resource.Drawable.design_fab_background;
+			global::Prism.Resource.Drawable.design_ic_visibility = global::LongoToDo.Forms.Droid.Resource.Drawable.design_ic_visibility;
+			global::Prism.Resource.Drawable.design_ic_visibility_off = global::LongoToDo.Forms.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Prism.Resource.Drawable.design_password_eye = global::LongoToDo.Forms.Droid.Resource.Drawable.design_password_eye;
+			global::Prism.Resource.Drawable.design_snackbar_background = global::LongoToDo.Forms.Droid.Resource.Drawable.design_snackbar_background;
+			global::Prism.Resource.Drawable.ic_mtrl_checked_circle = global::LongoToDo.Forms.Droid.Resource.Drawable.ic_mtrl_checked_circle;
+			global::Prism.Resource.Drawable.ic_mtrl_chip_checked_black = global::LongoToDo.Forms.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Prism.Resource.Drawable.ic_mtrl_chip_checked_circle = global::LongoToDo.Forms.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Prism.Resource.Drawable.ic_mtrl_chip_close_circle = global::LongoToDo.Forms.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Prism.Resource.Drawable.material_ic_calendar_black_24dp = global::LongoToDo.Forms.Droid.Resource.Drawable.material_ic_calendar_black_24dp;
+			global::Prism.Resource.Drawable.material_ic_clear_black_24dp = global::LongoToDo.Forms.Droid.Resource.Drawable.material_ic_clear_black_24dp;
+			global::Prism.Resource.Drawable.material_ic_edit_black_24dp = global::LongoToDo.Forms.Droid.Resource.Drawable.material_ic_edit_black_24dp;
+			global::Prism.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp = global::LongoToDo.Forms.Droid.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp;
+			global::Prism.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp = global::LongoToDo.Forms.Droid.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp;
+			global::Prism.Resource.Drawable.material_ic_menu_arrow_down_black_24dp = global::LongoToDo.Forms.Droid.Resource.Drawable.material_ic_menu_arrow_down_black_24dp;
+			global::Prism.Resource.Drawable.material_ic_menu_arrow_up_black_24dp = global::LongoToDo.Forms.Droid.Resource.Drawable.material_ic_menu_arrow_up_black_24dp;
+			global::Prism.Resource.Drawable.mtrl_dialog_background = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_dialog_background;
+			global::Prism.Resource.Drawable.mtrl_dropdown_arrow = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_dropdown_arrow;
+			global::Prism.Resource.Drawable.mtrl_ic_arrow_drop_down = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
+			global::Prism.Resource.Drawable.mtrl_ic_arrow_drop_up = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
+			global::Prism.Resource.Drawable.mtrl_ic_cancel = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_ic_cancel;
+			global::Prism.Resource.Drawable.mtrl_ic_error = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_ic_error;
+			global::Prism.Resource.Drawable.mtrl_popupmenu_background = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_popupmenu_background;
+			global::Prism.Resource.Drawable.mtrl_popupmenu_background_dark = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
+			global::Prism.Resource.Drawable.mtrl_tabs_default_indicator = global::LongoToDo.Forms.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Prism.Resource.Drawable.navigation_empty_icon = global::LongoToDo.Forms.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Prism.Resource.Drawable.notification_action_background = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_action_background;
+			global::Prism.Resource.Drawable.notification_bg = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_bg;
+			global::Prism.Resource.Drawable.notification_bg_low = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_bg_low;
+			global::Prism.Resource.Drawable.notification_bg_low_normal = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Prism.Resource.Drawable.notification_bg_low_pressed = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Prism.Resource.Drawable.notification_bg_normal = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_bg_normal;
+			global::Prism.Resource.Drawable.notification_bg_normal_pressed = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Prism.Resource.Drawable.notification_icon_background = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_icon_background;
+			global::Prism.Resource.Drawable.notification_template_icon_bg = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Prism.Resource.Drawable.notification_template_icon_low_bg = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Prism.Resource.Drawable.notification_tile_bg = global::LongoToDo.Forms.Droid.Resource.Drawable.notification_tile_bg;
+			global::Prism.Resource.Drawable.notify_panel_notification_icon_bg = global::LongoToDo.Forms.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Prism.Resource.Drawable.test_custom_background = global::LongoToDo.Forms.Droid.Resource.Drawable.test_custom_background;
+			global::Prism.Resource.Drawable.tooltip_frame_dark = global::LongoToDo.Forms.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Prism.Resource.Drawable.tooltip_frame_light = global::LongoToDo.Forms.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Prism.Resource.Id.accessibility_action_clickable_span = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Prism.Resource.Id.accessibility_custom_action_0 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Prism.Resource.Id.accessibility_custom_action_1 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Prism.Resource.Id.accessibility_custom_action_10 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Prism.Resource.Id.accessibility_custom_action_11 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Prism.Resource.Id.accessibility_custom_action_12 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Prism.Resource.Id.accessibility_custom_action_13 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Prism.Resource.Id.accessibility_custom_action_14 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Prism.Resource.Id.accessibility_custom_action_15 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Prism.Resource.Id.accessibility_custom_action_16 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Prism.Resource.Id.accessibility_custom_action_17 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Prism.Resource.Id.accessibility_custom_action_18 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Prism.Resource.Id.accessibility_custom_action_19 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Prism.Resource.Id.accessibility_custom_action_2 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Prism.Resource.Id.accessibility_custom_action_20 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Prism.Resource.Id.accessibility_custom_action_21 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Prism.Resource.Id.accessibility_custom_action_22 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Prism.Resource.Id.accessibility_custom_action_23 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Prism.Resource.Id.accessibility_custom_action_24 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Prism.Resource.Id.accessibility_custom_action_25 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Prism.Resource.Id.accessibility_custom_action_26 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Prism.Resource.Id.accessibility_custom_action_27 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Prism.Resource.Id.accessibility_custom_action_28 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Prism.Resource.Id.accessibility_custom_action_29 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Prism.Resource.Id.accessibility_custom_action_3 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Prism.Resource.Id.accessibility_custom_action_30 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Prism.Resource.Id.accessibility_custom_action_31 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Prism.Resource.Id.accessibility_custom_action_4 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Prism.Resource.Id.accessibility_custom_action_5 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Prism.Resource.Id.accessibility_custom_action_6 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Prism.Resource.Id.accessibility_custom_action_7 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Prism.Resource.Id.accessibility_custom_action_8 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Prism.Resource.Id.accessibility_custom_action_9 = global::LongoToDo.Forms.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Prism.Resource.Id.action0 = global::LongoToDo.Forms.Droid.Resource.Id.action0;
+			global::Prism.Resource.Id.actions = global::LongoToDo.Forms.Droid.Resource.Id.actions;
+			global::Prism.Resource.Id.action_bar = global::LongoToDo.Forms.Droid.Resource.Id.action_bar;
+			global::Prism.Resource.Id.action_bar_activity_content = global::LongoToDo.Forms.Droid.Resource.Id.action_bar_activity_content;
+			global::Prism.Resource.Id.action_bar_container = global::LongoToDo.Forms.Droid.Resource.Id.action_bar_container;
+			global::Prism.Resource.Id.action_bar_root = global::LongoToDo.Forms.Droid.Resource.Id.action_bar_root;
+			global::Prism.Resource.Id.action_bar_spinner = global::LongoToDo.Forms.Droid.Resource.Id.action_bar_spinner;
+			global::Prism.Resource.Id.action_bar_subtitle = global::LongoToDo.Forms.Droid.Resource.Id.action_bar_subtitle;
+			global::Prism.Resource.Id.action_bar_title = global::LongoToDo.Forms.Droid.Resource.Id.action_bar_title;
+			global::Prism.Resource.Id.action_container = global::LongoToDo.Forms.Droid.Resource.Id.action_container;
+			global::Prism.Resource.Id.action_context_bar = global::LongoToDo.Forms.Droid.Resource.Id.action_context_bar;
+			global::Prism.Resource.Id.action_divider = global::LongoToDo.Forms.Droid.Resource.Id.action_divider;
+			global::Prism.Resource.Id.action_image = global::LongoToDo.Forms.Droid.Resource.Id.action_image;
+			global::Prism.Resource.Id.action_menu_divider = global::LongoToDo.Forms.Droid.Resource.Id.action_menu_divider;
+			global::Prism.Resource.Id.action_menu_presenter = global::LongoToDo.Forms.Droid.Resource.Id.action_menu_presenter;
+			global::Prism.Resource.Id.action_mode_bar = global::LongoToDo.Forms.Droid.Resource.Id.action_mode_bar;
+			global::Prism.Resource.Id.action_mode_bar_stub = global::LongoToDo.Forms.Droid.Resource.Id.action_mode_bar_stub;
+			global::Prism.Resource.Id.action_mode_close_button = global::LongoToDo.Forms.Droid.Resource.Id.action_mode_close_button;
+			global::Prism.Resource.Id.action_text = global::LongoToDo.Forms.Droid.Resource.Id.action_text;
+			global::Prism.Resource.Id.activity_chooser_view_content = global::LongoToDo.Forms.Droid.Resource.Id.activity_chooser_view_content;
+			global::Prism.Resource.Id.add = global::LongoToDo.Forms.Droid.Resource.Id.add;
+			global::Prism.Resource.Id.alertTitle = global::LongoToDo.Forms.Droid.Resource.Id.alertTitle;
+			global::Prism.Resource.Id.all = global::LongoToDo.Forms.Droid.Resource.Id.all;
+			global::Prism.Resource.Id.ALT = global::LongoToDo.Forms.Droid.Resource.Id.ALT;
+			global::Prism.Resource.Id.always = global::LongoToDo.Forms.Droid.Resource.Id.always;
+			global::Prism.Resource.Id.async = global::LongoToDo.Forms.Droid.Resource.Id.async;
+			global::Prism.Resource.Id.auto = global::LongoToDo.Forms.Droid.Resource.Id.auto;
+			global::Prism.Resource.Id.beginning = global::LongoToDo.Forms.Droid.Resource.Id.beginning;
+			global::Prism.Resource.Id.blocking = global::LongoToDo.Forms.Droid.Resource.Id.blocking;
+			global::Prism.Resource.Id.bottom = global::LongoToDo.Forms.Droid.Resource.Id.bottom;
+			global::Prism.Resource.Id.bottomtab_navarea = global::LongoToDo.Forms.Droid.Resource.Id.bottomtab_navarea;
+			global::Prism.Resource.Id.bottomtab_tabbar = global::LongoToDo.Forms.Droid.Resource.Id.bottomtab_tabbar;
+			global::Prism.Resource.Id.BOTTOM_END = global::LongoToDo.Forms.Droid.Resource.Id.BOTTOM_END;
+			global::Prism.Resource.Id.BOTTOM_START = global::LongoToDo.Forms.Droid.Resource.Id.BOTTOM_START;
+			global::Prism.Resource.Id.browser_actions_header_text = global::LongoToDo.Forms.Droid.Resource.Id.browser_actions_header_text;
+			global::Prism.Resource.Id.browser_actions_menu_items = global::LongoToDo.Forms.Droid.Resource.Id.browser_actions_menu_items;
+			global::Prism.Resource.Id.browser_actions_menu_item_icon = global::LongoToDo.Forms.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Prism.Resource.Id.browser_actions_menu_item_text = global::LongoToDo.Forms.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Prism.Resource.Id.browser_actions_menu_view = global::LongoToDo.Forms.Droid.Resource.Id.browser_actions_menu_view;
+			global::Prism.Resource.Id.buttonPanel = global::LongoToDo.Forms.Droid.Resource.Id.buttonPanel;
+			global::Prism.Resource.Id.cancel_action = global::LongoToDo.Forms.Droid.Resource.Id.cancel_action;
+			global::Prism.Resource.Id.cancel_button = global::LongoToDo.Forms.Droid.Resource.Id.cancel_button;
+			global::Prism.Resource.Id.center = global::LongoToDo.Forms.Droid.Resource.Id.center;
+			global::Prism.Resource.Id.center_horizontal = global::LongoToDo.Forms.Droid.Resource.Id.center_horizontal;
+			global::Prism.Resource.Id.center_vertical = global::LongoToDo.Forms.Droid.Resource.Id.center_vertical;
+			global::Prism.Resource.Id.checkbox = global::LongoToDo.Forms.Droid.Resource.Id.checkbox;
+			global::Prism.Resource.Id.@checked = global::LongoToDo.Forms.Droid.Resource.Id.@checked;
+			global::Prism.Resource.Id.chip = global::LongoToDo.Forms.Droid.Resource.Id.chip;
+			global::Prism.Resource.Id.chip1 = global::LongoToDo.Forms.Droid.Resource.Id.chip1;
+			global::Prism.Resource.Id.chip2 = global::LongoToDo.Forms.Droid.Resource.Id.chip2;
+			global::Prism.Resource.Id.chip3 = global::LongoToDo.Forms.Droid.Resource.Id.chip3;
+			global::Prism.Resource.Id.chip_group = global::LongoToDo.Forms.Droid.Resource.Id.chip_group;
+			global::Prism.Resource.Id.chronometer = global::LongoToDo.Forms.Droid.Resource.Id.chronometer;
+			global::Prism.Resource.Id.clear_text = global::LongoToDo.Forms.Droid.Resource.Id.clear_text;
+			global::Prism.Resource.Id.clip_horizontal = global::LongoToDo.Forms.Droid.Resource.Id.clip_horizontal;
+			global::Prism.Resource.Id.clip_vertical = global::LongoToDo.Forms.Droid.Resource.Id.clip_vertical;
+			global::Prism.Resource.Id.collapseActionView = global::LongoToDo.Forms.Droid.Resource.Id.collapseActionView;
+			global::Prism.Resource.Id.confirm_button = global::LongoToDo.Forms.Droid.Resource.Id.confirm_button;
+			global::Prism.Resource.Id.container = global::LongoToDo.Forms.Droid.Resource.Id.container;
+			global::Prism.Resource.Id.content = global::LongoToDo.Forms.Droid.Resource.Id.content;
+			global::Prism.Resource.Id.contentPanel = global::LongoToDo.Forms.Droid.Resource.Id.contentPanel;
+			global::Prism.Resource.Id.coordinator = global::LongoToDo.Forms.Droid.Resource.Id.coordinator;
+			global::Prism.Resource.Id.CTRL = global::LongoToDo.Forms.Droid.Resource.Id.CTRL;
+			global::Prism.Resource.Id.custom = global::LongoToDo.Forms.Droid.Resource.Id.custom;
+			global::Prism.Resource.Id.customPanel = global::LongoToDo.Forms.Droid.Resource.Id.customPanel;
+			global::Prism.Resource.Id.cut = global::LongoToDo.Forms.Droid.Resource.Id.cut;
+			global::Prism.Resource.Id.date_picker_actions = global::LongoToDo.Forms.Droid.Resource.Id.date_picker_actions;
+			global::Prism.Resource.Id.decor_content_parent = global::LongoToDo.Forms.Droid.Resource.Id.decor_content_parent;
+			global::Prism.Resource.Id.default_activity_button = global::LongoToDo.Forms.Droid.Resource.Id.default_activity_button;
+			global::Prism.Resource.Id.design_bottom_sheet = global::LongoToDo.Forms.Droid.Resource.Id.design_bottom_sheet;
+			global::Prism.Resource.Id.design_menu_item_action_area = global::LongoToDo.Forms.Droid.Resource.Id.design_menu_item_action_area;
+			global::Prism.Resource.Id.design_menu_item_action_area_stub = global::LongoToDo.Forms.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Prism.Resource.Id.design_menu_item_text = global::LongoToDo.Forms.Droid.Resource.Id.design_menu_item_text;
+			global::Prism.Resource.Id.design_navigation_view = global::LongoToDo.Forms.Droid.Resource.Id.design_navigation_view;
+			global::Prism.Resource.Id.dialog_button = global::LongoToDo.Forms.Droid.Resource.Id.dialog_button;
+			global::Prism.Resource.Id.disableHome = global::LongoToDo.Forms.Droid.Resource.Id.disableHome;
+			global::Prism.Resource.Id.dropdown_menu = global::LongoToDo.Forms.Droid.Resource.Id.dropdown_menu;
+			global::Prism.Resource.Id.edit_query = global::LongoToDo.Forms.Droid.Resource.Id.edit_query;
+			global::Prism.Resource.Id.end = global::LongoToDo.Forms.Droid.Resource.Id.end;
+			global::Prism.Resource.Id.end_padder = global::LongoToDo.Forms.Droid.Resource.Id.end_padder;
+			global::Prism.Resource.Id.enterAlways = global::LongoToDo.Forms.Droid.Resource.Id.enterAlways;
+			global::Prism.Resource.Id.enterAlwaysCollapsed = global::LongoToDo.Forms.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Prism.Resource.Id.exitUntilCollapsed = global::LongoToDo.Forms.Droid.Resource.Id.exitUntilCollapsed;
+			global::Prism.Resource.Id.expanded_menu = global::LongoToDo.Forms.Droid.Resource.Id.expanded_menu;
+			global::Prism.Resource.Id.expand_activities_button = global::LongoToDo.Forms.Droid.Resource.Id.expand_activities_button;
+			global::Prism.Resource.Id.fade = global::LongoToDo.Forms.Droid.Resource.Id.fade;
+			global::Prism.Resource.Id.fill = global::LongoToDo.Forms.Droid.Resource.Id.fill;
+			global::Prism.Resource.Id.filled = global::LongoToDo.Forms.Droid.Resource.Id.filled;
+			global::Prism.Resource.Id.fill_horizontal = global::LongoToDo.Forms.Droid.Resource.Id.fill_horizontal;
+			global::Prism.Resource.Id.fill_vertical = global::LongoToDo.Forms.Droid.Resource.Id.fill_vertical;
+			global::Prism.Resource.Id.fitToContents = global::LongoToDo.Forms.Droid.Resource.Id.fitToContents;
+			global::Prism.Resource.Id.@fixed = global::LongoToDo.Forms.Droid.Resource.Id.@fixed;
+			global::Prism.Resource.Id.floating = global::LongoToDo.Forms.Droid.Resource.Id.floating;
+			global::Prism.Resource.Id.flyoutcontent_appbar = global::LongoToDo.Forms.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Prism.Resource.Id.forever = global::LongoToDo.Forms.Droid.Resource.Id.forever;
+			global::Prism.Resource.Id.fragment_container_view_tag = global::LongoToDo.Forms.Droid.Resource.Id.fragment_container_view_tag;
+			global::Prism.Resource.Id.FUNCTION = global::LongoToDo.Forms.Droid.Resource.Id.FUNCTION;
+			global::Prism.Resource.Id.ghost_view = global::LongoToDo.Forms.Droid.Resource.Id.ghost_view;
+			global::Prism.Resource.Id.ghost_view_holder = global::LongoToDo.Forms.Droid.Resource.Id.ghost_view_holder;
+			global::Prism.Resource.Id.gone = global::LongoToDo.Forms.Droid.Resource.Id.gone;
+			global::Prism.Resource.Id.group_divider = global::LongoToDo.Forms.Droid.Resource.Id.group_divider;
+			global::Prism.Resource.Id.hideable = global::LongoToDo.Forms.Droid.Resource.Id.hideable;
+			global::Prism.Resource.Id.home = global::LongoToDo.Forms.Droid.Resource.Id.home;
+			global::Prism.Resource.Id.homeAsUp = global::LongoToDo.Forms.Droid.Resource.Id.homeAsUp;
+			global::Prism.Resource.Id.icon = global::LongoToDo.Forms.Droid.Resource.Id.icon;
+			global::Prism.Resource.Id.icon_group = global::LongoToDo.Forms.Droid.Resource.Id.icon_group;
+			global::Prism.Resource.Id.ifRoom = global::LongoToDo.Forms.Droid.Resource.Id.ifRoom;
+			global::Prism.Resource.Id.image = global::LongoToDo.Forms.Droid.Resource.Id.image;
+			global::Prism.Resource.Id.info = global::LongoToDo.Forms.Droid.Resource.Id.info;
+			global::Prism.Resource.Id.italic = global::LongoToDo.Forms.Droid.Resource.Id.italic;
+			global::Prism.Resource.Id.item_touch_helper_previous_elevation = global::LongoToDo.Forms.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Prism.Resource.Id.labeled = global::LongoToDo.Forms.Droid.Resource.Id.labeled;
+			global::Prism.Resource.Id.left = global::LongoToDo.Forms.Droid.Resource.Id.left;
+			global::Prism.Resource.Id.line1 = global::LongoToDo.Forms.Droid.Resource.Id.line1;
+			global::Prism.Resource.Id.line3 = global::LongoToDo.Forms.Droid.Resource.Id.line3;
+			global::Prism.Resource.Id.listMode = global::LongoToDo.Forms.Droid.Resource.Id.listMode;
+			global::Prism.Resource.Id.list_item = global::LongoToDo.Forms.Droid.Resource.Id.list_item;
+			global::Prism.Resource.Id.main_appbar = global::LongoToDo.Forms.Droid.Resource.Id.main_appbar;
+			global::Prism.Resource.Id.main_tablayout = global::LongoToDo.Forms.Droid.Resource.Id.main_tablayout;
+			global::Prism.Resource.Id.main_toolbar = global::LongoToDo.Forms.Droid.Resource.Id.main_toolbar;
+			global::Prism.Resource.Id.main_viewpager = global::LongoToDo.Forms.Droid.Resource.Id.main_viewpager;
+			global::Prism.Resource.Id.masked = global::LongoToDo.Forms.Droid.Resource.Id.masked;
+			global::Prism.Resource.Id.media_actions = global::LongoToDo.Forms.Droid.Resource.Id.media_actions;
+			global::Prism.Resource.Id.media_controller_compat_view_tag = global::LongoToDo.Forms.Droid.Resource.Id.media_controller_compat_view_tag;
+			global::Prism.Resource.Id.message = global::LongoToDo.Forms.Droid.Resource.Id.message;
+			global::Prism.Resource.Id.META = global::LongoToDo.Forms.Droid.Resource.Id.META;
+			global::Prism.Resource.Id.middle = global::LongoToDo.Forms.Droid.Resource.Id.middle;
+			global::Prism.Resource.Id.mini = global::LongoToDo.Forms.Droid.Resource.Id.mini;
+			global::Prism.Resource.Id.month_grid = global::LongoToDo.Forms.Droid.Resource.Id.month_grid;
+			global::Prism.Resource.Id.month_navigation_bar = global::LongoToDo.Forms.Droid.Resource.Id.month_navigation_bar;
+			global::Prism.Resource.Id.month_navigation_fragment_toggle = global::LongoToDo.Forms.Droid.Resource.Id.month_navigation_fragment_toggle;
+			global::Prism.Resource.Id.month_navigation_next = global::LongoToDo.Forms.Droid.Resource.Id.month_navigation_next;
+			global::Prism.Resource.Id.month_navigation_previous = global::LongoToDo.Forms.Droid.Resource.Id.month_navigation_previous;
+			global::Prism.Resource.Id.month_title = global::LongoToDo.Forms.Droid.Resource.Id.month_title;
+			global::Prism.Resource.Id.mtrl_calendar_days_of_week = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_calendar_days_of_week;
+			global::Prism.Resource.Id.mtrl_calendar_day_selector_frame = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
+			global::Prism.Resource.Id.mtrl_calendar_frame = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_calendar_frame;
+			global::Prism.Resource.Id.mtrl_calendar_main_pane = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_calendar_main_pane;
+			global::Prism.Resource.Id.mtrl_calendar_months = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_calendar_months;
+			global::Prism.Resource.Id.mtrl_calendar_selection_frame = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_calendar_selection_frame;
+			global::Prism.Resource.Id.mtrl_calendar_text_input_frame = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_calendar_text_input_frame;
+			global::Prism.Resource.Id.mtrl_calendar_year_selector_frame = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
+			global::Prism.Resource.Id.mtrl_card_checked_layer_id = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_card_checked_layer_id;
+			global::Prism.Resource.Id.mtrl_child_content_container = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_child_content_container;
+			global::Prism.Resource.Id.mtrl_internal_children_alpha_tag = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Prism.Resource.Id.mtrl_motion_snapshot_view = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_motion_snapshot_view;
+			global::Prism.Resource.Id.mtrl_picker_fullscreen = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_fullscreen;
+			global::Prism.Resource.Id.mtrl_picker_header = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_header;
+			global::Prism.Resource.Id.mtrl_picker_header_selection_text = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_header_selection_text;
+			global::Prism.Resource.Id.mtrl_picker_header_title_and_selection = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
+			global::Prism.Resource.Id.mtrl_picker_header_toggle = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_header_toggle;
+			global::Prism.Resource.Id.mtrl_picker_text_input_date = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_text_input_date;
+			global::Prism.Resource.Id.mtrl_picker_text_input_range_end = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_text_input_range_end;
+			global::Prism.Resource.Id.mtrl_picker_text_input_range_start = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_text_input_range_start;
+			global::Prism.Resource.Id.mtrl_picker_title_text = global::LongoToDo.Forms.Droid.Resource.Id.mtrl_picker_title_text;
+			global::Prism.Resource.Id.multiply = global::LongoToDo.Forms.Droid.Resource.Id.multiply;
+			global::Prism.Resource.Id.navigation_header_container = global::LongoToDo.Forms.Droid.Resource.Id.navigation_header_container;
+			global::Prism.Resource.Id.never = global::LongoToDo.Forms.Droid.Resource.Id.never;
+			global::Prism.Resource.Id.none = global::LongoToDo.Forms.Droid.Resource.Id.none;
+			global::Prism.Resource.Id.normal = global::LongoToDo.Forms.Droid.Resource.Id.normal;
+			global::Prism.Resource.Id.noScroll = global::LongoToDo.Forms.Droid.Resource.Id.noScroll;
+			global::Prism.Resource.Id.notification_background = global::LongoToDo.Forms.Droid.Resource.Id.notification_background;
+			global::Prism.Resource.Id.notification_main_column = global::LongoToDo.Forms.Droid.Resource.Id.notification_main_column;
+			global::Prism.Resource.Id.notification_main_column_container = global::LongoToDo.Forms.Droid.Resource.Id.notification_main_column_container;
+			global::Prism.Resource.Id.off = global::LongoToDo.Forms.Droid.Resource.Id.off;
+			global::Prism.Resource.Id.on = global::LongoToDo.Forms.Droid.Resource.Id.on;
+			global::Prism.Resource.Id.outline = global::LongoToDo.Forms.Droid.Resource.Id.outline;
+			global::Prism.Resource.Id.parallax = global::LongoToDo.Forms.Droid.Resource.Id.parallax;
+			global::Prism.Resource.Id.parentPanel = global::LongoToDo.Forms.Droid.Resource.Id.parentPanel;
+			global::Prism.Resource.Id.parent_matrix = global::LongoToDo.Forms.Droid.Resource.Id.parent_matrix;
+			global::Prism.Resource.Id.password_toggle = global::LongoToDo.Forms.Droid.Resource.Id.password_toggle;
+			global::Prism.Resource.Id.peekHeight = global::LongoToDo.Forms.Droid.Resource.Id.peekHeight;
+			global::Prism.Resource.Id.pin = global::LongoToDo.Forms.Droid.Resource.Id.pin;
+			global::Prism.Resource.Id.progress_circular = global::LongoToDo.Forms.Droid.Resource.Id.progress_circular;
+			global::Prism.Resource.Id.progress_horizontal = global::LongoToDo.Forms.Droid.Resource.Id.progress_horizontal;
+			global::Prism.Resource.Id.radio = global::LongoToDo.Forms.Droid.Resource.Id.radio;
+			global::Prism.Resource.Id.right = global::LongoToDo.Forms.Droid.Resource.Id.right;
+			global::Prism.Resource.Id.right_icon = global::LongoToDo.Forms.Droid.Resource.Id.right_icon;
+			global::Prism.Resource.Id.right_side = global::LongoToDo.Forms.Droid.Resource.Id.right_side;
+			global::Prism.Resource.Id.rounded = global::LongoToDo.Forms.Droid.Resource.Id.rounded;
+			global::Prism.Resource.Id.row_index_key = global::LongoToDo.Forms.Droid.Resource.Id.row_index_key;
+			global::Prism.Resource.Id.save_non_transition_alpha = global::LongoToDo.Forms.Droid.Resource.Id.save_non_transition_alpha;
+			global::Prism.Resource.Id.save_overlay_view = global::LongoToDo.Forms.Droid.Resource.Id.save_overlay_view;
+			global::Prism.Resource.Id.scale = global::LongoToDo.Forms.Droid.Resource.Id.scale;
+			global::Prism.Resource.Id.screen = global::LongoToDo.Forms.Droid.Resource.Id.screen;
+			global::Prism.Resource.Id.scroll = global::LongoToDo.Forms.Droid.Resource.Id.scroll;
+			global::Prism.Resource.Id.scrollable = global::LongoToDo.Forms.Droid.Resource.Id.scrollable;
+			global::Prism.Resource.Id.scrollIndicatorDown = global::LongoToDo.Forms.Droid.Resource.Id.scrollIndicatorDown;
+			global::Prism.Resource.Id.scrollIndicatorUp = global::LongoToDo.Forms.Droid.Resource.Id.scrollIndicatorUp;
+			global::Prism.Resource.Id.scrollView = global::LongoToDo.Forms.Droid.Resource.Id.scrollView;
+			global::Prism.Resource.Id.search_badge = global::LongoToDo.Forms.Droid.Resource.Id.search_badge;
+			global::Prism.Resource.Id.search_bar = global::LongoToDo.Forms.Droid.Resource.Id.search_bar;
+			global::Prism.Resource.Id.search_button = global::LongoToDo.Forms.Droid.Resource.Id.search_button;
+			global::Prism.Resource.Id.search_close_btn = global::LongoToDo.Forms.Droid.Resource.Id.search_close_btn;
+			global::Prism.Resource.Id.search_edit_frame = global::LongoToDo.Forms.Droid.Resource.Id.search_edit_frame;
+			global::Prism.Resource.Id.search_go_btn = global::LongoToDo.Forms.Droid.Resource.Id.search_go_btn;
+			global::Prism.Resource.Id.search_mag_icon = global::LongoToDo.Forms.Droid.Resource.Id.search_mag_icon;
+			global::Prism.Resource.Id.search_plate = global::LongoToDo.Forms.Droid.Resource.Id.search_plate;
+			global::Prism.Resource.Id.search_src_text = global::LongoToDo.Forms.Droid.Resource.Id.search_src_text;
+			global::Prism.Resource.Id.search_voice_btn = global::LongoToDo.Forms.Droid.Resource.Id.search_voice_btn;
+			global::Prism.Resource.Id.selected = global::LongoToDo.Forms.Droid.Resource.Id.selected;
+			global::Prism.Resource.Id.select_dialog_listview = global::LongoToDo.Forms.Droid.Resource.Id.select_dialog_listview;
+			global::Prism.Resource.Id.shellcontent_appbar = global::LongoToDo.Forms.Droid.Resource.Id.shellcontent_appbar;
+			global::Prism.Resource.Id.shellcontent_toolbar = global::LongoToDo.Forms.Droid.Resource.Id.shellcontent_toolbar;
+			global::Prism.Resource.Id.SHIFT = global::LongoToDo.Forms.Droid.Resource.Id.SHIFT;
+			global::Prism.Resource.Id.shortcut = global::LongoToDo.Forms.Droid.Resource.Id.shortcut;
+			global::Prism.Resource.Id.showCustom = global::LongoToDo.Forms.Droid.Resource.Id.showCustom;
+			global::Prism.Resource.Id.showHome = global::LongoToDo.Forms.Droid.Resource.Id.showHome;
+			global::Prism.Resource.Id.showTitle = global::LongoToDo.Forms.Droid.Resource.Id.showTitle;
+			global::Prism.Resource.Id.skipCollapsed = global::LongoToDo.Forms.Droid.Resource.Id.skipCollapsed;
+			global::Prism.Resource.Id.slide = global::LongoToDo.Forms.Droid.Resource.Id.slide;
+			global::Prism.Resource.Id.sliding_tabs = global::LongoToDo.Forms.Droid.Resource.Id.sliding_tabs;
+			global::Prism.Resource.Id.snackbar_action = global::LongoToDo.Forms.Droid.Resource.Id.snackbar_action;
+			global::Prism.Resource.Id.snackbar_text = global::LongoToDo.Forms.Droid.Resource.Id.snackbar_text;
+			global::Prism.Resource.Id.snap = global::LongoToDo.Forms.Droid.Resource.Id.snap;
+			global::Prism.Resource.Id.snapMargins = global::LongoToDo.Forms.Droid.Resource.Id.snapMargins;
+			global::Prism.Resource.Id.spacer = global::LongoToDo.Forms.Droid.Resource.Id.spacer;
+			global::Prism.Resource.Id.split_action_bar = global::LongoToDo.Forms.Droid.Resource.Id.split_action_bar;
+			global::Prism.Resource.Id.src_atop = global::LongoToDo.Forms.Droid.Resource.Id.src_atop;
+			global::Prism.Resource.Id.src_in = global::LongoToDo.Forms.Droid.Resource.Id.src_in;
+			global::Prism.Resource.Id.src_over = global::LongoToDo.Forms.Droid.Resource.Id.src_over;
+			global::Prism.Resource.Id.start = global::LongoToDo.Forms.Droid.Resource.Id.start;
+			global::Prism.Resource.Id.status_bar_latest_event_content = global::LongoToDo.Forms.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Prism.Resource.Id.stretch = global::LongoToDo.Forms.Droid.Resource.Id.stretch;
+			global::Prism.Resource.Id.submenuarrow = global::LongoToDo.Forms.Droid.Resource.Id.submenuarrow;
+			global::Prism.Resource.Id.submit_area = global::LongoToDo.Forms.Droid.Resource.Id.submit_area;
+			global::Prism.Resource.Id.SYM = global::LongoToDo.Forms.Droid.Resource.Id.SYM;
+			global::Prism.Resource.Id.tabMode = global::LongoToDo.Forms.Droid.Resource.Id.tabMode;
+			global::Prism.Resource.Id.tag_accessibility_actions = global::LongoToDo.Forms.Droid.Resource.Id.tag_accessibility_actions;
+			global::Prism.Resource.Id.tag_accessibility_clickable_spans = global::LongoToDo.Forms.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Prism.Resource.Id.tag_accessibility_heading = global::LongoToDo.Forms.Droid.Resource.Id.tag_accessibility_heading;
+			global::Prism.Resource.Id.tag_accessibility_pane_title = global::LongoToDo.Forms.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Prism.Resource.Id.tag_screen_reader_focusable = global::LongoToDo.Forms.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Prism.Resource.Id.tag_transition_group = global::LongoToDo.Forms.Droid.Resource.Id.tag_transition_group;
+			global::Prism.Resource.Id.tag_unhandled_key_event_manager = global::LongoToDo.Forms.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Prism.Resource.Id.tag_unhandled_key_listeners = global::LongoToDo.Forms.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Prism.Resource.Id.test_checkbox_android_button_tint = global::LongoToDo.Forms.Droid.Resource.Id.test_checkbox_android_button_tint;
+			global::Prism.Resource.Id.test_checkbox_app_button_tint = global::LongoToDo.Forms.Droid.Resource.Id.test_checkbox_app_button_tint;
+			global::Prism.Resource.Id.test_radiobutton_android_button_tint = global::LongoToDo.Forms.Droid.Resource.Id.test_radiobutton_android_button_tint;
+			global::Prism.Resource.Id.test_radiobutton_app_button_tint = global::LongoToDo.Forms.Droid.Resource.Id.test_radiobutton_app_button_tint;
+			global::Prism.Resource.Id.text = global::LongoToDo.Forms.Droid.Resource.Id.text;
+			global::Prism.Resource.Id.text2 = global::LongoToDo.Forms.Droid.Resource.Id.text2;
+			global::Prism.Resource.Id.textEnd = global::LongoToDo.Forms.Droid.Resource.Id.textEnd;
+			global::Prism.Resource.Id.textinput_counter = global::LongoToDo.Forms.Droid.Resource.Id.textinput_counter;
+			global::Prism.Resource.Id.textinput_error = global::LongoToDo.Forms.Droid.Resource.Id.textinput_error;
+			global::Prism.Resource.Id.textinput_helper_text = global::LongoToDo.Forms.Droid.Resource.Id.textinput_helper_text;
+			global::Prism.Resource.Id.textinput_placeholder = global::LongoToDo.Forms.Droid.Resource.Id.textinput_placeholder;
+			global::Prism.Resource.Id.textinput_prefix_text = global::LongoToDo.Forms.Droid.Resource.Id.textinput_prefix_text;
+			global::Prism.Resource.Id.textinput_suffix_text = global::LongoToDo.Forms.Droid.Resource.Id.textinput_suffix_text;
+			global::Prism.Resource.Id.textSpacerNoButtons = global::LongoToDo.Forms.Droid.Resource.Id.textSpacerNoButtons;
+			global::Prism.Resource.Id.textSpacerNoTitle = global::LongoToDo.Forms.Droid.Resource.Id.textSpacerNoTitle;
+			global::Prism.Resource.Id.textStart = global::LongoToDo.Forms.Droid.Resource.Id.textStart;
+			global::Prism.Resource.Id.text_input_end_icon = global::LongoToDo.Forms.Droid.Resource.Id.text_input_end_icon;
+			global::Prism.Resource.Id.text_input_start_icon = global::LongoToDo.Forms.Droid.Resource.Id.text_input_start_icon;
+			global::Prism.Resource.Id.time = global::LongoToDo.Forms.Droid.Resource.Id.time;
+			global::Prism.Resource.Id.title = global::LongoToDo.Forms.Droid.Resource.Id.title;
+			global::Prism.Resource.Id.titleDividerNoCustom = global::LongoToDo.Forms.Droid.Resource.Id.titleDividerNoCustom;
+			global::Prism.Resource.Id.title_template = global::LongoToDo.Forms.Droid.Resource.Id.title_template;
+			global::Prism.Resource.Id.toolbar = global::LongoToDo.Forms.Droid.Resource.Id.toolbar;
+			global::Prism.Resource.Id.top = global::LongoToDo.Forms.Droid.Resource.Id.top;
+			global::Prism.Resource.Id.topPanel = global::LongoToDo.Forms.Droid.Resource.Id.topPanel;
+			global::Prism.Resource.Id.TOP_END = global::LongoToDo.Forms.Droid.Resource.Id.TOP_END;
+			global::Prism.Resource.Id.TOP_START = global::LongoToDo.Forms.Droid.Resource.Id.TOP_START;
+			global::Prism.Resource.Id.touch_outside = global::LongoToDo.Forms.Droid.Resource.Id.touch_outside;
+			global::Prism.Resource.Id.transition_current_scene = global::LongoToDo.Forms.Droid.Resource.Id.transition_current_scene;
+			global::Prism.Resource.Id.transition_layout_save = global::LongoToDo.Forms.Droid.Resource.Id.transition_layout_save;
+			global::Prism.Resource.Id.transition_position = global::LongoToDo.Forms.Droid.Resource.Id.transition_position;
+			global::Prism.Resource.Id.transition_scene_layoutid_cache = global::LongoToDo.Forms.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Prism.Resource.Id.transition_transform = global::LongoToDo.Forms.Droid.Resource.Id.transition_transform;
+			global::Prism.Resource.Id.@unchecked = global::LongoToDo.Forms.Droid.Resource.Id.@unchecked;
+			global::Prism.Resource.Id.uniform = global::LongoToDo.Forms.Droid.Resource.Id.uniform;
+			global::Prism.Resource.Id.unlabeled = global::LongoToDo.Forms.Droid.Resource.Id.unlabeled;
+			global::Prism.Resource.Id.up = global::LongoToDo.Forms.Droid.Resource.Id.up;
+			global::Prism.Resource.Id.useLogo = global::LongoToDo.Forms.Droid.Resource.Id.useLogo;
+			global::Prism.Resource.Id.view_offset_helper = global::LongoToDo.Forms.Droid.Resource.Id.view_offset_helper;
+			global::Prism.Resource.Id.view_tree_saved_state_registry_owner = global::LongoToDo.Forms.Droid.Resource.Id.view_tree_saved_state_registry_owner;
+			global::Prism.Resource.Id.visible = global::LongoToDo.Forms.Droid.Resource.Id.visible;
+			global::Prism.Resource.Id.visible_removing_fragment_view_tag = global::LongoToDo.Forms.Droid.Resource.Id.visible_removing_fragment_view_tag;
+			global::Prism.Resource.Id.withinBounds = global::LongoToDo.Forms.Droid.Resource.Id.withinBounds;
+			global::Prism.Resource.Id.withText = global::LongoToDo.Forms.Droid.Resource.Id.withText;
+			global::Prism.Resource.Id.wrap_content = global::LongoToDo.Forms.Droid.Resource.Id.wrap_content;
+			global::Prism.Resource.Id.zero_corner_chip = global::LongoToDo.Forms.Droid.Resource.Id.zero_corner_chip;
+			global::Prism.Resource.Integer.abc_config_activityDefaultDur = global::LongoToDo.Forms.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Prism.Resource.Integer.abc_config_activityShortDur = global::LongoToDo.Forms.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Prism.Resource.Integer.app_bar_elevation_anim_duration = global::LongoToDo.Forms.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Prism.Resource.Integer.bottom_sheet_slide_duration = global::LongoToDo.Forms.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Prism.Resource.Integer.cancel_button_image_alpha = global::LongoToDo.Forms.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Prism.Resource.Integer.config_tooltipAnimTime = global::LongoToDo.Forms.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Prism.Resource.Integer.design_snackbar_text_max_lines = global::LongoToDo.Forms.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Prism.Resource.Integer.design_tab_indicator_anim_duration_ms = global::LongoToDo.Forms.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Prism.Resource.Integer.hide_password_duration = global::LongoToDo.Forms.Droid.Resource.Integer.hide_password_duration;
+			global::Prism.Resource.Integer.mtrl_badge_max_character_count = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_badge_max_character_count;
+			global::Prism.Resource.Integer.mtrl_btn_anim_delay_ms = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Prism.Resource.Integer.mtrl_btn_anim_duration_ms = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Prism.Resource.Integer.mtrl_calendar_header_orientation = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_calendar_header_orientation;
+			global::Prism.Resource.Integer.mtrl_calendar_selection_text_lines = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
+			global::Prism.Resource.Integer.mtrl_calendar_year_selector_span = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
+			global::Prism.Resource.Integer.mtrl_card_anim_delay_ms = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
+			global::Prism.Resource.Integer.mtrl_card_anim_duration_ms = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
+			global::Prism.Resource.Integer.mtrl_chip_anim_duration = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::Prism.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::LongoToDo.Forms.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Prism.Resource.Integer.show_password_duration = global::LongoToDo.Forms.Droid.Resource.Integer.show_password_duration;
+			global::Prism.Resource.Integer.status_bar_notification_info_maxnum = global::LongoToDo.Forms.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Prism.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::LongoToDo.Forms.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::Prism.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::LongoToDo.Forms.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::Prism.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::LongoToDo.Forms.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::Prism.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::LongoToDo.Forms.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::Prism.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::LongoToDo.Forms.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::Prism.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::LongoToDo.Forms.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::Prism.Resource.Interpolator.fast_out_slow_in = global::LongoToDo.Forms.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::Prism.Resource.Interpolator.mtrl_fast_out_linear_in = global::LongoToDo.Forms.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Prism.Resource.Interpolator.mtrl_fast_out_slow_in = global::LongoToDo.Forms.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Prism.Resource.Interpolator.mtrl_linear = global::LongoToDo.Forms.Droid.Resource.Interpolator.mtrl_linear;
+			global::Prism.Resource.Interpolator.mtrl_linear_out_slow_in = global::LongoToDo.Forms.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Prism.Resource.Layout.abc_action_bar_title_item = global::LongoToDo.Forms.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Prism.Resource.Layout.abc_action_bar_up_container = global::LongoToDo.Forms.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Prism.Resource.Layout.abc_action_menu_item_layout = global::LongoToDo.Forms.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Prism.Resource.Layout.abc_action_menu_layout = global::LongoToDo.Forms.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Prism.Resource.Layout.abc_action_mode_bar = global::LongoToDo.Forms.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Prism.Resource.Layout.abc_action_mode_close_item_material = global::LongoToDo.Forms.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Prism.Resource.Layout.abc_activity_chooser_view = global::LongoToDo.Forms.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Prism.Resource.Layout.abc_activity_chooser_view_list_item = global::LongoToDo.Forms.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Prism.Resource.Layout.abc_alert_dialog_button_bar_material = global::LongoToDo.Forms.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Prism.Resource.Layout.abc_alert_dialog_material = global::LongoToDo.Forms.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Prism.Resource.Layout.abc_alert_dialog_title_material = global::LongoToDo.Forms.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Prism.Resource.Layout.abc_cascading_menu_item_layout = global::LongoToDo.Forms.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Prism.Resource.Layout.abc_dialog_title_material = global::LongoToDo.Forms.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Prism.Resource.Layout.abc_expanded_menu_layout = global::LongoToDo.Forms.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Prism.Resource.Layout.abc_list_menu_item_checkbox = global::LongoToDo.Forms.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Prism.Resource.Layout.abc_list_menu_item_icon = global::LongoToDo.Forms.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Prism.Resource.Layout.abc_list_menu_item_layout = global::LongoToDo.Forms.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Prism.Resource.Layout.abc_list_menu_item_radio = global::LongoToDo.Forms.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Prism.Resource.Layout.abc_popup_menu_header_item_layout = global::LongoToDo.Forms.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Prism.Resource.Layout.abc_popup_menu_item_layout = global::LongoToDo.Forms.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Prism.Resource.Layout.abc_screen_content_include = global::LongoToDo.Forms.Droid.Resource.Layout.abc_screen_content_include;
+			global::Prism.Resource.Layout.abc_screen_simple = global::LongoToDo.Forms.Droid.Resource.Layout.abc_screen_simple;
+			global::Prism.Resource.Layout.abc_screen_simple_overlay_action_mode = global::LongoToDo.Forms.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Prism.Resource.Layout.abc_screen_toolbar = global::LongoToDo.Forms.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Prism.Resource.Layout.abc_search_dropdown_item_icons_2line = global::LongoToDo.Forms.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Prism.Resource.Layout.abc_search_view = global::LongoToDo.Forms.Droid.Resource.Layout.abc_search_view;
+			global::Prism.Resource.Layout.abc_select_dialog_material = global::LongoToDo.Forms.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Prism.Resource.Layout.abc_tooltip = global::LongoToDo.Forms.Droid.Resource.Layout.abc_tooltip;
+			global::Prism.Resource.Layout.BottomTabLayout = global::LongoToDo.Forms.Droid.Resource.Layout.BottomTabLayout;
+			global::Prism.Resource.Layout.browser_actions_context_menu_page = global::LongoToDo.Forms.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Prism.Resource.Layout.browser_actions_context_menu_row = global::LongoToDo.Forms.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Prism.Resource.Layout.custom_dialog = global::LongoToDo.Forms.Droid.Resource.Layout.custom_dialog;
+			global::Prism.Resource.Layout.design_bottom_navigation_item = global::LongoToDo.Forms.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Prism.Resource.Layout.design_bottom_sheet_dialog = global::LongoToDo.Forms.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Prism.Resource.Layout.design_layout_snackbar = global::LongoToDo.Forms.Droid.Resource.Layout.design_layout_snackbar;
+			global::Prism.Resource.Layout.design_layout_snackbar_include = global::LongoToDo.Forms.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Prism.Resource.Layout.design_layout_tab_icon = global::LongoToDo.Forms.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Prism.Resource.Layout.design_layout_tab_text = global::LongoToDo.Forms.Droid.Resource.Layout.design_layout_tab_text;
+			global::Prism.Resource.Layout.design_menu_item_action_area = global::LongoToDo.Forms.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Prism.Resource.Layout.design_navigation_item = global::LongoToDo.Forms.Droid.Resource.Layout.design_navigation_item;
+			global::Prism.Resource.Layout.design_navigation_item_header = global::LongoToDo.Forms.Droid.Resource.Layout.design_navigation_item_header;
+			global::Prism.Resource.Layout.design_navigation_item_separator = global::LongoToDo.Forms.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Prism.Resource.Layout.design_navigation_item_subheader = global::LongoToDo.Forms.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Prism.Resource.Layout.design_navigation_menu = global::LongoToDo.Forms.Droid.Resource.Layout.design_navigation_menu;
+			global::Prism.Resource.Layout.design_navigation_menu_item = global::LongoToDo.Forms.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Prism.Resource.Layout.design_text_input_end_icon = global::LongoToDo.Forms.Droid.Resource.Layout.design_text_input_end_icon;
+			global::Prism.Resource.Layout.design_text_input_start_icon = global::LongoToDo.Forms.Droid.Resource.Layout.design_text_input_start_icon;
+			global::Prism.Resource.Layout.FallbackTabbarDoNotUse = global::LongoToDo.Forms.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::Prism.Resource.Layout.FallbackToolbarDoNotUse = global::LongoToDo.Forms.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::Prism.Resource.Layout.FlyoutContent = global::LongoToDo.Forms.Droid.Resource.Layout.FlyoutContent;
+			global::Prism.Resource.Layout.mtrl_alert_dialog = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_alert_dialog;
+			global::Prism.Resource.Layout.mtrl_alert_dialog_actions = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_alert_dialog_actions;
+			global::Prism.Resource.Layout.mtrl_alert_dialog_title = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_alert_dialog_title;
+			global::Prism.Resource.Layout.mtrl_alert_select_dialog_item = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
+			global::Prism.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
+			global::Prism.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
+			global::Prism.Resource.Layout.mtrl_calendar_day = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_day;
+			global::Prism.Resource.Layout.mtrl_calendar_days_of_week = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_days_of_week;
+			global::Prism.Resource.Layout.mtrl_calendar_day_of_week = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_day_of_week;
+			global::Prism.Resource.Layout.mtrl_calendar_horizontal = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_horizontal;
+			global::Prism.Resource.Layout.mtrl_calendar_month = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_month;
+			global::Prism.Resource.Layout.mtrl_calendar_months = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_months;
+			global::Prism.Resource.Layout.mtrl_calendar_month_labeled = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_month_labeled;
+			global::Prism.Resource.Layout.mtrl_calendar_month_navigation = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_month_navigation;
+			global::Prism.Resource.Layout.mtrl_calendar_vertical = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_vertical;
+			global::Prism.Resource.Layout.mtrl_calendar_year = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_calendar_year;
+			global::Prism.Resource.Layout.mtrl_layout_snackbar = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::Prism.Resource.Layout.mtrl_layout_snackbar_include = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Prism.Resource.Layout.mtrl_picker_actions = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_actions;
+			global::Prism.Resource.Layout.mtrl_picker_dialog = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_dialog;
+			global::Prism.Resource.Layout.mtrl_picker_fullscreen = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_fullscreen;
+			global::Prism.Resource.Layout.mtrl_picker_header_dialog = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_header_dialog;
+			global::Prism.Resource.Layout.mtrl_picker_header_fullscreen = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
+			global::Prism.Resource.Layout.mtrl_picker_header_selection_text = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_header_selection_text;
+			global::Prism.Resource.Layout.mtrl_picker_header_title_text = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_header_title_text;
+			global::Prism.Resource.Layout.mtrl_picker_header_toggle = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_header_toggle;
+			global::Prism.Resource.Layout.mtrl_picker_text_input_date = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_text_input_date;
+			global::Prism.Resource.Layout.mtrl_picker_text_input_date_range = global::LongoToDo.Forms.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
+			global::Prism.Resource.Layout.notification_action = global::LongoToDo.Forms.Droid.Resource.Layout.notification_action;
+			global::Prism.Resource.Layout.notification_action_tombstone = global::LongoToDo.Forms.Droid.Resource.Layout.notification_action_tombstone;
+			global::Prism.Resource.Layout.notification_media_action = global::LongoToDo.Forms.Droid.Resource.Layout.notification_media_action;
+			global::Prism.Resource.Layout.notification_media_cancel_action = global::LongoToDo.Forms.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Prism.Resource.Layout.notification_template_big_media = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_big_media;
+			global::Prism.Resource.Layout.notification_template_big_media_custom = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Prism.Resource.Layout.notification_template_big_media_narrow = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Prism.Resource.Layout.notification_template_big_media_narrow_custom = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Prism.Resource.Layout.notification_template_custom_big = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_custom_big;
+			global::Prism.Resource.Layout.notification_template_icon_group = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_icon_group;
+			global::Prism.Resource.Layout.notification_template_lines_media = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_lines_media;
+			global::Prism.Resource.Layout.notification_template_media = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_media;
+			global::Prism.Resource.Layout.notification_template_media_custom = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_media_custom;
+			global::Prism.Resource.Layout.notification_template_part_chronometer = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Prism.Resource.Layout.notification_template_part_time = global::LongoToDo.Forms.Droid.Resource.Layout.notification_template_part_time;
+			global::Prism.Resource.Layout.RootLayout = global::LongoToDo.Forms.Droid.Resource.Layout.RootLayout;
+			global::Prism.Resource.Layout.select_dialog_item_material = global::LongoToDo.Forms.Droid.Resource.Layout.select_dialog_item_material;
+			global::Prism.Resource.Layout.select_dialog_multichoice_material = global::LongoToDo.Forms.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Prism.Resource.Layout.select_dialog_singlechoice_material = global::LongoToDo.Forms.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Prism.Resource.Layout.ShellContent = global::LongoToDo.Forms.Droid.Resource.Layout.ShellContent;
+			global::Prism.Resource.Layout.support_simple_spinner_dropdown_item = global::LongoToDo.Forms.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Prism.Resource.Layout.Tabbar = global::LongoToDo.Forms.Droid.Resource.Layout.Tabbar;
+			global::Prism.Resource.Layout.test_action_chip = global::LongoToDo.Forms.Droid.Resource.Layout.test_action_chip;
+			global::Prism.Resource.Layout.test_chip_zero_corner_radius = global::LongoToDo.Forms.Droid.Resource.Layout.test_chip_zero_corner_radius;
+			global::Prism.Resource.Layout.test_design_checkbox = global::LongoToDo.Forms.Droid.Resource.Layout.test_design_checkbox;
+			global::Prism.Resource.Layout.test_design_radiobutton = global::LongoToDo.Forms.Droid.Resource.Layout.test_design_radiobutton;
+			global::Prism.Resource.Layout.test_reflow_chipgroup = global::LongoToDo.Forms.Droid.Resource.Layout.test_reflow_chipgroup;
+			global::Prism.Resource.Layout.test_toolbar = global::LongoToDo.Forms.Droid.Resource.Layout.test_toolbar;
+			global::Prism.Resource.Layout.test_toolbar_custom_background = global::LongoToDo.Forms.Droid.Resource.Layout.test_toolbar_custom_background;
+			global::Prism.Resource.Layout.test_toolbar_elevation = global::LongoToDo.Forms.Droid.Resource.Layout.test_toolbar_elevation;
+			global::Prism.Resource.Layout.test_toolbar_surface = global::LongoToDo.Forms.Droid.Resource.Layout.test_toolbar_surface;
+			global::Prism.Resource.Layout.text_view_without_line_height = global::LongoToDo.Forms.Droid.Resource.Layout.text_view_without_line_height;
+			global::Prism.Resource.Layout.text_view_with_line_height_from_appearance = global::LongoToDo.Forms.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
+			global::Prism.Resource.Layout.text_view_with_line_height_from_layout = global::LongoToDo.Forms.Droid.Resource.Layout.text_view_with_line_height_from_layout;
+			global::Prism.Resource.Layout.text_view_with_line_height_from_style = global::LongoToDo.Forms.Droid.Resource.Layout.text_view_with_line_height_from_style;
+			global::Prism.Resource.Layout.text_view_with_theme_line_height = global::LongoToDo.Forms.Droid.Resource.Layout.text_view_with_theme_line_height;
+			global::Prism.Resource.Layout.Toolbar = global::LongoToDo.Forms.Droid.Resource.Layout.Toolbar;
+			global::Prism.Resource.Plurals.mtrl_badge_content_description = global::LongoToDo.Forms.Droid.Resource.Plurals.mtrl_badge_content_description;
+			global::Prism.Resource.String.abc_action_bar_home_description = global::LongoToDo.Forms.Droid.Resource.String.abc_action_bar_home_description;
+			global::Prism.Resource.String.abc_action_bar_up_description = global::LongoToDo.Forms.Droid.Resource.String.abc_action_bar_up_description;
+			global::Prism.Resource.String.abc_action_menu_overflow_description = global::LongoToDo.Forms.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Prism.Resource.String.abc_action_mode_done = global::LongoToDo.Forms.Droid.Resource.String.abc_action_mode_done;
+			global::Prism.Resource.String.abc_activitychooserview_choose_application = global::LongoToDo.Forms.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Prism.Resource.String.abc_activity_chooser_view_see_all = global::LongoToDo.Forms.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Prism.Resource.String.abc_capital_off = global::LongoToDo.Forms.Droid.Resource.String.abc_capital_off;
+			global::Prism.Resource.String.abc_capital_on = global::LongoToDo.Forms.Droid.Resource.String.abc_capital_on;
+			global::Prism.Resource.String.abc_menu_alt_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::Prism.Resource.String.abc_menu_ctrl_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Prism.Resource.String.abc_menu_delete_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::Prism.Resource.String.abc_menu_enter_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::Prism.Resource.String.abc_menu_function_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::Prism.Resource.String.abc_menu_meta_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::Prism.Resource.String.abc_menu_shift_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::Prism.Resource.String.abc_menu_space_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::Prism.Resource.String.abc_menu_sym_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::Prism.Resource.String.abc_prepend_shortcut_label = global::LongoToDo.Forms.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Prism.Resource.String.abc_searchview_description_clear = global::LongoToDo.Forms.Droid.Resource.String.abc_searchview_description_clear;
+			global::Prism.Resource.String.abc_searchview_description_query = global::LongoToDo.Forms.Droid.Resource.String.abc_searchview_description_query;
+			global::Prism.Resource.String.abc_searchview_description_search = global::LongoToDo.Forms.Droid.Resource.String.abc_searchview_description_search;
+			global::Prism.Resource.String.abc_searchview_description_submit = global::LongoToDo.Forms.Droid.Resource.String.abc_searchview_description_submit;
+			global::Prism.Resource.String.abc_searchview_description_voice = global::LongoToDo.Forms.Droid.Resource.String.abc_searchview_description_voice;
+			global::Prism.Resource.String.abc_search_hint = global::LongoToDo.Forms.Droid.Resource.String.abc_search_hint;
+			global::Prism.Resource.String.abc_shareactionprovider_share_with = global::LongoToDo.Forms.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Prism.Resource.String.abc_shareactionprovider_share_with_application = global::LongoToDo.Forms.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Prism.Resource.String.abc_toolbar_collapse_description = global::LongoToDo.Forms.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Prism.Resource.String.appbar_scrolling_view_behavior = global::LongoToDo.Forms.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Prism.Resource.String.bottom_sheet_behavior = global::LongoToDo.Forms.Droid.Resource.String.bottom_sheet_behavior;
+			global::Prism.Resource.String.character_counter_content_description = global::LongoToDo.Forms.Droid.Resource.String.character_counter_content_description;
+			global::Prism.Resource.String.character_counter_overflowed_content_description = global::LongoToDo.Forms.Droid.Resource.String.character_counter_overflowed_content_description;
+			global::Prism.Resource.String.character_counter_pattern = global::LongoToDo.Forms.Droid.Resource.String.character_counter_pattern;
+			global::Prism.Resource.String.chip_text = global::LongoToDo.Forms.Droid.Resource.String.chip_text;
+			global::Prism.Resource.String.clear_text_end_icon_content_description = global::LongoToDo.Forms.Droid.Resource.String.clear_text_end_icon_content_description;
+			global::Prism.Resource.String.copy_toast_msg = global::LongoToDo.Forms.Droid.Resource.String.copy_toast_msg;
+			global::Prism.Resource.String.error_icon_content_description = global::LongoToDo.Forms.Droid.Resource.String.error_icon_content_description;
+			global::Prism.Resource.String.exposed_dropdown_menu_content_description = global::LongoToDo.Forms.Droid.Resource.String.exposed_dropdown_menu_content_description;
+			global::Prism.Resource.String.fab_transformation_scrim_behavior = global::LongoToDo.Forms.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::Prism.Resource.String.fab_transformation_sheet_behavior = global::LongoToDo.Forms.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::Prism.Resource.String.fallback_menu_item_copy_link = global::LongoToDo.Forms.Droid.Resource.String.fallback_menu_item_copy_link;
+			global::Prism.Resource.String.fallback_menu_item_open_in_browser = global::LongoToDo.Forms.Droid.Resource.String.fallback_menu_item_open_in_browser;
+			global::Prism.Resource.String.fallback_menu_item_share_link = global::LongoToDo.Forms.Droid.Resource.String.fallback_menu_item_share_link;
+			global::Prism.Resource.String.hide_bottom_view_on_scroll_behavior = global::LongoToDo.Forms.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Prism.Resource.String.icon_content_description = global::LongoToDo.Forms.Droid.Resource.String.icon_content_description;
+			global::Prism.Resource.String.item_view_role_description = global::LongoToDo.Forms.Droid.Resource.String.item_view_role_description;
+			global::Prism.Resource.String.material_slider_range_end = global::LongoToDo.Forms.Droid.Resource.String.material_slider_range_end;
+			global::Prism.Resource.String.material_slider_range_start = global::LongoToDo.Forms.Droid.Resource.String.material_slider_range_start;
+			global::Prism.Resource.String.mtrl_badge_numberless_content_description = global::LongoToDo.Forms.Droid.Resource.String.mtrl_badge_numberless_content_description;
+			global::Prism.Resource.String.mtrl_chip_close_icon_content_description = global::LongoToDo.Forms.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Prism.Resource.String.mtrl_exceed_max_badge_number_content_description = global::LongoToDo.Forms.Droid.Resource.String.mtrl_exceed_max_badge_number_content_description;
+			global::Prism.Resource.String.mtrl_exceed_max_badge_number_suffix = global::LongoToDo.Forms.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
+			global::Prism.Resource.String.mtrl_picker_a11y_next_month = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_a11y_next_month;
+			global::Prism.Resource.String.mtrl_picker_a11y_prev_month = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_a11y_prev_month;
+			global::Prism.Resource.String.mtrl_picker_announce_current_selection = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_announce_current_selection;
+			global::Prism.Resource.String.mtrl_picker_cancel = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_cancel;
+			global::Prism.Resource.String.mtrl_picker_confirm = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_confirm;
+			global::Prism.Resource.String.mtrl_picker_date_header_selected = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_date_header_selected;
+			global::Prism.Resource.String.mtrl_picker_date_header_title = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_date_header_title;
+			global::Prism.Resource.String.mtrl_picker_date_header_unselected = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_date_header_unselected;
+			global::Prism.Resource.String.mtrl_picker_day_of_week_column_header = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
+			global::Prism.Resource.String.mtrl_picker_invalid_format = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_invalid_format;
+			global::Prism.Resource.String.mtrl_picker_invalid_format_example = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_invalid_format_example;
+			global::Prism.Resource.String.mtrl_picker_invalid_format_use = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_invalid_format_use;
+			global::Prism.Resource.String.mtrl_picker_invalid_range = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_invalid_range;
+			global::Prism.Resource.String.mtrl_picker_navigate_to_year_description = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
+			global::Prism.Resource.String.mtrl_picker_out_of_range = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_out_of_range;
+			global::Prism.Resource.String.mtrl_picker_range_header_only_end_selected = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
+			global::Prism.Resource.String.mtrl_picker_range_header_only_start_selected = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
+			global::Prism.Resource.String.mtrl_picker_range_header_selected = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_range_header_selected;
+			global::Prism.Resource.String.mtrl_picker_range_header_title = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_range_header_title;
+			global::Prism.Resource.String.mtrl_picker_range_header_unselected = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_range_header_unselected;
+			global::Prism.Resource.String.mtrl_picker_save = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_save;
+			global::Prism.Resource.String.mtrl_picker_text_input_date_hint = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_text_input_date_hint;
+			global::Prism.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
+			global::Prism.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
+			global::Prism.Resource.String.mtrl_picker_text_input_day_abbr = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
+			global::Prism.Resource.String.mtrl_picker_text_input_month_abbr = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
+			global::Prism.Resource.String.mtrl_picker_text_input_year_abbr = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
+			global::Prism.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
+			global::Prism.Resource.String.mtrl_picker_toggle_to_day_selection = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
+			global::Prism.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
+			global::Prism.Resource.String.mtrl_picker_toggle_to_year_selection = global::LongoToDo.Forms.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
+			global::Prism.Resource.String.overflow_tab_title = global::LongoToDo.Forms.Droid.Resource.String.overflow_tab_title;
+			global::Prism.Resource.String.password_toggle_content_description = global::LongoToDo.Forms.Droid.Resource.String.password_toggle_content_description;
+			global::Prism.Resource.String.path_password_eye = global::LongoToDo.Forms.Droid.Resource.String.path_password_eye;
+			global::Prism.Resource.String.path_password_eye_mask_strike_through = global::LongoToDo.Forms.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Prism.Resource.String.path_password_eye_mask_visible = global::LongoToDo.Forms.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Prism.Resource.String.path_password_strike_through = global::LongoToDo.Forms.Droid.Resource.String.path_password_strike_through;
+			global::Prism.Resource.String.search_menu_title = global::LongoToDo.Forms.Droid.Resource.String.search_menu_title;
+			global::Prism.Resource.String.status_bar_notification_info_overflow = global::LongoToDo.Forms.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Prism.Resource.Style.AlertDialog_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Prism.Resource.Style.AlertDialog_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Prism.Resource.Style.AndroidThemeColorAccentYellow = global::LongoToDo.Forms.Droid.Resource.Style.AndroidThemeColorAccentYellow;
+			global::Prism.Resource.Style.Animation_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Prism.Resource.Style.Animation_AppCompat_DropDownUp = global::LongoToDo.Forms.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Prism.Resource.Style.Animation_AppCompat_Tooltip = global::LongoToDo.Forms.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Animation_Design_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Prism.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
+			global::Prism.Resource.Style.AppCompatDialogStyle = global::LongoToDo.Forms.Droid.Resource.Style.AppCompatDialogStyle;
+			global::Prism.Resource.Style.Base_AlertDialog_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Prism.Resource.Style.Base_AlertDialog_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::LongoToDo.Forms.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_Tooltip = global::LongoToDo.Forms.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Base_CardView = global::LongoToDo.Forms.Droid.Resource.Style.Base_CardView;
+			global::Prism.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Prism.Resource.Style.Base_DialogWindowTitle_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Prism.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::LongoToDo.Forms.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Prism.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::LongoToDo.Forms.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Prism.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::LongoToDo.Forms.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Button = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Large = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Small = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Title = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
+			global::Prism.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
+			global::Prism.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
+			global::Prism.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::LongoToDo.Forms.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Prism.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Prism.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::Prism.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::Prism.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Prism.Resource.Style.Base_Theme_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Prism.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Prism.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Prism.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Prism.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Prism.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Prism.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_V21_Theme_MaterialComponents = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_Theme_MaterialComponents;
+			global::Prism.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog;
+			global::Prism.Resource.Style.Base_V21_Theme_MaterialComponents_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light;
+			global::Prism.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog;
+			global::Prism.Resource.Style.Base_V22_Theme_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V22_Theme_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V23_Theme_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V23_Theme_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V26_Theme_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V26_Theme_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::LongoToDo.Forms.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_V28_Theme_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V28_Theme_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::LongoToDo.Forms.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::LongoToDo.Forms.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::LongoToDo.Forms.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionMode = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Small = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_EditText = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ImageButton = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SearchView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SeekBar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Spinner = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_TextView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Toolbar = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Prism.Resource.Style.Base_Widget_Design_TabLayout = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_Chip = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_Slider = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_Slider;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Prism.Resource.Style.Base_Widget_MaterialComponents_TextView = global::LongoToDo.Forms.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
+			global::Prism.Resource.Style.CardView = global::LongoToDo.Forms.Droid.Resource.Style.CardView;
+			global::Prism.Resource.Style.CardView_Dark = global::LongoToDo.Forms.Droid.Resource.Style.CardView_Dark;
+			global::Prism.Resource.Style.CardView_Light = global::LongoToDo.Forms.Droid.Resource.Style.CardView_Light;
+			global::Prism.Resource.Style.collectionViewTheme = global::LongoToDo.Forms.Droid.Resource.Style.collectionViewTheme;
+			global::Prism.Resource.Style.EmptyTheme = global::LongoToDo.Forms.Droid.Resource.Style.EmptyTheme;
+			global::Prism.Resource.Style.MainTheme = global::LongoToDo.Forms.Droid.Resource.Style.MainTheme;
+			global::Prism.Resource.Style.MainTheme_Base = global::LongoToDo.Forms.Droid.Resource.Style.MainTheme_Base;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Prism.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::LongoToDo.Forms.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
+			global::Prism.Resource.Style.Platform_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Platform_AppCompat;
+			global::Prism.Resource.Style.Platform_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_MaterialComponents = global::LongoToDo.Forms.Droid.Resource.Style.Platform_MaterialComponents;
+			global::Prism.Resource.Style.Platform_MaterialComponents_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Prism.Resource.Style.Platform_MaterialComponents_Light = global::LongoToDo.Forms.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::Prism.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::LongoToDo.Forms.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_V21_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Prism.Resource.Style.Platform_V21_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_V25_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Prism.Resource.Style.Platform_V25_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_Widget_AppCompat_Spinner = global::LongoToDo.Forms.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::LongoToDo.Forms.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Prism.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::LongoToDo.Forms.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.scrollViewScrollBars = global::LongoToDo.Forms.Droid.Resource.Style.scrollViewScrollBars;
+			global::Prism.Resource.Style.scrollViewTheme = global::LongoToDo.Forms.Droid.Resource.Style.scrollViewTheme;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_Cut = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
+			global::Prism.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
+			global::Prism.Resource.Style.ShapeAppearance_MaterialComponents = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
+			global::Prism.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
+			global::Prism.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
+			global::Prism.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
+			global::Prism.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
+			global::Prism.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip = global::LongoToDo.Forms.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip;
+			global::Prism.Resource.Style.TestStyleWithLineHeight = global::LongoToDo.Forms.Droid.Resource.Style.TestStyleWithLineHeight;
+			global::Prism.Resource.Style.TestStyleWithLineHeightAppearance = global::LongoToDo.Forms.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
+			global::Prism.Resource.Style.TestStyleWithoutLineHeight = global::LongoToDo.Forms.Droid.Resource.Style.TestStyleWithoutLineHeight;
+			global::Prism.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::LongoToDo.Forms.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
+			global::Prism.Resource.Style.TestThemeWithLineHeight = global::LongoToDo.Forms.Droid.Resource.Style.TestThemeWithLineHeight;
+			global::Prism.Resource.Style.TestThemeWithLineHeightDisabled = global::LongoToDo.Forms.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
+			global::Prism.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::LongoToDo.Forms.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Prism.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::LongoToDo.Forms.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
+			global::Prism.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::LongoToDo.Forms.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
+			global::Prism.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::LongoToDo.Forms.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Prism.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::LongoToDo.Forms.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Prism.Resource.Style.TextAppearance_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Body1 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Body2 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Button = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Caption = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display1 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display2 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display3 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display4 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Headline = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Large = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Medium = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Menu = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Small = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Subhead = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Title = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Tooltip = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Info = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Media = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Time = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Title = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Prism.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Prism.Resource.Style.TextAppearance_Design_Counter = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Prism.Resource.Style.TextAppearance_Design_Counter_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Prism.Resource.Style.TextAppearance_Design_Error = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Prism.Resource.Style.TextAppearance_Design_HelperText = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::Prism.Resource.Style.TextAppearance_Design_Hint = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Prism.Resource.Style.TextAppearance_Design_Placeholder = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Placeholder;
+			global::Prism.Resource.Style.TextAppearance_Design_Prefix = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Prefix;
+			global::Prism.Resource.Style.TextAppearance_Design_Snackbar_Message = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Prism.Resource.Style.TextAppearance_Design_Suffix = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Suffix;
+			global::Prism.Resource.Style.TextAppearance_Design_Tab = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Badge = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Button = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Caption = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Chip = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Overline = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Prism.Resource.Style.TextAppearance_MaterialComponents_Tooltip = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_MaterialComponents_Tooltip;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::LongoToDo.Forms.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Prism.Resource.Style.ThemeOverlayColorAccentRed = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlayColorAccentRed;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dark = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
+			global::Prism.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::LongoToDo.Forms.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
+			global::Prism.Resource.Style.Theme_AppCompat = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat;
+			global::Prism.Resource.Style.Theme_AppCompat_CompactMenu = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_Empty = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Empty;
+			global::Prism.Resource.Style.Theme_AppCompat_Light = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_NoActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Prism.Resource.Style.Theme_Design = global::LongoToDo.Forms.Droid.Resource.Style.Theme_Design;
+			global::Prism.Resource.Style.Theme_Design_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_Design_Light = global::LongoToDo.Forms.Droid.Resource.Style.Theme_Design_Light;
+			global::Prism.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_Design_Light_NoActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Prism.Resource.Style.Theme_Design_NoActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Prism.Resource.Style.Theme_MaterialComponents = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Prism.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_CompactMenu = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Prism.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Prism.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Prism.Resource.Style.Theme_MaterialComponents_NoActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Prism.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::LongoToDo.Forms.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionMode = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Prism.Resource.Style.Widget_AppCompat_ActivityChooserView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Prism.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Widget_AppCompat_Button = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Prism.Resource.Style.Widget_AppCompat_ButtonBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Borderless = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Small = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Prism.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Prism.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_EditText = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Widget_AppCompat_ImageButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_SearchView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ListMenuView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Prism.Resource.Style.Widget_AppCompat_ListPopupWindow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView_DropDown = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView_Menu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupMenu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupWindow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_ProgressBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar_Small = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Prism.Resource.Style.Widget_AppCompat_SearchView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Prism.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_SeekBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Prism.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Prism.Resource.Style.Widget_AppCompat_TextView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::Prism.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Widget_AppCompat_Toolbar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::LongoToDo.Forms.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Prism.Resource.Style.Widget_Compat_NotificationActionContainer = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Prism.Resource.Style.Widget_Compat_NotificationActionText = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Prism.Resource.Style.Widget_Design_AppBarLayout = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Prism.Resource.Style.Widget_Design_BottomNavigationView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Prism.Resource.Style.Widget_Design_BottomSheet_Modal = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Prism.Resource.Style.Widget_Design_CollapsingToolbar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Prism.Resource.Style.Widget_Design_FloatingActionButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Prism.Resource.Style.Widget_Design_NavigationView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Prism.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Prism.Resource.Style.Widget_Design_Snackbar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Prism.Resource.Style.Widget_Design_TabLayout = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Prism.Resource.Style.Widget_Design_TextInputEditText = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_TextInputEditText;
+			global::Prism.Resource.Style.Widget_Design_TextInputLayout = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Prism.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
+			global::Prism.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
+			global::Prism.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
+			global::Prism.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Prism.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Prism.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Prism.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Badge = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Badge;
+			global::Prism.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Prism.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Prism.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Prism.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Prism.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_BottomSheet = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
+			global::Prism.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_Icon = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Prism.Resource.Style.Widget_MaterialComponents_CardView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Prism.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
+			global::Prism.Resource.Style.Widget_MaterialComponents_ChipGroup = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Chip_Action = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Prism.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
+			global::Prism.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
+			global::Prism.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
+			global::Prism.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
+			global::Prism.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
+			global::Prism.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
+			global::Prism.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
+			global::Prism.Resource.Style.Widget_MaterialComponents_NavigationView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Prism.Resource.Style.Widget_MaterialComponents_PopupMenu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
+			global::Prism.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Prism.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Prism.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Widget_MaterialComponents_ShapeableImageView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_ShapeableImageView;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Slider = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Slider;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Snackbar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Snackbar_TextView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_TextView;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TabLayout = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
+			global::Prism.Resource.Style.Widget_MaterialComponents_TextView = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_TextView;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Toolbar = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
+			global::Prism.Resource.Style.Widget_MaterialComponents_Tooltip = global::LongoToDo.Forms.Droid.Resource.Style.Widget_MaterialComponents_Tooltip;
+			global::Prism.Resource.Style.Widget_Support_CoordinatorLayout = global::LongoToDo.Forms.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Prism.Resource.Styleable.ActionBar = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar;
+			global::Prism.Resource.Styleable.ActionBarLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBarLayout;
+			global::Prism.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Prism.Resource.Styleable.ActionBar_background = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_background;
+			global::Prism.Resource.Styleable.ActionBar_backgroundSplit = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Prism.Resource.Styleable.ActionBar_backgroundStacked = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetRight = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetStart = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Prism.Resource.Styleable.ActionBar_customNavigationLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Prism.Resource.Styleable.ActionBar_displayOptions = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Prism.Resource.Styleable.ActionBar_divider = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_divider;
+			global::Prism.Resource.Styleable.ActionBar_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Prism.Resource.Styleable.ActionBar_height = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_height;
+			global::Prism.Resource.Styleable.ActionBar_hideOnContentScroll = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Prism.Resource.Styleable.ActionBar_homeAsUpIndicator = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Prism.Resource.Styleable.ActionBar_homeLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Prism.Resource.Styleable.ActionBar_icon = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_icon;
+			global::Prism.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Prism.Resource.Styleable.ActionBar_itemPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Prism.Resource.Styleable.ActionBar_logo = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_logo;
+			global::Prism.Resource.Styleable.ActionBar_navigationMode = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Prism.Resource.Styleable.ActionBar_popupTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Prism.Resource.Styleable.ActionBar_progressBarPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Prism.Resource.Styleable.ActionBar_progressBarStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Prism.Resource.Styleable.ActionBar_subtitle = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Prism.Resource.Styleable.ActionBar_subtitleTextStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Prism.Resource.Styleable.ActionBar_title = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_title;
+			global::Prism.Resource.Styleable.ActionBar_titleTextStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Prism.Resource.Styleable.ActionMenuItemView = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Prism.Resource.Styleable.ActionMenuItemView_android_minWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Prism.Resource.Styleable.ActionMenuView = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMenuView;
+			global::Prism.Resource.Styleable.ActionMode = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMode;
+			global::Prism.Resource.Styleable.ActionMode_background = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMode_background;
+			global::Prism.Resource.Styleable.ActionMode_backgroundSplit = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Prism.Resource.Styleable.ActionMode_closeItemLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Prism.Resource.Styleable.ActionMode_height = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMode_height;
+			global::Prism.Resource.Styleable.ActionMode_subtitleTextStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Prism.Resource.Styleable.ActionMode_titleTextStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Prism.Resource.Styleable.ActivityChooserView = global::LongoToDo.Forms.Droid.Resource.Styleable.ActivityChooserView;
+			global::Prism.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Prism.Resource.Styleable.ActivityChooserView_initialActivityCount = global::LongoToDo.Forms.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Prism.Resource.Styleable.AlertDialog = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog;
+			global::Prism.Resource.Styleable.AlertDialog_android_layout = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Prism.Resource.Styleable.AlertDialog_buttonIconDimen = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Prism.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Prism.Resource.Styleable.AlertDialog_listItemLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Prism.Resource.Styleable.AlertDialog_listLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Prism.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Prism.Resource.Styleable.AlertDialog_showTitle = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Prism.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableItem = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableTransition = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Prism.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::LongoToDo.Forms.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Prism.Resource.Styleable.AppBarLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout;
+			global::Prism.Resource.Styleable.AppBarLayoutStates = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Prism.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Prism.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Prism.Resource.Styleable.AppBarLayoutStates_state_liftable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Prism.Resource.Styleable.AppBarLayoutStates_state_lifted = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Prism.Resource.Styleable.AppBarLayout_android_background = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Prism.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Prism.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Prism.Resource.Styleable.AppBarLayout_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Prism.Resource.Styleable.AppBarLayout_expanded = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Prism.Resource.Styleable.AppBarLayout_liftOnScroll = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Prism.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
+			global::Prism.Resource.Styleable.AppBarLayout_statusBarForeground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
+			global::Prism.Resource.Styleable.AppCompatImageView = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatImageView;
+			global::Prism.Resource.Styleable.AppCompatImageView_android_src = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Prism.Resource.Styleable.AppCompatImageView_srcCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Prism.Resource.Styleable.AppCompatImageView_tint = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Prism.Resource.Styleable.AppCompatImageView_tintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Prism.Resource.Styleable.AppCompatSeekBar = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_android_thumb = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMark = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Prism.Resource.Styleable.AppCompatTextHelper = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Prism.Resource.Styleable.AppCompatTextView = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView;
+			global::Prism.Resource.Styleable.AppCompatTextView_android_textAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Prism.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::Prism.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::Prism.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::Prism.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::Prism.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::Prism.Resource.Styleable.AppCompatTextView_drawableTint = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::Prism.Resource.Styleable.AppCompatTextView_drawableTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::Prism.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::Prism.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Prism.Resource.Styleable.AppCompatTextView_fontFamily = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Prism.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::Prism.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Prism.Resource.Styleable.AppCompatTextView_lineHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Prism.Resource.Styleable.AppCompatTextView_textAllCaps = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Prism.Resource.Styleable.AppCompatTextView_textLocale = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::Prism.Resource.Styleable.AppCompatTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarDivider = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarSize = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Prism.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_checkboxStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorAccent = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlActivated = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlNormal = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorError = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorPrimary = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_controlBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Prism.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Prism.Resource.Styleable.AppCompatTheme_dialogTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Prism.Resource.Styleable.AppCompatTheme_dividerVertical = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Prism.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Prism.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::Prism.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::Prism.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Prism.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Prism.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_searchViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_seekBarStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Prism.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_spinnerStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_switchStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Prism.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Prism.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Prism.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_toolbarStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionBar = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowNoTitle = global::LongoToDo.Forms.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Prism.Resource.Styleable.Badge = global::LongoToDo.Forms.Droid.Resource.Styleable.Badge;
+			global::Prism.Resource.Styleable.Badge_backgroundColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Badge_backgroundColor;
+			global::Prism.Resource.Styleable.Badge_badgeGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.Badge_badgeGravity;
+			global::Prism.Resource.Styleable.Badge_badgeTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Badge_badgeTextColor;
+			global::Prism.Resource.Styleable.Badge_horizontalOffset = global::LongoToDo.Forms.Droid.Resource.Styleable.Badge_horizontalOffset;
+			global::Prism.Resource.Styleable.Badge_maxCharacterCount = global::LongoToDo.Forms.Droid.Resource.Styleable.Badge_maxCharacterCount;
+			global::Prism.Resource.Styleable.Badge_number = global::LongoToDo.Forms.Droid.Resource.Styleable.Badge_number;
+			global::Prism.Resource.Styleable.Badge_verticalOffset = global::LongoToDo.Forms.Droid.Resource.Styleable.Badge_verticalOffset;
+			global::Prism.Resource.Styleable.BottomAppBar = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar;
+			global::Prism.Resource.Styleable.BottomAppBar_backgroundTint = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Prism.Resource.Styleable.BottomAppBar_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_elevation;
+			global::Prism.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Prism.Resource.Styleable.BottomAppBar_fabAnimationMode = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
+			global::Prism.Resource.Styleable.BottomAppBar_fabCradleMargin = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Prism.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Prism.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Prism.Resource.Styleable.BottomAppBar_hideOnScroll = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Prism.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets;
+			global::Prism.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets;
+			global::Prism.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets;
+			global::Prism.Resource.Styleable.BottomNavigationView = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomNavigationView;
+			global::Prism.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.ButtonBarLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Prism.Resource.Styleable.ButtonBarLayout_allowStacking = global::LongoToDo.Forms.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Prism.Resource.Styleable.CardView = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView;
+			global::Prism.Resource.Styleable.CardView_android_minHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Prism.Resource.Styleable.CardView_android_minWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Prism.Resource.Styleable.CardView_cardBackgroundColor = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Prism.Resource.Styleable.CardView_cardCornerRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Prism.Resource.Styleable.CardView_cardElevation = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Prism.Resource.Styleable.CardView_cardMaxElevation = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Prism.Resource.Styleable.CardView_cardPreventCornerOverlap = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Prism.Resource.Styleable.CardView_cardUseCompatPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Prism.Resource.Styleable.CardView_contentPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Prism.Resource.Styleable.CardView_contentPaddingBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Prism.Resource.Styleable.CardView_contentPaddingLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Prism.Resource.Styleable.CardView_contentPaddingRight = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Prism.Resource.Styleable.CardView_contentPaddingTop = global::LongoToDo.Forms.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Prism.Resource.Styleable.Chip = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip;
+			global::Prism.Resource.Styleable.ChipGroup = global::LongoToDo.Forms.Droid.Resource.Styleable.ChipGroup;
+			global::Prism.Resource.Styleable.ChipGroup_checkedChip = global::LongoToDo.Forms.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Prism.Resource.Styleable.ChipGroup_chipSpacing = global::LongoToDo.Forms.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Prism.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::LongoToDo.Forms.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Prism.Resource.Styleable.ChipGroup_chipSpacingVertical = global::LongoToDo.Forms.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Prism.Resource.Styleable.ChipGroup_selectionRequired = global::LongoToDo.Forms.Droid.Resource.Styleable.ChipGroup_selectionRequired;
+			global::Prism.Resource.Styleable.ChipGroup_singleLine = global::LongoToDo.Forms.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Prism.Resource.Styleable.ChipGroup_singleSelection = global::LongoToDo.Forms.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::Prism.Resource.Styleable.Chip_android_checkable = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_android_checkable;
+			global::Prism.Resource.Styleable.Chip_android_ellipsize = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::Prism.Resource.Styleable.Chip_android_maxWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::Prism.Resource.Styleable.Chip_android_text = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_android_text;
+			global::Prism.Resource.Styleable.Chip_android_textAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::Prism.Resource.Styleable.Chip_android_textColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_android_textColor;
+			global::Prism.Resource.Styleable.Chip_checkedIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::Prism.Resource.Styleable.Chip_checkedIconEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Prism.Resource.Styleable.Chip_checkedIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_checkedIconTint;
+			global::Prism.Resource.Styleable.Chip_checkedIconVisible = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::Prism.Resource.Styleable.Chip_chipBackgroundColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Prism.Resource.Styleable.Chip_chipCornerRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::Prism.Resource.Styleable.Chip_chipEndPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::Prism.Resource.Styleable.Chip_chipIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipIcon;
+			global::Prism.Resource.Styleable.Chip_chipIconEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::Prism.Resource.Styleable.Chip_chipIconSize = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::Prism.Resource.Styleable.Chip_chipIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::Prism.Resource.Styleable.Chip_chipIconVisible = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::Prism.Resource.Styleable.Chip_chipMinHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::Prism.Resource.Styleable.Chip_chipMinTouchTargetSize = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
+			global::Prism.Resource.Styleable.Chip_chipStartPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::Prism.Resource.Styleable.Chip_chipStrokeColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::Prism.Resource.Styleable.Chip_chipStrokeWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Prism.Resource.Styleable.Chip_chipSurfaceColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_chipSurfaceColor;
+			global::Prism.Resource.Styleable.Chip_closeIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_closeIcon;
+			global::Prism.Resource.Styleable.Chip_closeIconEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::Prism.Resource.Styleable.Chip_closeIconEndPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Prism.Resource.Styleable.Chip_closeIconSize = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::Prism.Resource.Styleable.Chip_closeIconStartPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Prism.Resource.Styleable.Chip_closeIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::Prism.Resource.Styleable.Chip_closeIconVisible = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::Prism.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
+			global::Prism.Resource.Styleable.Chip_hideMotionSpec = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::Prism.Resource.Styleable.Chip_iconEndPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::Prism.Resource.Styleable.Chip_iconStartPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::Prism.Resource.Styleable.Chip_rippleColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_rippleColor;
+			global::Prism.Resource.Styleable.Chip_shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_shapeAppearance;
+			global::Prism.Resource.Styleable.Chip_shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.Chip_showMotionSpec = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::Prism.Resource.Styleable.Chip_textEndPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::Prism.Resource.Styleable.Chip_textStartPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_maxLines = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_maxLines;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_title = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::LongoToDo.Forms.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Prism.Resource.Styleable.ColorStateListItem = global::LongoToDo.Forms.Droid.Resource.Styleable.ColorStateListItem;
+			global::Prism.Resource.Styleable.ColorStateListItem_alpha = global::LongoToDo.Forms.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Prism.Resource.Styleable.ColorStateListItem_android_alpha = global::LongoToDo.Forms.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Prism.Resource.Styleable.ColorStateListItem_android_color = global::LongoToDo.Forms.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Prism.Resource.Styleable.CompoundButton = global::LongoToDo.Forms.Droid.Resource.Styleable.CompoundButton;
+			global::Prism.Resource.Styleable.CompoundButton_android_button = global::LongoToDo.Forms.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Prism.Resource.Styleable.CompoundButton_buttonCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::Prism.Resource.Styleable.CompoundButton_buttonTint = global::LongoToDo.Forms.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Prism.Resource.Styleable.CompoundButton_buttonTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Prism.Resource.Styleable.CoordinatorLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Prism.Resource.Styleable.CoordinatorLayout_keylines = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Prism.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Prism.Resource.Styleable.DrawerArrowToggle = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_barLength = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_color = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_drawableSize = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_spinBars = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_thickness = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Prism.Resource.Styleable.DrawerLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerLayout;
+			global::Prism.Resource.Styleable.DrawerLayout_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.DrawerLayout_elevation;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
+			global::Prism.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::LongoToDo.Forms.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
+			global::Prism.Resource.Styleable.FloatingActionButton = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton;
+			global::Prism.Resource.Styleable.FloatingActionButton_android_enabled = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_android_enabled;
+			global::Prism.Resource.Styleable.FloatingActionButton_backgroundTint = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Prism.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Prism.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Prism.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Prism.Resource.Styleable.FloatingActionButton_borderWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Prism.Resource.Styleable.FloatingActionButton_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Prism.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
+			global::Prism.Resource.Styleable.FloatingActionButton_fabCustomSize = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Prism.Resource.Styleable.FloatingActionButton_fabSize = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Prism.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Prism.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Prism.Resource.Styleable.FloatingActionButton_maxImageSize = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Prism.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Prism.Resource.Styleable.FloatingActionButton_rippleColor = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Prism.Resource.Styleable.FloatingActionButton_shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
+			global::Prism.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.FloatingActionButton_showMotionSpec = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Prism.Resource.Styleable.FloatingActionButton_useCompatPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Prism.Resource.Styleable.FlowLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.FlowLayout;
+			global::Prism.Resource.Styleable.FlowLayout_itemSpacing = global::LongoToDo.Forms.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Prism.Resource.Styleable.FlowLayout_lineSpacing = global::LongoToDo.Forms.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Prism.Resource.Styleable.FontFamily = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamily;
+			global::Prism.Resource.Styleable.FontFamilyFont = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_font = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_fontStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_fontWeight = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Prism.Resource.Styleable.FontFamilyFont_font = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Prism.Resource.Styleable.FontFamilyFont_fontStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Prism.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Prism.Resource.Styleable.FontFamilyFont_fontWeight = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Prism.Resource.Styleable.FontFamilyFont_ttcIndex = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderAuthority = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderCerts = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderPackage = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderQuery = global::LongoToDo.Forms.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::LongoToDo.Forms.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::LongoToDo.Forms.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Prism.Resource.Styleable.Fragment = global::LongoToDo.Forms.Droid.Resource.Styleable.Fragment;
+			global::Prism.Resource.Styleable.FragmentContainerView = global::LongoToDo.Forms.Droid.Resource.Styleable.FragmentContainerView;
+			global::Prism.Resource.Styleable.FragmentContainerView_android_name = global::LongoToDo.Forms.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::Prism.Resource.Styleable.FragmentContainerView_android_tag = global::LongoToDo.Forms.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::Prism.Resource.Styleable.Fragment_android_id = global::LongoToDo.Forms.Droid.Resource.Styleable.Fragment_android_id;
+			global::Prism.Resource.Styleable.Fragment_android_name = global::LongoToDo.Forms.Droid.Resource.Styleable.Fragment_android_name;
+			global::Prism.Resource.Styleable.Fragment_android_tag = global::LongoToDo.Forms.Droid.Resource.Styleable.Fragment_android_tag;
+			global::Prism.Resource.Styleable.GradientColor = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor;
+			global::Prism.Resource.Styleable.GradientColorItem = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColorItem;
+			global::Prism.Resource.Styleable.GradientColorItem_android_color = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Prism.Resource.Styleable.GradientColorItem_android_offset = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Prism.Resource.Styleable.GradientColor_android_centerColor = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Prism.Resource.Styleable.GradientColor_android_centerX = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Prism.Resource.Styleable.GradientColor_android_centerY = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Prism.Resource.Styleable.GradientColor_android_endColor = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Prism.Resource.Styleable.GradientColor_android_endX = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Prism.Resource.Styleable.GradientColor_android_endY = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Prism.Resource.Styleable.GradientColor_android_gradientRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Prism.Resource.Styleable.GradientColor_android_startColor = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Prism.Resource.Styleable.GradientColor_android_startX = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Prism.Resource.Styleable.GradientColor_android_startY = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Prism.Resource.Styleable.GradientColor_android_tileMode = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Prism.Resource.Styleable.GradientColor_android_type = global::LongoToDo.Forms.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Prism.Resource.Styleable.Insets = global::LongoToDo.Forms.Droid.Resource.Styleable.Insets;
+			global::Prism.Resource.Styleable.Insets_paddingBottomSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Styleable.Insets_paddingBottomSystemWindowInsets;
+			global::Prism.Resource.Styleable.Insets_paddingLeftSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Styleable.Insets_paddingLeftSystemWindowInsets;
+			global::Prism.Resource.Styleable.Insets_paddingRightSystemWindowInsets = global::LongoToDo.Forms.Droid.Resource.Styleable.Insets_paddingRightSystemWindowInsets;
+			global::Prism.Resource.Styleable.ItemsViewRendererTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.ItemsViewRendererTheme;
+			global::Prism.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
+			global::Prism.Resource.Styleable.LinearLayoutCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_gravity = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_orientation = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_divider = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_showDividers = global::LongoToDo.Forms.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Prism.Resource.Styleable.ListPopupWindow = global::LongoToDo.Forms.Droid.Resource.Styleable.ListPopupWindow;
+			global::Prism.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::LongoToDo.Forms.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Prism.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::LongoToDo.Forms.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Prism.Resource.Styleable.MaterialAlertDialog = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialog;
+			global::Prism.Resource.Styleable.MaterialAlertDialogTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialogTheme;
+			global::Prism.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
+			global::Prism.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
+			global::Prism.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
+			global::Prism.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
+			global::Prism.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
+			global::Prism.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
+			global::Prism.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
+			global::Prism.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
+			global::Prism.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
+			global::Prism.Resource.Styleable.MaterialAutoCompleteTextView = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAutoCompleteTextView;
+			global::Prism.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType;
+			global::Prism.Resource.Styleable.MaterialButton = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton;
+			global::Prism.Resource.Styleable.MaterialButtonToggleGroup = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButtonToggleGroup;
+			global::Prism.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
+			global::Prism.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired;
+			global::Prism.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
+			global::Prism.Resource.Styleable.MaterialButton_android_background = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_android_background;
+			global::Prism.Resource.Styleable.MaterialButton_android_checkable = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_android_checkable;
+			global::Prism.Resource.Styleable.MaterialButton_android_insetBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Prism.Resource.Styleable.MaterialButton_android_insetLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Prism.Resource.Styleable.MaterialButton_android_insetRight = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Prism.Resource.Styleable.MaterialButton_android_insetTop = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Prism.Resource.Styleable.MaterialButton_backgroundTint = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Prism.Resource.Styleable.MaterialButton_backgroundTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Prism.Resource.Styleable.MaterialButton_cornerRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Prism.Resource.Styleable.MaterialButton_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_elevation;
+			global::Prism.Resource.Styleable.MaterialButton_icon = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_icon;
+			global::Prism.Resource.Styleable.MaterialButton_iconGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::Prism.Resource.Styleable.MaterialButton_iconPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::Prism.Resource.Styleable.MaterialButton_iconSize = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::Prism.Resource.Styleable.MaterialButton_iconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::Prism.Resource.Styleable.MaterialButton_iconTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Prism.Resource.Styleable.MaterialButton_rippleColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::Prism.Resource.Styleable.MaterialButton_shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
+			global::Prism.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.MaterialButton_strokeColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::Prism.Resource.Styleable.MaterialButton_strokeWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Prism.Resource.Styleable.MaterialCalendar = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar;
+			global::Prism.Resource.Styleable.MaterialCalendarItem = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
+			global::Prism.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
+			global::Prism.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
+			global::Prism.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
+			global::Prism.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
+			global::Prism.Resource.Styleable.MaterialCalendar_dayStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
+			global::Prism.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
+			global::Prism.Resource.Styleable.MaterialCalendar_rangeFillColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
+			global::Prism.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
+			global::Prism.Resource.Styleable.MaterialCalendar_yearStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
+			global::Prism.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
+			global::Prism.Resource.Styleable.MaterialCardView = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView;
+			global::Prism.Resource.Styleable.MaterialCardView_android_checkable = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_android_checkable;
+			global::Prism.Resource.Styleable.MaterialCardView_cardForegroundColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
+			global::Prism.Resource.Styleable.MaterialCardView_checkedIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
+			global::Prism.Resource.Styleable.MaterialCardView_checkedIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
+			global::Prism.Resource.Styleable.MaterialCardView_rippleColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_rippleColor;
+			global::Prism.Resource.Styleable.MaterialCardView_shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
+			global::Prism.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.MaterialCardView_state_dragged = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_state_dragged;
+			global::Prism.Resource.Styleable.MaterialCardView_strokeColor = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Prism.Resource.Styleable.MaterialCardView_strokeWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Prism.Resource.Styleable.MaterialCheckBox = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCheckBox;
+			global::Prism.Resource.Styleable.MaterialCheckBox_buttonTint = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
+			global::Prism.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
+			global::Prism.Resource.Styleable.MaterialRadioButton = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialRadioButton;
+			global::Prism.Resource.Styleable.MaterialRadioButton_buttonTint = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialRadioButton_buttonTint;
+			global::Prism.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
+			global::Prism.Resource.Styleable.MaterialShape = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialShape;
+			global::Prism.Resource.Styleable.MaterialShape_shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
+			global::Prism.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.MaterialTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialTextAppearance;
+			global::Prism.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
+			global::Prism.Resource.Styleable.MaterialTextAppearance_lineHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
+			global::Prism.Resource.Styleable.MaterialTextView = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialTextView;
+			global::Prism.Resource.Styleable.MaterialTextView_android_lineHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
+			global::Prism.Resource.Styleable.MaterialTextView_android_textAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
+			global::Prism.Resource.Styleable.MaterialTextView_lineHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.MaterialTextView_lineHeight;
+			global::Prism.Resource.Styleable.MenuGroup = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuGroup;
+			global::Prism.Resource.Styleable.MenuGroup_android_checkableBehavior = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Prism.Resource.Styleable.MenuGroup_android_enabled = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Prism.Resource.Styleable.MenuGroup_android_id = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Prism.Resource.Styleable.MenuGroup_android_menuCategory = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Prism.Resource.Styleable.MenuGroup_android_orderInCategory = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Prism.Resource.Styleable.MenuGroup_android_visible = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Prism.Resource.Styleable.MenuItem = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem;
+			global::Prism.Resource.Styleable.MenuItem_actionLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Prism.Resource.Styleable.MenuItem_actionProviderClass = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Prism.Resource.Styleable.MenuItem_actionViewClass = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Prism.Resource.Styleable.MenuItem_alphabeticModifiers = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Prism.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Prism.Resource.Styleable.MenuItem_android_checkable = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Prism.Resource.Styleable.MenuItem_android_checked = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Prism.Resource.Styleable.MenuItem_android_enabled = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Prism.Resource.Styleable.MenuItem_android_icon = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Prism.Resource.Styleable.MenuItem_android_id = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Prism.Resource.Styleable.MenuItem_android_menuCategory = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Prism.Resource.Styleable.MenuItem_android_numericShortcut = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Prism.Resource.Styleable.MenuItem_android_onClick = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Prism.Resource.Styleable.MenuItem_android_orderInCategory = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Prism.Resource.Styleable.MenuItem_android_title = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Prism.Resource.Styleable.MenuItem_android_titleCondensed = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Prism.Resource.Styleable.MenuItem_android_visible = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Prism.Resource.Styleable.MenuItem_contentDescription = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Prism.Resource.Styleable.MenuItem_iconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Prism.Resource.Styleable.MenuItem_iconTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Prism.Resource.Styleable.MenuItem_numericModifiers = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Prism.Resource.Styleable.MenuItem_showAsAction = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Prism.Resource.Styleable.MenuItem_tooltipText = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Prism.Resource.Styleable.MenuView = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView;
+			global::Prism.Resource.Styleable.MenuView_android_headerBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Prism.Resource.Styleable.MenuView_android_horizontalDivider = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Prism.Resource.Styleable.MenuView_android_itemBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Prism.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Prism.Resource.Styleable.MenuView_android_itemTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Prism.Resource.Styleable.MenuView_android_verticalDivider = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Prism.Resource.Styleable.MenuView_android_windowAnimationStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Prism.Resource.Styleable.MenuView_preserveIconSpacing = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Prism.Resource.Styleable.MenuView_subMenuArrow = global::LongoToDo.Forms.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Prism.Resource.Styleable.NavigationView = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView;
+			global::Prism.Resource.Styleable.NavigationView_android_background = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Prism.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Prism.Resource.Styleable.NavigationView_android_maxWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Prism.Resource.Styleable.NavigationView_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Prism.Resource.Styleable.NavigationView_headerLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Prism.Resource.Styleable.NavigationView_itemBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Prism.Resource.Styleable.NavigationView_itemHorizontalPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Prism.Resource.Styleable.NavigationView_itemIconPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Prism.Resource.Styleable.NavigationView_itemIconSize = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemIconSize;
+			global::Prism.Resource.Styleable.NavigationView_itemIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Prism.Resource.Styleable.NavigationView_itemMaxLines = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemMaxLines;
+			global::Prism.Resource.Styleable.NavigationView_itemShapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
+			global::Prism.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.NavigationView_itemShapeFillColor = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
+			global::Prism.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
+			global::Prism.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
+			global::Prism.Resource.Styleable.NavigationView_itemShapeInsetStart = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
+			global::Prism.Resource.Styleable.NavigationView_itemShapeInsetTop = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
+			global::Prism.Resource.Styleable.NavigationView_itemTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Prism.Resource.Styleable.NavigationView_itemTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Prism.Resource.Styleable.NavigationView_menu = global::LongoToDo.Forms.Droid.Resource.Styleable.NavigationView_menu;
+			global::Prism.Resource.Styleable.PopupWindow = global::LongoToDo.Forms.Droid.Resource.Styleable.PopupWindow;
+			global::Prism.Resource.Styleable.PopupWindowBackgroundState = global::LongoToDo.Forms.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Prism.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::LongoToDo.Forms.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Prism.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Prism.Resource.Styleable.PopupWindow_android_popupBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Prism.Resource.Styleable.PopupWindow_overlapAnchor = global::LongoToDo.Forms.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Prism.Resource.Styleable.RangeSlider = global::LongoToDo.Forms.Droid.Resource.Styleable.RangeSlider;
+			global::Prism.Resource.Styleable.RangeSlider_values = global::LongoToDo.Forms.Droid.Resource.Styleable.RangeSlider_values;
+			global::Prism.Resource.Styleable.RecycleListView = global::LongoToDo.Forms.Droid.Resource.Styleable.RecycleListView;
+			global::Prism.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::LongoToDo.Forms.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Prism.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::LongoToDo.Forms.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Prism.Resource.Styleable.RecyclerView = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView;
+			global::Prism.Resource.Styleable.RecyclerView_android_clipToPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::Prism.Resource.Styleable.RecyclerView_android_descendantFocusability = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Prism.Resource.Styleable.RecyclerView_android_orientation = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_layoutManager = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Prism.Resource.Styleable.RecyclerView_reverseLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Prism.Resource.Styleable.RecyclerView_spanCount = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Prism.Resource.Styleable.RecyclerView_stackFromEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Prism.Resource.Styleable.ScrimInsetsFrameLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Prism.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::LongoToDo.Forms.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Prism.Resource.Styleable.ScrollingViewBehavior_Layout = global::LongoToDo.Forms.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Prism.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::LongoToDo.Forms.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Prism.Resource.Styleable.ScrollViewRendererTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.ScrollViewRendererTheme;
+			global::Prism.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle;
+			global::Prism.Resource.Styleable.SearchView = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView;
+			global::Prism.Resource.Styleable.SearchView_android_focusable = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Prism.Resource.Styleable.SearchView_android_imeOptions = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Prism.Resource.Styleable.SearchView_android_inputType = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Prism.Resource.Styleable.SearchView_android_maxWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Prism.Resource.Styleable.SearchView_closeIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Prism.Resource.Styleable.SearchView_commitIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Prism.Resource.Styleable.SearchView_defaultQueryHint = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Prism.Resource.Styleable.SearchView_goIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Prism.Resource.Styleable.SearchView_iconifiedByDefault = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Prism.Resource.Styleable.SearchView_layout = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_layout;
+			global::Prism.Resource.Styleable.SearchView_queryBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Prism.Resource.Styleable.SearchView_queryHint = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Prism.Resource.Styleable.SearchView_searchHintIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Prism.Resource.Styleable.SearchView_searchIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Prism.Resource.Styleable.SearchView_submitBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Prism.Resource.Styleable.SearchView_suggestionRowLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Prism.Resource.Styleable.SearchView_voiceIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Prism.Resource.Styleable.ShapeableImageView = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeableImageView;
+			global::Prism.Resource.Styleable.ShapeableImageView_shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeableImageView_shapeAppearance;
+			global::Prism.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.ShapeableImageView_strokeColor = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeableImageView_strokeColor;
+			global::Prism.Resource.Styleable.ShapeableImageView_strokeWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeableImageView_strokeWidth;
+			global::Prism.Resource.Styleable.ShapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerFamily = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerSize = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
+			global::Prism.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::LongoToDo.Forms.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
+			global::Prism.Resource.Styleable.Slider = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider;
+			global::Prism.Resource.Styleable.Slider_android_enabled = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_android_enabled;
+			global::Prism.Resource.Styleable.Slider_android_stepSize = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_android_stepSize;
+			global::Prism.Resource.Styleable.Slider_android_value = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_android_value;
+			global::Prism.Resource.Styleable.Slider_android_valueFrom = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_android_valueFrom;
+			global::Prism.Resource.Styleable.Slider_android_valueTo = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_android_valueTo;
+			global::Prism.Resource.Styleable.Slider_haloColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_haloColor;
+			global::Prism.Resource.Styleable.Slider_haloRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_haloRadius;
+			global::Prism.Resource.Styleable.Slider_labelBehavior = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_labelBehavior;
+			global::Prism.Resource.Styleable.Slider_labelStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_labelStyle;
+			global::Prism.Resource.Styleable.Slider_thumbColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_thumbColor;
+			global::Prism.Resource.Styleable.Slider_thumbElevation = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_thumbElevation;
+			global::Prism.Resource.Styleable.Slider_thumbRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_thumbRadius;
+			global::Prism.Resource.Styleable.Slider_tickColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_tickColor;
+			global::Prism.Resource.Styleable.Slider_tickColorActive = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_tickColorActive;
+			global::Prism.Resource.Styleable.Slider_tickColorInactive = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_tickColorInactive;
+			global::Prism.Resource.Styleable.Slider_trackColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_trackColor;
+			global::Prism.Resource.Styleable.Slider_trackColorActive = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_trackColorActive;
+			global::Prism.Resource.Styleable.Slider_trackColorInactive = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_trackColorInactive;
+			global::Prism.Resource.Styleable.Slider_trackHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.Slider_trackHeight;
+			global::Prism.Resource.Styleable.Snackbar = global::LongoToDo.Forms.Droid.Resource.Styleable.Snackbar;
+			global::Prism.Resource.Styleable.SnackbarLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout;
+			global::Prism.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
+			global::Prism.Resource.Styleable.SnackbarLayout_android_maxWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Prism.Resource.Styleable.SnackbarLayout_animationMode = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout_animationMode;
+			global::Prism.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
+			global::Prism.Resource.Styleable.SnackbarLayout_backgroundTint = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout_backgroundTint;
+			global::Prism.Resource.Styleable.SnackbarLayout_backgroundTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout_backgroundTintMode;
+			global::Prism.Resource.Styleable.SnackbarLayout_elevation = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Prism.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Prism.Resource.Styleable.Snackbar_snackbarButtonStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Prism.Resource.Styleable.Snackbar_snackbarStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Prism.Resource.Styleable.Snackbar_snackbarTextViewStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.Snackbar_snackbarTextViewStyle;
+			global::Prism.Resource.Styleable.Spinner = global::LongoToDo.Forms.Droid.Resource.Styleable.Spinner;
+			global::Prism.Resource.Styleable.Spinner_android_dropDownWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Prism.Resource.Styleable.Spinner_android_entries = global::LongoToDo.Forms.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Prism.Resource.Styleable.Spinner_android_popupBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Prism.Resource.Styleable.Spinner_android_prompt = global::LongoToDo.Forms.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Prism.Resource.Styleable.Spinner_popupTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Prism.Resource.Styleable.StateListDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawable;
+			global::Prism.Resource.Styleable.StateListDrawableItem = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Prism.Resource.Styleable.StateListDrawableItem_android_drawable = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Prism.Resource.Styleable.StateListDrawable_android_constantSize = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Prism.Resource.Styleable.StateListDrawable_android_dither = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::Prism.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Prism.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Prism.Resource.Styleable.StateListDrawable_android_variablePadding = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Prism.Resource.Styleable.StateListDrawable_android_visible = global::LongoToDo.Forms.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Prism.Resource.Styleable.SwipeRefreshLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.SwipeRefreshLayout;
+			global::Prism.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor = global::LongoToDo.Forms.Droid.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::Prism.Resource.Styleable.SwitchCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat;
+			global::Prism.Resource.Styleable.SwitchCompat_android_textOff = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Prism.Resource.Styleable.SwitchCompat_android_textOn = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Prism.Resource.Styleable.SwitchCompat_android_thumb = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Prism.Resource.Styleable.SwitchCompat_showText = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Prism.Resource.Styleable.SwitchCompat_splitTrack = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Prism.Resource.Styleable.SwitchCompat_switchMinWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Prism.Resource.Styleable.SwitchCompat_switchPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Prism.Resource.Styleable.SwitchCompat_switchTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTextPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTint = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Prism.Resource.Styleable.SwitchCompat_track = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Prism.Resource.Styleable.SwitchCompat_trackTint = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Prism.Resource.Styleable.SwitchCompat_trackTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Prism.Resource.Styleable.SwitchMaterial = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchMaterial;
+			global::Prism.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::LongoToDo.Forms.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
+			global::Prism.Resource.Styleable.TabItem = global::LongoToDo.Forms.Droid.Resource.Styleable.TabItem;
+			global::Prism.Resource.Styleable.TabItem_android_icon = global::LongoToDo.Forms.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Prism.Resource.Styleable.TabItem_android_layout = global::LongoToDo.Forms.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Prism.Resource.Styleable.TabItem_android_text = global::LongoToDo.Forms.Droid.Resource.Styleable.TabItem_android_text;
+			global::Prism.Resource.Styleable.TabLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout;
+			global::Prism.Resource.Styleable.TabLayout_tabBackground = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Prism.Resource.Styleable.TabLayout_tabContentStart = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Prism.Resource.Styleable.TabLayout_tabGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Prism.Resource.Styleable.TabLayout_tabIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::Prism.Resource.Styleable.TabLayout_tabIconTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicator = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Prism.Resource.Styleable.TabLayout_tabInlineLabel = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Prism.Resource.Styleable.TabLayout_tabMaxWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Prism.Resource.Styleable.TabLayout_tabMinWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Prism.Resource.Styleable.TabLayout_tabMode = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Prism.Resource.Styleable.TabLayout_tabPadding = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingStart = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingTop = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Prism.Resource.Styleable.TabLayout_tabRippleColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Prism.Resource.Styleable.TabLayout_tabSelectedTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Prism.Resource.Styleable.TabLayout_tabTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Prism.Resource.Styleable.TabLayout_tabTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Prism.Resource.Styleable.TabLayout_tabUnboundedRipple = global::LongoToDo.Forms.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Prism.Resource.Styleable.TextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance;
+			global::Prism.Resource.Styleable.TextAppearance_android_fontFamily = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowDx = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowDy = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowRadius = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColorHint = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColorLink = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Prism.Resource.Styleable.TextAppearance_android_textFontWeight = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::Prism.Resource.Styleable.TextAppearance_android_textSize = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Prism.Resource.Styleable.TextAppearance_android_textStyle = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Prism.Resource.Styleable.TextAppearance_android_typeface = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Prism.Resource.Styleable.TextAppearance_fontFamily = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Prism.Resource.Styleable.TextAppearance_fontVariationSettings = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::Prism.Resource.Styleable.TextAppearance_textAllCaps = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Prism.Resource.Styleable.TextAppearance_textLocale = global::LongoToDo.Forms.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::Prism.Resource.Styleable.TextInputEditText = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputEditText;
+			global::Prism.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout;
+			global::Prism.Resource.Styleable.TextInputLayout_android_enabled = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_android_enabled;
+			global::Prism.Resource.Styleable.TextInputLayout_android_hint = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Prism.Resource.Styleable.TextInputLayout_android_textColorHint = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Prism.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Prism.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Prism.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Prism.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Prism.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Prism.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Prism.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Prism.Resource.Styleable.TextInputLayout_boxStrokeColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Prism.Resource.Styleable.TextInputLayout_boxStrokeErrorColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxStrokeErrorColor;
+			global::Prism.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Prism.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
+			global::Prism.Resource.Styleable.TextInputLayout_counterEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_counterMaxLength = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Prism.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
+			global::Prism.Resource.Styleable.TextInputLayout_counterTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_counterTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
+			global::Prism.Resource.Styleable.TextInputLayout_endIconCheckable = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
+			global::Prism.Resource.Styleable.TextInputLayout_endIconContentDescription = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
+			global::Prism.Resource.Styleable.TextInputLayout_endIconDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
+			global::Prism.Resource.Styleable.TextInputLayout_endIconMode = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_endIconMode;
+			global::Prism.Resource.Styleable.TextInputLayout_endIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_endIconTint;
+			global::Prism.Resource.Styleable.TextInputLayout_endIconTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
+			global::Prism.Resource.Styleable.TextInputLayout_errorContentDescription = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_errorContentDescription;
+			global::Prism.Resource.Styleable.TextInputLayout_errorEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_errorIconDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
+			global::Prism.Resource.Styleable.TextInputLayout_errorIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
+			global::Prism.Resource.Styleable.TextInputLayout_errorIconTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
+			global::Prism.Resource.Styleable.TextInputLayout_errorTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_errorTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
+			global::Prism.Resource.Styleable.TextInputLayout_helperText = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::Prism.Resource.Styleable.TextInputLayout_helperTextEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_helperTextTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
+			global::Prism.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_hintEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_hintTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_hintTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleTint = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Prism.Resource.Styleable.TextInputLayout_placeholderText = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_placeholderText;
+			global::Prism.Resource.Styleable.TextInputLayout_placeholderTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_placeholderTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_placeholderTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_placeholderTextColor;
+			global::Prism.Resource.Styleable.TextInputLayout_prefixText = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_prefixText;
+			global::Prism.Resource.Styleable.TextInputLayout_prefixTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_prefixTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_prefixTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_prefixTextColor;
+			global::Prism.Resource.Styleable.TextInputLayout_shapeAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
+			global::Prism.Resource.Styleable.TextInputLayout_startIconCheckable = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
+			global::Prism.Resource.Styleable.TextInputLayout_startIconContentDescription = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
+			global::Prism.Resource.Styleable.TextInputLayout_startIconDrawable = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
+			global::Prism.Resource.Styleable.TextInputLayout_startIconTint = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_startIconTint;
+			global::Prism.Resource.Styleable.TextInputLayout_startIconTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
+			global::Prism.Resource.Styleable.TextInputLayout_suffixText = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_suffixText;
+			global::Prism.Resource.Styleable.TextInputLayout_suffixTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_suffixTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_suffixTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.TextInputLayout_suffixTextColor;
+			global::Prism.Resource.Styleable.ThemeEnforcement = global::LongoToDo.Forms.Droid.Resource.Styleable.ThemeEnforcement;
+			global::Prism.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Prism.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Prism.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Prism.Resource.Styleable.Toolbar = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar;
+			global::Prism.Resource.Styleable.Toolbar_android_gravity = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Prism.Resource.Styleable.Toolbar_android_minHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Prism.Resource.Styleable.Toolbar_buttonGravity = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Prism.Resource.Styleable.Toolbar_collapseContentDescription = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Prism.Resource.Styleable.Toolbar_collapseIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetLeft = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetRight = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetStart = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Prism.Resource.Styleable.Toolbar_logo = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_logo;
+			global::Prism.Resource.Styleable.Toolbar_logoDescription = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Prism.Resource.Styleable.Toolbar_maxButtonHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Prism.Resource.Styleable.Toolbar_menu = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_menu;
+			global::Prism.Resource.Styleable.Toolbar_navigationContentDescription = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Prism.Resource.Styleable.Toolbar_navigationIcon = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Prism.Resource.Styleable.Toolbar_popupTheme = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Prism.Resource.Styleable.Toolbar_subtitle = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Prism.Resource.Styleable.Toolbar_subtitleTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Prism.Resource.Styleable.Toolbar_subtitleTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Prism.Resource.Styleable.Toolbar_title = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_title;
+			global::Prism.Resource.Styleable.Toolbar_titleMargin = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginBottom = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Prism.Resource.Styleable.Toolbar_titleMargins = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginStart = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginTop = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Prism.Resource.Styleable.Toolbar_titleTextAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Prism.Resource.Styleable.Toolbar_titleTextColor = global::LongoToDo.Forms.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Prism.Resource.Styleable.Tooltip = global::LongoToDo.Forms.Droid.Resource.Styleable.Tooltip;
+			global::Prism.Resource.Styleable.Tooltip_android_layout_margin = global::LongoToDo.Forms.Droid.Resource.Styleable.Tooltip_android_layout_margin;
+			global::Prism.Resource.Styleable.Tooltip_android_minHeight = global::LongoToDo.Forms.Droid.Resource.Styleable.Tooltip_android_minHeight;
+			global::Prism.Resource.Styleable.Tooltip_android_minWidth = global::LongoToDo.Forms.Droid.Resource.Styleable.Tooltip_android_minWidth;
+			global::Prism.Resource.Styleable.Tooltip_android_padding = global::LongoToDo.Forms.Droid.Resource.Styleable.Tooltip_android_padding;
+			global::Prism.Resource.Styleable.Tooltip_android_text = global::LongoToDo.Forms.Droid.Resource.Styleable.Tooltip_android_text;
+			global::Prism.Resource.Styleable.Tooltip_android_textAppearance = global::LongoToDo.Forms.Droid.Resource.Styleable.Tooltip_android_textAppearance;
+			global::Prism.Resource.Styleable.Tooltip_backgroundTint = global::LongoToDo.Forms.Droid.Resource.Styleable.Tooltip_backgroundTint;
+			global::Prism.Resource.Styleable.View = global::LongoToDo.Forms.Droid.Resource.Styleable.View;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_android_background = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Prism.Resource.Styleable.ViewPager2 = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewPager2;
+			global::Prism.Resource.Styleable.ViewPager2_android_orientation = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewPager2_android_orientation;
+			global::Prism.Resource.Styleable.ViewStubCompat = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewStubCompat;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_id = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_inflatedId = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_layout = global::LongoToDo.Forms.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Prism.Resource.Styleable.View_android_focusable = global::LongoToDo.Forms.Droid.Resource.Styleable.View_android_focusable;
+			global::Prism.Resource.Styleable.View_android_theme = global::LongoToDo.Forms.Droid.Resource.Styleable.View_android_theme;
+			global::Prism.Resource.Styleable.View_paddingEnd = global::LongoToDo.Forms.Droid.Resource.Styleable.View_paddingEnd;
+			global::Prism.Resource.Styleable.View_paddingStart = global::LongoToDo.Forms.Droid.Resource.Styleable.View_paddingStart;
+			global::Prism.Resource.Styleable.View_theme = global::LongoToDo.Forms.Droid.Resource.Styleable.View_theme;
+			global::Prism.Resource.Xml.image_share_filepaths = global::LongoToDo.Forms.Droid.Resource.Xml.image_share_filepaths;
+			global::Prism.Resource.Xml.standalone_badge = global::LongoToDo.Forms.Droid.Resource.Xml.standalone_badge;
+			global::Prism.Resource.Xml.standalone_badge_gravity_bottom_end = global::LongoToDo.Forms.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
+			global::Prism.Resource.Xml.standalone_badge_gravity_bottom_start = global::LongoToDo.Forms.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
+			global::Prism.Resource.Xml.standalone_badge_gravity_top_start = global::LongoToDo.Forms.Droid.Resource.Xml.standalone_badge_gravity_top_start;
+			global::Prism.Resource.Xml.standalone_badge_offset = global::LongoToDo.Forms.Droid.Resource.Xml.standalone_badge_offset;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::LongoToDo.Forms.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::LongoToDo.Forms.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::LongoToDo.Forms.Droid.Resource.Attribute.fontProviderAuthority;
@@ -14286,653 +17889,656 @@ namespace LongoToDo.Forms.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7F050000
-			public const int abc_background_cache_hint_selector_material_dark = 2131034112;
-			
 			// aapt resource value: 0x7F050001
-			public const int abc_background_cache_hint_selector_material_light = 2131034113;
+			public const int abc_background_cache_hint_selector_material_dark = 2131034113;
 			
 			// aapt resource value: 0x7F050002
-			public const int abc_btn_colored_borderless_text_material = 2131034114;
+			public const int abc_background_cache_hint_selector_material_light = 2131034114;
 			
 			// aapt resource value: 0x7F050003
-			public const int abc_btn_colored_text_material = 2131034115;
+			public const int abc_btn_colored_borderless_text_material = 2131034115;
 			
 			// aapt resource value: 0x7F050004
-			public const int abc_color_highlight_material = 2131034116;
+			public const int abc_btn_colored_text_material = 2131034116;
 			
 			// aapt resource value: 0x7F050005
-			public const int abc_decor_view_status_guard = 2131034117;
+			public const int abc_color_highlight_material = 2131034117;
 			
 			// aapt resource value: 0x7F050006
-			public const int abc_decor_view_status_guard_light = 2131034118;
+			public const int abc_decor_view_status_guard = 2131034118;
 			
 			// aapt resource value: 0x7F050007
-			public const int abc_hint_foreground_material_dark = 2131034119;
+			public const int abc_decor_view_status_guard_light = 2131034119;
 			
 			// aapt resource value: 0x7F050008
-			public const int abc_hint_foreground_material_light = 2131034120;
+			public const int abc_hint_foreground_material_dark = 2131034120;
 			
 			// aapt resource value: 0x7F050009
-			public const int abc_primary_text_disable_only_material_dark = 2131034121;
+			public const int abc_hint_foreground_material_light = 2131034121;
 			
 			// aapt resource value: 0x7F05000A
-			public const int abc_primary_text_disable_only_material_light = 2131034122;
+			public const int abc_primary_text_disable_only_material_dark = 2131034122;
 			
 			// aapt resource value: 0x7F05000B
-			public const int abc_primary_text_material_dark = 2131034123;
+			public const int abc_primary_text_disable_only_material_light = 2131034123;
 			
 			// aapt resource value: 0x7F05000C
-			public const int abc_primary_text_material_light = 2131034124;
+			public const int abc_primary_text_material_dark = 2131034124;
 			
 			// aapt resource value: 0x7F05000D
-			public const int abc_search_url_text = 2131034125;
+			public const int abc_primary_text_material_light = 2131034125;
 			
 			// aapt resource value: 0x7F05000E
-			public const int abc_search_url_text_normal = 2131034126;
+			public const int abc_search_url_text = 2131034126;
 			
 			// aapt resource value: 0x7F05000F
-			public const int abc_search_url_text_pressed = 2131034127;
+			public const int abc_search_url_text_normal = 2131034127;
 			
 			// aapt resource value: 0x7F050010
-			public const int abc_search_url_text_selected = 2131034128;
+			public const int abc_search_url_text_pressed = 2131034128;
 			
 			// aapt resource value: 0x7F050011
-			public const int abc_secondary_text_material_dark = 2131034129;
+			public const int abc_search_url_text_selected = 2131034129;
 			
 			// aapt resource value: 0x7F050012
-			public const int abc_secondary_text_material_light = 2131034130;
+			public const int abc_secondary_text_material_dark = 2131034130;
 			
 			// aapt resource value: 0x7F050013
-			public const int abc_tint_btn_checkable = 2131034131;
+			public const int abc_secondary_text_material_light = 2131034131;
 			
 			// aapt resource value: 0x7F050014
-			public const int abc_tint_default = 2131034132;
+			public const int abc_tint_btn_checkable = 2131034132;
 			
 			// aapt resource value: 0x7F050015
-			public const int abc_tint_edittext = 2131034133;
+			public const int abc_tint_default = 2131034133;
 			
 			// aapt resource value: 0x7F050016
-			public const int abc_tint_seek_thumb = 2131034134;
+			public const int abc_tint_edittext = 2131034134;
 			
 			// aapt resource value: 0x7F050017
-			public const int abc_tint_spinner = 2131034135;
+			public const int abc_tint_seek_thumb = 2131034135;
 			
 			// aapt resource value: 0x7F050018
-			public const int abc_tint_switch_track = 2131034136;
+			public const int abc_tint_spinner = 2131034136;
 			
 			// aapt resource value: 0x7F050019
-			public const int accent_material_dark = 2131034137;
+			public const int abc_tint_switch_track = 2131034137;
 			
 			// aapt resource value: 0x7F05001A
-			public const int accent_material_light = 2131034138;
+			public const int accent_material_dark = 2131034138;
 			
 			// aapt resource value: 0x7F05001B
-			public const int androidx_core_ripple_material_light = 2131034139;
+			public const int accent_material_light = 2131034139;
 			
 			// aapt resource value: 0x7F05001C
-			public const int androidx_core_secondary_text_default_material_light = 2131034140;
+			public const int androidx_core_ripple_material_light = 2131034140;
 			
 			// aapt resource value: 0x7F05001D
-			public const int background_floating_material_dark = 2131034141;
+			public const int androidx_core_secondary_text_default_material_light = 2131034141;
 			
 			// aapt resource value: 0x7F05001E
-			public const int background_floating_material_light = 2131034142;
+			public const int background_floating_material_dark = 2131034142;
 			
 			// aapt resource value: 0x7F05001F
-			public const int background_material_dark = 2131034143;
+			public const int background_floating_material_light = 2131034143;
 			
 			// aapt resource value: 0x7F050020
-			public const int background_material_light = 2131034144;
+			public const int background_material_dark = 2131034144;
 			
 			// aapt resource value: 0x7F050021
-			public const int bright_foreground_disabled_material_dark = 2131034145;
+			public const int background_material_light = 2131034145;
 			
 			// aapt resource value: 0x7F050022
-			public const int bright_foreground_disabled_material_light = 2131034146;
+			public const int bright_foreground_disabled_material_dark = 2131034146;
 			
 			// aapt resource value: 0x7F050023
-			public const int bright_foreground_inverse_material_dark = 2131034147;
+			public const int bright_foreground_disabled_material_light = 2131034147;
 			
 			// aapt resource value: 0x7F050024
-			public const int bright_foreground_inverse_material_light = 2131034148;
+			public const int bright_foreground_inverse_material_dark = 2131034148;
 			
 			// aapt resource value: 0x7F050025
-			public const int bright_foreground_material_dark = 2131034149;
+			public const int bright_foreground_inverse_material_light = 2131034149;
 			
 			// aapt resource value: 0x7F050026
-			public const int bright_foreground_material_light = 2131034150;
+			public const int bright_foreground_material_dark = 2131034150;
 			
 			// aapt resource value: 0x7F050027
-			public const int browser_actions_bg_grey = 2131034151;
+			public const int bright_foreground_material_light = 2131034151;
 			
 			// aapt resource value: 0x7F050028
-			public const int browser_actions_divider_color = 2131034152;
+			public const int browser_actions_bg_grey = 2131034152;
 			
 			// aapt resource value: 0x7F050029
-			public const int browser_actions_text_color = 2131034153;
+			public const int browser_actions_divider_color = 2131034153;
 			
 			// aapt resource value: 0x7F05002A
-			public const int browser_actions_title_color = 2131034154;
+			public const int browser_actions_text_color = 2131034154;
 			
 			// aapt resource value: 0x7F05002B
-			public const int button_material_dark = 2131034155;
+			public const int browser_actions_title_color = 2131034155;
 			
 			// aapt resource value: 0x7F05002C
-			public const int button_material_light = 2131034156;
+			public const int button_material_dark = 2131034156;
 			
 			// aapt resource value: 0x7F05002D
-			public const int cardview_dark_background = 2131034157;
+			public const int button_material_light = 2131034157;
 			
 			// aapt resource value: 0x7F05002E
-			public const int cardview_light_background = 2131034158;
+			public const int cardview_dark_background = 2131034158;
 			
 			// aapt resource value: 0x7F05002F
-			public const int cardview_shadow_end_color = 2131034159;
+			public const int cardview_light_background = 2131034159;
 			
 			// aapt resource value: 0x7F050030
-			public const int cardview_shadow_start_color = 2131034160;
+			public const int cardview_shadow_end_color = 2131034160;
 			
 			// aapt resource value: 0x7F050031
-			public const int checkbox_themeable_attribute_color = 2131034161;
+			public const int cardview_shadow_start_color = 2131034161;
 			
 			// aapt resource value: 0x7F050032
-			public const int colorAccent = 2131034162;
+			public const int checkbox_themeable_attribute_color = 2131034162;
 			
 			// aapt resource value: 0x7F050033
-			public const int colorPrimary = 2131034163;
+			public const int colorAccent = 2131034163;
 			
 			// aapt resource value: 0x7F050034
-			public const int colorPrimaryDark = 2131034164;
+			public const int colorPrimary = 2131034164;
 			
 			// aapt resource value: 0x7F050035
-			public const int design_bottom_navigation_shadow_color = 2131034165;
+			public const int colorPrimaryDark = 2131034165;
 			
 			// aapt resource value: 0x7F050036
-			public const int design_box_stroke_color = 2131034166;
+			public const int design_bottom_navigation_shadow_color = 2131034166;
 			
 			// aapt resource value: 0x7F050037
-			public const int design_dark_default_color_background = 2131034167;
+			public const int design_box_stroke_color = 2131034167;
 			
 			// aapt resource value: 0x7F050038
-			public const int design_dark_default_color_error = 2131034168;
+			public const int design_dark_default_color_background = 2131034168;
 			
 			// aapt resource value: 0x7F050039
-			public const int design_dark_default_color_on_background = 2131034169;
+			public const int design_dark_default_color_error = 2131034169;
 			
 			// aapt resource value: 0x7F05003A
-			public const int design_dark_default_color_on_error = 2131034170;
+			public const int design_dark_default_color_on_background = 2131034170;
 			
 			// aapt resource value: 0x7F05003B
-			public const int design_dark_default_color_on_primary = 2131034171;
+			public const int design_dark_default_color_on_error = 2131034171;
 			
 			// aapt resource value: 0x7F05003C
-			public const int design_dark_default_color_on_secondary = 2131034172;
+			public const int design_dark_default_color_on_primary = 2131034172;
 			
 			// aapt resource value: 0x7F05003D
-			public const int design_dark_default_color_on_surface = 2131034173;
+			public const int design_dark_default_color_on_secondary = 2131034173;
 			
 			// aapt resource value: 0x7F05003E
-			public const int design_dark_default_color_primary = 2131034174;
+			public const int design_dark_default_color_on_surface = 2131034174;
 			
 			// aapt resource value: 0x7F05003F
-			public const int design_dark_default_color_primary_dark = 2131034175;
+			public const int design_dark_default_color_primary = 2131034175;
 			
 			// aapt resource value: 0x7F050040
-			public const int design_dark_default_color_primary_variant = 2131034176;
+			public const int design_dark_default_color_primary_dark = 2131034176;
 			
 			// aapt resource value: 0x7F050041
-			public const int design_dark_default_color_secondary = 2131034177;
+			public const int design_dark_default_color_primary_variant = 2131034177;
 			
 			// aapt resource value: 0x7F050042
-			public const int design_dark_default_color_secondary_variant = 2131034178;
+			public const int design_dark_default_color_secondary = 2131034178;
 			
 			// aapt resource value: 0x7F050043
-			public const int design_dark_default_color_surface = 2131034179;
+			public const int design_dark_default_color_secondary_variant = 2131034179;
 			
 			// aapt resource value: 0x7F050044
-			public const int design_default_color_background = 2131034180;
+			public const int design_dark_default_color_surface = 2131034180;
 			
 			// aapt resource value: 0x7F050045
-			public const int design_default_color_error = 2131034181;
+			public const int design_default_color_background = 2131034181;
 			
 			// aapt resource value: 0x7F050046
-			public const int design_default_color_on_background = 2131034182;
+			public const int design_default_color_error = 2131034182;
 			
 			// aapt resource value: 0x7F050047
-			public const int design_default_color_on_error = 2131034183;
+			public const int design_default_color_on_background = 2131034183;
 			
 			// aapt resource value: 0x7F050048
-			public const int design_default_color_on_primary = 2131034184;
+			public const int design_default_color_on_error = 2131034184;
 			
 			// aapt resource value: 0x7F050049
-			public const int design_default_color_on_secondary = 2131034185;
+			public const int design_default_color_on_primary = 2131034185;
 			
 			// aapt resource value: 0x7F05004A
-			public const int design_default_color_on_surface = 2131034186;
+			public const int design_default_color_on_secondary = 2131034186;
 			
 			// aapt resource value: 0x7F05004B
-			public const int design_default_color_primary = 2131034187;
+			public const int design_default_color_on_surface = 2131034187;
 			
 			// aapt resource value: 0x7F05004C
-			public const int design_default_color_primary_dark = 2131034188;
+			public const int design_default_color_primary = 2131034188;
 			
 			// aapt resource value: 0x7F05004D
-			public const int design_default_color_primary_variant = 2131034189;
+			public const int design_default_color_primary_dark = 2131034189;
 			
 			// aapt resource value: 0x7F05004E
-			public const int design_default_color_secondary = 2131034190;
+			public const int design_default_color_primary_variant = 2131034190;
 			
 			// aapt resource value: 0x7F05004F
-			public const int design_default_color_secondary_variant = 2131034191;
+			public const int design_default_color_secondary = 2131034191;
 			
 			// aapt resource value: 0x7F050050
-			public const int design_default_color_surface = 2131034192;
+			public const int design_default_color_secondary_variant = 2131034192;
 			
 			// aapt resource value: 0x7F050051
-			public const int design_error = 2131034193;
+			public const int design_default_color_surface = 2131034193;
 			
 			// aapt resource value: 0x7F050052
-			public const int design_fab_shadow_end_color = 2131034194;
+			public const int design_error = 2131034194;
 			
 			// aapt resource value: 0x7F050053
-			public const int design_fab_shadow_mid_color = 2131034195;
+			public const int design_fab_shadow_end_color = 2131034195;
 			
 			// aapt resource value: 0x7F050054
-			public const int design_fab_shadow_start_color = 2131034196;
+			public const int design_fab_shadow_mid_color = 2131034196;
 			
 			// aapt resource value: 0x7F050055
-			public const int design_fab_stroke_end_inner_color = 2131034197;
+			public const int design_fab_shadow_start_color = 2131034197;
 			
 			// aapt resource value: 0x7F050056
-			public const int design_fab_stroke_end_outer_color = 2131034198;
+			public const int design_fab_stroke_end_inner_color = 2131034198;
 			
 			// aapt resource value: 0x7F050057
-			public const int design_fab_stroke_top_inner_color = 2131034199;
+			public const int design_fab_stroke_end_outer_color = 2131034199;
 			
 			// aapt resource value: 0x7F050058
-			public const int design_fab_stroke_top_outer_color = 2131034200;
+			public const int design_fab_stroke_top_inner_color = 2131034200;
 			
 			// aapt resource value: 0x7F050059
-			public const int design_icon_tint = 2131034201;
+			public const int design_fab_stroke_top_outer_color = 2131034201;
 			
 			// aapt resource value: 0x7F05005A
-			public const int design_snackbar_background_color = 2131034202;
+			public const int design_icon_tint = 2131034202;
 			
 			// aapt resource value: 0x7F05005B
-			public const int dim_foreground_disabled_material_dark = 2131034203;
+			public const int design_snackbar_background_color = 2131034203;
 			
 			// aapt resource value: 0x7F05005C
-			public const int dim_foreground_disabled_material_light = 2131034204;
+			public const int dim_foreground_disabled_material_dark = 2131034204;
 			
 			// aapt resource value: 0x7F05005D
-			public const int dim_foreground_material_dark = 2131034205;
+			public const int dim_foreground_disabled_material_light = 2131034205;
 			
 			// aapt resource value: 0x7F05005E
-			public const int dim_foreground_material_light = 2131034206;
+			public const int dim_foreground_material_dark = 2131034206;
 			
 			// aapt resource value: 0x7F05005F
-			public const int error_color_material_dark = 2131034207;
+			public const int dim_foreground_material_light = 2131034207;
 			
 			// aapt resource value: 0x7F050060
-			public const int error_color_material_light = 2131034208;
+			public const int error_color_material_dark = 2131034208;
 			
 			// aapt resource value: 0x7F050061
-			public const int foreground_material_dark = 2131034209;
+			public const int error_color_material_light = 2131034209;
 			
 			// aapt resource value: 0x7F050062
-			public const int foreground_material_light = 2131034210;
+			public const int foreground_material_dark = 2131034210;
 			
 			// aapt resource value: 0x7F050063
-			public const int highlighted_text_material_dark = 2131034211;
+			public const int foreground_material_light = 2131034211;
 			
 			// aapt resource value: 0x7F050064
-			public const int highlighted_text_material_light = 2131034212;
+			public const int highlighted_text_material_dark = 2131034212;
 			
 			// aapt resource value: 0x7F050065
-			public const int launcher_background = 2131034213;
+			public const int highlighted_text_material_light = 2131034213;
 			
 			// aapt resource value: 0x7F050066
-			public const int material_blue_grey_800 = 2131034214;
+			public const int launcher_background = 2131034214;
+			
+			// aapt resource value: 0x7F050000
+			public const int ListViewSelected = 2131034112;
 			
 			// aapt resource value: 0x7F050067
-			public const int material_blue_grey_900 = 2131034215;
+			public const int material_blue_grey_800 = 2131034215;
 			
 			// aapt resource value: 0x7F050068
-			public const int material_blue_grey_950 = 2131034216;
+			public const int material_blue_grey_900 = 2131034216;
 			
 			// aapt resource value: 0x7F050069
-			public const int material_cursor_color = 2131034217;
+			public const int material_blue_grey_950 = 2131034217;
 			
 			// aapt resource value: 0x7F05006A
-			public const int material_deep_teal_200 = 2131034218;
+			public const int material_cursor_color = 2131034218;
 			
 			// aapt resource value: 0x7F05006B
-			public const int material_deep_teal_500 = 2131034219;
+			public const int material_deep_teal_200 = 2131034219;
 			
 			// aapt resource value: 0x7F05006C
-			public const int material_grey_100 = 2131034220;
+			public const int material_deep_teal_500 = 2131034220;
 			
 			// aapt resource value: 0x7F05006D
-			public const int material_grey_300 = 2131034221;
+			public const int material_grey_100 = 2131034221;
 			
 			// aapt resource value: 0x7F05006E
-			public const int material_grey_50 = 2131034222;
+			public const int material_grey_300 = 2131034222;
 			
 			// aapt resource value: 0x7F05006F
-			public const int material_grey_600 = 2131034223;
+			public const int material_grey_50 = 2131034223;
 			
 			// aapt resource value: 0x7F050070
-			public const int material_grey_800 = 2131034224;
+			public const int material_grey_600 = 2131034224;
 			
 			// aapt resource value: 0x7F050071
-			public const int material_grey_850 = 2131034225;
+			public const int material_grey_800 = 2131034225;
 			
 			// aapt resource value: 0x7F050072
-			public const int material_grey_900 = 2131034226;
+			public const int material_grey_850 = 2131034226;
 			
 			// aapt resource value: 0x7F050073
-			public const int material_on_background_disabled = 2131034227;
+			public const int material_grey_900 = 2131034227;
 			
 			// aapt resource value: 0x7F050074
-			public const int material_on_background_emphasis_high_type = 2131034228;
+			public const int material_on_background_disabled = 2131034228;
 			
 			// aapt resource value: 0x7F050075
-			public const int material_on_background_emphasis_medium = 2131034229;
+			public const int material_on_background_emphasis_high_type = 2131034229;
 			
 			// aapt resource value: 0x7F050076
-			public const int material_on_primary_disabled = 2131034230;
+			public const int material_on_background_emphasis_medium = 2131034230;
 			
 			// aapt resource value: 0x7F050077
-			public const int material_on_primary_emphasis_high_type = 2131034231;
+			public const int material_on_primary_disabled = 2131034231;
 			
 			// aapt resource value: 0x7F050078
-			public const int material_on_primary_emphasis_medium = 2131034232;
+			public const int material_on_primary_emphasis_high_type = 2131034232;
 			
 			// aapt resource value: 0x7F050079
-			public const int material_on_surface_disabled = 2131034233;
+			public const int material_on_primary_emphasis_medium = 2131034233;
 			
 			// aapt resource value: 0x7F05007A
-			public const int material_on_surface_emphasis_high_type = 2131034234;
+			public const int material_on_surface_disabled = 2131034234;
 			
 			// aapt resource value: 0x7F05007B
-			public const int material_on_surface_emphasis_medium = 2131034235;
+			public const int material_on_surface_emphasis_high_type = 2131034235;
 			
 			// aapt resource value: 0x7F05007C
-			public const int material_on_surface_stroke = 2131034236;
+			public const int material_on_surface_emphasis_medium = 2131034236;
 			
 			// aapt resource value: 0x7F05007D
-			public const int material_slider_active_tick_marks_color = 2131034237;
+			public const int material_on_surface_stroke = 2131034237;
 			
 			// aapt resource value: 0x7F05007E
-			public const int material_slider_active_track_color = 2131034238;
+			public const int material_slider_active_tick_marks_color = 2131034238;
 			
 			// aapt resource value: 0x7F05007F
-			public const int material_slider_halo_color = 2131034239;
+			public const int material_slider_active_track_color = 2131034239;
 			
 			// aapt resource value: 0x7F050080
-			public const int material_slider_inactive_tick_marks_color = 2131034240;
+			public const int material_slider_halo_color = 2131034240;
 			
 			// aapt resource value: 0x7F050081
-			public const int material_slider_inactive_track_color = 2131034241;
+			public const int material_slider_inactive_tick_marks_color = 2131034241;
 			
 			// aapt resource value: 0x7F050082
-			public const int material_slider_thumb_color = 2131034242;
+			public const int material_slider_inactive_track_color = 2131034242;
 			
 			// aapt resource value: 0x7F050083
-			public const int material_timepicker_button_background = 2131034243;
+			public const int material_slider_thumb_color = 2131034243;
 			
 			// aapt resource value: 0x7F050084
-			public const int material_timepicker_button_stroke = 2131034244;
-			
-			// aapt resource value: 0x7F050086
-			public const int material_timepicker_clockface = 2131034246;
+			public const int material_timepicker_button_background = 2131034244;
 			
 			// aapt resource value: 0x7F050085
-			public const int material_timepicker_clock_text_color = 2131034245;
+			public const int material_timepicker_button_stroke = 2131034245;
 			
 			// aapt resource value: 0x7F050087
-			public const int material_timepicker_modebutton_tint = 2131034247;
+			public const int material_timepicker_clockface = 2131034247;
+			
+			// aapt resource value: 0x7F050086
+			public const int material_timepicker_clock_text_color = 2131034246;
 			
 			// aapt resource value: 0x7F050088
-			public const int mtrl_btn_bg_color_selector = 2131034248;
+			public const int material_timepicker_modebutton_tint = 2131034248;
 			
 			// aapt resource value: 0x7F050089
-			public const int mtrl_btn_ripple_color = 2131034249;
+			public const int mtrl_btn_bg_color_selector = 2131034249;
 			
 			// aapt resource value: 0x7F05008A
-			public const int mtrl_btn_stroke_color_selector = 2131034250;
+			public const int mtrl_btn_ripple_color = 2131034250;
 			
 			// aapt resource value: 0x7F05008B
-			public const int mtrl_btn_text_btn_bg_color_selector = 2131034251;
+			public const int mtrl_btn_stroke_color_selector = 2131034251;
 			
 			// aapt resource value: 0x7F05008C
-			public const int mtrl_btn_text_btn_ripple_color = 2131034252;
+			public const int mtrl_btn_text_btn_bg_color_selector = 2131034252;
 			
 			// aapt resource value: 0x7F05008D
-			public const int mtrl_btn_text_color_disabled = 2131034253;
+			public const int mtrl_btn_text_btn_ripple_color = 2131034253;
 			
 			// aapt resource value: 0x7F05008E
-			public const int mtrl_btn_text_color_selector = 2131034254;
+			public const int mtrl_btn_text_color_disabled = 2131034254;
 			
 			// aapt resource value: 0x7F05008F
-			public const int mtrl_btn_transparent_bg_color = 2131034255;
+			public const int mtrl_btn_text_color_selector = 2131034255;
 			
 			// aapt resource value: 0x7F050090
-			public const int mtrl_calendar_item_stroke_color = 2131034256;
+			public const int mtrl_btn_transparent_bg_color = 2131034256;
 			
 			// aapt resource value: 0x7F050091
-			public const int mtrl_calendar_selected_range = 2131034257;
+			public const int mtrl_calendar_item_stroke_color = 2131034257;
 			
 			// aapt resource value: 0x7F050092
-			public const int mtrl_card_view_foreground = 2131034258;
+			public const int mtrl_calendar_selected_range = 2131034258;
 			
 			// aapt resource value: 0x7F050093
-			public const int mtrl_card_view_ripple = 2131034259;
+			public const int mtrl_card_view_foreground = 2131034259;
 			
 			// aapt resource value: 0x7F050094
-			public const int mtrl_chip_background_color = 2131034260;
+			public const int mtrl_card_view_ripple = 2131034260;
 			
 			// aapt resource value: 0x7F050095
-			public const int mtrl_chip_close_icon_tint = 2131034261;
+			public const int mtrl_chip_background_color = 2131034261;
 			
 			// aapt resource value: 0x7F050096
-			public const int mtrl_chip_surface_color = 2131034262;
+			public const int mtrl_chip_close_icon_tint = 2131034262;
 			
 			// aapt resource value: 0x7F050097
-			public const int mtrl_chip_text_color = 2131034263;
+			public const int mtrl_chip_surface_color = 2131034263;
 			
 			// aapt resource value: 0x7F050098
-			public const int mtrl_choice_chip_background_color = 2131034264;
+			public const int mtrl_chip_text_color = 2131034264;
 			
 			// aapt resource value: 0x7F050099
-			public const int mtrl_choice_chip_ripple_color = 2131034265;
+			public const int mtrl_choice_chip_background_color = 2131034265;
 			
 			// aapt resource value: 0x7F05009A
-			public const int mtrl_choice_chip_text_color = 2131034266;
+			public const int mtrl_choice_chip_ripple_color = 2131034266;
 			
 			// aapt resource value: 0x7F05009B
-			public const int mtrl_error = 2131034267;
+			public const int mtrl_choice_chip_text_color = 2131034267;
 			
 			// aapt resource value: 0x7F05009C
-			public const int mtrl_fab_bg_color_selector = 2131034268;
+			public const int mtrl_error = 2131034268;
 			
 			// aapt resource value: 0x7F05009D
-			public const int mtrl_fab_icon_text_color_selector = 2131034269;
+			public const int mtrl_fab_bg_color_selector = 2131034269;
 			
 			// aapt resource value: 0x7F05009E
-			public const int mtrl_fab_ripple_color = 2131034270;
+			public const int mtrl_fab_icon_text_color_selector = 2131034270;
 			
 			// aapt resource value: 0x7F05009F
-			public const int mtrl_filled_background_color = 2131034271;
+			public const int mtrl_fab_ripple_color = 2131034271;
 			
 			// aapt resource value: 0x7F0500A0
-			public const int mtrl_filled_icon_tint = 2131034272;
+			public const int mtrl_filled_background_color = 2131034272;
 			
 			// aapt resource value: 0x7F0500A1
-			public const int mtrl_filled_stroke_color = 2131034273;
+			public const int mtrl_filled_icon_tint = 2131034273;
 			
 			// aapt resource value: 0x7F0500A2
-			public const int mtrl_indicator_text_color = 2131034274;
+			public const int mtrl_filled_stroke_color = 2131034274;
 			
 			// aapt resource value: 0x7F0500A3
-			public const int mtrl_navigation_bar_colored_item_tint = 2131034275;
+			public const int mtrl_indicator_text_color = 2131034275;
 			
 			// aapt resource value: 0x7F0500A4
-			public const int mtrl_navigation_bar_colored_ripple_color = 2131034276;
+			public const int mtrl_navigation_bar_colored_item_tint = 2131034276;
 			
 			// aapt resource value: 0x7F0500A5
-			public const int mtrl_navigation_bar_item_tint = 2131034277;
+			public const int mtrl_navigation_bar_colored_ripple_color = 2131034277;
 			
 			// aapt resource value: 0x7F0500A6
-			public const int mtrl_navigation_bar_ripple_color = 2131034278;
+			public const int mtrl_navigation_bar_item_tint = 2131034278;
 			
 			// aapt resource value: 0x7F0500A7
-			public const int mtrl_navigation_item_background_color = 2131034279;
+			public const int mtrl_navigation_bar_ripple_color = 2131034279;
 			
 			// aapt resource value: 0x7F0500A8
-			public const int mtrl_navigation_item_icon_tint = 2131034280;
+			public const int mtrl_navigation_item_background_color = 2131034280;
 			
 			// aapt resource value: 0x7F0500A9
-			public const int mtrl_navigation_item_text_color = 2131034281;
+			public const int mtrl_navigation_item_icon_tint = 2131034281;
 			
 			// aapt resource value: 0x7F0500AA
-			public const int mtrl_on_primary_text_btn_text_color_selector = 2131034282;
+			public const int mtrl_navigation_item_text_color = 2131034282;
 			
 			// aapt resource value: 0x7F0500AB
-			public const int mtrl_on_surface_ripple_color = 2131034283;
+			public const int mtrl_on_primary_text_btn_text_color_selector = 2131034283;
 			
 			// aapt resource value: 0x7F0500AC
-			public const int mtrl_outlined_icon_tint = 2131034284;
+			public const int mtrl_on_surface_ripple_color = 2131034284;
 			
 			// aapt resource value: 0x7F0500AD
-			public const int mtrl_outlined_stroke_color = 2131034285;
+			public const int mtrl_outlined_icon_tint = 2131034285;
 			
 			// aapt resource value: 0x7F0500AE
-			public const int mtrl_popupmenu_overlay_color = 2131034286;
+			public const int mtrl_outlined_stroke_color = 2131034286;
 			
 			// aapt resource value: 0x7F0500AF
-			public const int mtrl_scrim_color = 2131034287;
+			public const int mtrl_popupmenu_overlay_color = 2131034287;
 			
 			// aapt resource value: 0x7F0500B0
-			public const int mtrl_tabs_colored_ripple_color = 2131034288;
+			public const int mtrl_scrim_color = 2131034288;
 			
 			// aapt resource value: 0x7F0500B1
-			public const int mtrl_tabs_icon_color_selector = 2131034289;
+			public const int mtrl_tabs_colored_ripple_color = 2131034289;
 			
 			// aapt resource value: 0x7F0500B2
-			public const int mtrl_tabs_icon_color_selector_colored = 2131034290;
+			public const int mtrl_tabs_icon_color_selector = 2131034290;
 			
 			// aapt resource value: 0x7F0500B3
-			public const int mtrl_tabs_legacy_text_color_selector = 2131034291;
+			public const int mtrl_tabs_icon_color_selector_colored = 2131034291;
 			
 			// aapt resource value: 0x7F0500B4
-			public const int mtrl_tabs_ripple_color = 2131034292;
-			
-			// aapt resource value: 0x7F0500B6
-			public const int mtrl_textinput_default_box_stroke_color = 2131034294;
-			
-			// aapt resource value: 0x7F0500B7
-			public const int mtrl_textinput_disabled_color = 2131034295;
-			
-			// aapt resource value: 0x7F0500B8
-			public const int mtrl_textinput_filled_box_default_background_color = 2131034296;
-			
-			// aapt resource value: 0x7F0500B9
-			public const int mtrl_textinput_focused_box_stroke_color = 2131034297;
-			
-			// aapt resource value: 0x7F0500BA
-			public const int mtrl_textinput_hovered_box_stroke_color = 2131034298;
+			public const int mtrl_tabs_legacy_text_color_selector = 2131034292;
 			
 			// aapt resource value: 0x7F0500B5
-			public const int mtrl_text_btn_text_color_selector = 2131034293;
+			public const int mtrl_tabs_ripple_color = 2131034293;
+			
+			// aapt resource value: 0x7F0500B7
+			public const int mtrl_textinput_default_box_stroke_color = 2131034295;
+			
+			// aapt resource value: 0x7F0500B8
+			public const int mtrl_textinput_disabled_color = 2131034296;
+			
+			// aapt resource value: 0x7F0500B9
+			public const int mtrl_textinput_filled_box_default_background_color = 2131034297;
+			
+			// aapt resource value: 0x7F0500BA
+			public const int mtrl_textinput_focused_box_stroke_color = 2131034298;
 			
 			// aapt resource value: 0x7F0500BB
-			public const int notification_action_color_filter = 2131034299;
+			public const int mtrl_textinput_hovered_box_stroke_color = 2131034299;
+			
+			// aapt resource value: 0x7F0500B6
+			public const int mtrl_text_btn_text_color_selector = 2131034294;
 			
 			// aapt resource value: 0x7F0500BC
-			public const int notification_icon_bg_color = 2131034300;
+			public const int notification_action_color_filter = 2131034300;
 			
 			// aapt resource value: 0x7F0500BD
-			public const int notification_material_background_media_default_color = 2131034301;
+			public const int notification_icon_bg_color = 2131034301;
 			
 			// aapt resource value: 0x7F0500BE
-			public const int preference_fallback_accent_color = 2131034302;
+			public const int notification_material_background_media_default_color = 2131034302;
 			
 			// aapt resource value: 0x7F0500BF
-			public const int primary_dark_material_dark = 2131034303;
+			public const int preference_fallback_accent_color = 2131034303;
 			
 			// aapt resource value: 0x7F0500C0
-			public const int primary_dark_material_light = 2131034304;
+			public const int primary_dark_material_dark = 2131034304;
 			
 			// aapt resource value: 0x7F0500C1
-			public const int primary_material_dark = 2131034305;
+			public const int primary_dark_material_light = 2131034305;
 			
 			// aapt resource value: 0x7F0500C2
-			public const int primary_material_light = 2131034306;
+			public const int primary_material_dark = 2131034306;
 			
 			// aapt resource value: 0x7F0500C3
-			public const int primary_text_default_material_dark = 2131034307;
+			public const int primary_material_light = 2131034307;
 			
 			// aapt resource value: 0x7F0500C4
-			public const int primary_text_default_material_light = 2131034308;
+			public const int primary_text_default_material_dark = 2131034308;
 			
 			// aapt resource value: 0x7F0500C5
-			public const int primary_text_disabled_material_dark = 2131034309;
+			public const int primary_text_default_material_light = 2131034309;
 			
 			// aapt resource value: 0x7F0500C6
-			public const int primary_text_disabled_material_light = 2131034310;
+			public const int primary_text_disabled_material_dark = 2131034310;
 			
 			// aapt resource value: 0x7F0500C7
-			public const int radiobutton_themeable_attribute_color = 2131034311;
+			public const int primary_text_disabled_material_light = 2131034311;
 			
 			// aapt resource value: 0x7F0500C8
-			public const int ripple_material_dark = 2131034312;
+			public const int radiobutton_themeable_attribute_color = 2131034312;
 			
 			// aapt resource value: 0x7F0500C9
-			public const int ripple_material_light = 2131034313;
+			public const int ripple_material_dark = 2131034313;
 			
 			// aapt resource value: 0x7F0500CA
-			public const int secondary_text_default_material_dark = 2131034314;
+			public const int ripple_material_light = 2131034314;
 			
 			// aapt resource value: 0x7F0500CB
-			public const int secondary_text_default_material_light = 2131034315;
+			public const int secondary_text_default_material_dark = 2131034315;
 			
 			// aapt resource value: 0x7F0500CC
-			public const int secondary_text_disabled_material_dark = 2131034316;
+			public const int secondary_text_default_material_light = 2131034316;
 			
 			// aapt resource value: 0x7F0500CD
-			public const int secondary_text_disabled_material_light = 2131034317;
+			public const int secondary_text_disabled_material_dark = 2131034317;
 			
 			// aapt resource value: 0x7F0500CE
-			public const int switch_thumb_disabled_material_dark = 2131034318;
+			public const int secondary_text_disabled_material_light = 2131034318;
 			
 			// aapt resource value: 0x7F0500CF
-			public const int switch_thumb_disabled_material_light = 2131034319;
+			public const int switch_thumb_disabled_material_dark = 2131034319;
 			
 			// aapt resource value: 0x7F0500D0
-			public const int switch_thumb_material_dark = 2131034320;
+			public const int switch_thumb_disabled_material_light = 2131034320;
 			
 			// aapt resource value: 0x7F0500D1
-			public const int switch_thumb_material_light = 2131034321;
+			public const int switch_thumb_material_dark = 2131034321;
 			
 			// aapt resource value: 0x7F0500D2
-			public const int switch_thumb_normal_material_dark = 2131034322;
+			public const int switch_thumb_material_light = 2131034322;
 			
 			// aapt resource value: 0x7F0500D3
-			public const int switch_thumb_normal_material_light = 2131034323;
+			public const int switch_thumb_normal_material_dark = 2131034323;
 			
 			// aapt resource value: 0x7F0500D4
-			public const int test_mtrl_calendar_day = 2131034324;
+			public const int switch_thumb_normal_material_light = 2131034324;
 			
 			// aapt resource value: 0x7F0500D5
-			public const int test_mtrl_calendar_day_selected = 2131034325;
+			public const int test_mtrl_calendar_day = 2131034325;
 			
 			// aapt resource value: 0x7F0500D6
-			public const int tooltip_background_dark = 2131034326;
+			public const int test_mtrl_calendar_day_selected = 2131034326;
 			
 			// aapt resource value: 0x7F0500D7
-			public const int tooltip_background_light = 2131034327;
+			public const int tooltip_background_dark = 2131034327;
+			
+			// aapt resource value: 0x7F0500D8
+			public const int tooltip_background_light = 2131034328;
 			
 			static Color()
 			{
@@ -16536,133 +20142,145 @@ namespace LongoToDo.Forms.Droid
 			public const int ic_arrow_down_24dp = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int ic_clock_black_24dp = 2131165285;
+			public const int ic_check = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int ic_keyboard_black_24dp = 2131165286;
+			public const int ic_clock_black_24dp = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int ic_mtrl_checked_circle = 2131165287;
+			public const int ic_keyboard_black_24dp = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int ic_mtrl_chip_checked_black = 2131165288;
+			public const int ic_launcher = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int ic_mtrl_chip_checked_circle = 2131165289;
+			public const int ic_launcher_screen = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int ic_mtrl_chip_close_circle = 2131165290;
+			public const int ic_mtrl_checked_circle = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int material_cursor_drawable = 2131165291;
+			public const int ic_mtrl_chip_checked_black = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int material_ic_calendar_black_24dp = 2131165292;
+			public const int ic_mtrl_chip_checked_circle = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int material_ic_clear_black_24dp = 2131165293;
+			public const int ic_mtrl_chip_close_circle = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int material_ic_edit_black_24dp = 2131165294;
+			public const int launch_screen = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165295;
+			public const int material_cursor_drawable = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165296;
+			public const int material_ic_calendar_black_24dp = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165297;
+			public const int material_ic_clear_black_24dp = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165298;
+			public const int material_ic_edit_black_24dp = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int material_ic_menu_arrow_down_black_24dp = 2131165299;
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int material_ic_menu_arrow_up_black_24dp = 2131165300;
+			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int mtrl_dialog_background = 2131165301;
+			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int mtrl_dropdown_arrow = 2131165302;
+			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int mtrl_ic_arrow_drop_down = 2131165303;
+			public const int material_ic_menu_arrow_down_black_24dp = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int mtrl_ic_arrow_drop_up = 2131165304;
+			public const int material_ic_menu_arrow_up_black_24dp = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int mtrl_ic_cancel = 2131165305;
+			public const int mtrl_dialog_background = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int mtrl_ic_error = 2131165306;
+			public const int mtrl_dropdown_arrow = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int mtrl_navigation_bar_item_background = 2131165307;
+			public const int mtrl_ic_arrow_drop_down = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int mtrl_popupmenu_background = 2131165308;
+			public const int mtrl_ic_arrow_drop_up = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int mtrl_popupmenu_background_dark = 2131165309;
+			public const int mtrl_ic_cancel = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int mtrl_tabs_default_indicator = 2131165310;
+			public const int mtrl_ic_error = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int navigation_empty_icon = 2131165311;
+			public const int mtrl_navigation_bar_item_background = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int notification_action_background = 2131165312;
+			public const int mtrl_popupmenu_background = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int notification_bg = 2131165313;
+			public const int mtrl_popupmenu_background_dark = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int notification_bg_low = 2131165314;
+			public const int mtrl_tabs_default_indicator = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int notification_bg_low_normal = 2131165315;
+			public const int navigation_empty_icon = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int notification_bg_low_pressed = 2131165316;
+			public const int notification_action_background = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int notification_bg_normal = 2131165317;
+			public const int notification_bg = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int notification_bg_normal_pressed = 2131165318;
+			public const int notification_bg_low = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int notification_icon_background = 2131165319;
+			public const int notification_bg_low_normal = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int notification_template_icon_bg = 2131165320;
+			public const int notification_bg_low_pressed = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int notification_template_icon_low_bg = 2131165321;
+			public const int notification_bg_normal = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int notification_tile_bg = 2131165322;
+			public const int notification_bg_normal_pressed = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int notify_panel_notification_icon_bg = 2131165323;
+			public const int notification_icon_background = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int preference_list_divider_material = 2131165324;
+			public const int notification_template_icon_bg = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int test_custom_background = 2131165325;
+			public const int notification_template_icon_low_bg = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int tooltip_frame_dark = 2131165326;
+			public const int notification_tile_bg = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int tooltip_frame_light = 2131165327;
+			public const int notify_panel_notification_icon_bg = 2131165327;
+			
+			// aapt resource value: 0x7F070090
+			public const int preference_list_divider_material = 2131165328;
+			
+			// aapt resource value: 0x7F070091
+			public const int test_custom_background = 2131165329;
+			
+			// aapt resource value: 0x7F070092
+			public const int tooltip_frame_dark = 2131165330;
+			
+			// aapt resource value: 0x7F070093
+			public const int tooltip_frame_light = 2131165331;
 			
 			static Drawable()
 			{
@@ -18781,14 +22399,20 @@ namespace LongoToDo.Forms.Droid
 		public partial class Mipmap
 		{
 			
+			// aapt resource value: 0x7F0C0002
+			public const int icon = 2131492866;
+			
+			// aapt resource value: 0x7F0C0003
+			public const int icon_round = 2131492867;
+			
 			// aapt resource value: 0x7F0C0000
-			public const int icon = 2131492864;
+			public const int ic_launcher = 2131492864;
 			
 			// aapt resource value: 0x7F0C0001
-			public const int icon_round = 2131492865;
+			public const int ic_launcher_screen = 2131492865;
 			
-			// aapt resource value: 0x7F0C0002
-			public const int launcher_foreground = 2131492866;
+			// aapt resource value: 0x7F0C0004
+			public const int launcher_foreground = 2131492868;
 			
 			static Mipmap()
 			{
@@ -19882,1598 +23506,1601 @@ namespace LongoToDo.Forms.Droid
 			// aapt resource value: 0x7F0F00E7
 			public const int CardView_Light = 2131689703;
 			
-			// aapt resource value: 0x7F0F02F8
-			public const int collectionViewTheme = 2131690232;
+			// aapt resource value: 0x7F0F02F9
+			public const int collectionViewTheme = 2131690233;
 			
 			// aapt resource value: 0x7F0F00E8
 			public const int EmptyTheme = 2131689704;
 			
 			// aapt resource value: 0x7F0F00E9
-			public const int MainTheme = 2131689705;
+			public const int LaunchScreenTheme = 2131689705;
 			
 			// aapt resource value: 0x7F0F00EA
-			public const int MainTheme_Base = 2131689706;
+			public const int MainTheme = 2131689706;
 			
 			// aapt resource value: 0x7F0F00EB
-			public const int MaterialAlertDialog_MaterialComponents = 2131689707;
+			public const int MainTheme_Base = 2131689707;
 			
 			// aapt resource value: 0x7F0F00EC
-			public const int MaterialAlertDialog_MaterialComponents_Body_Text = 2131689708;
+			public const int MaterialAlertDialog_MaterialComponents = 2131689708;
 			
 			// aapt resource value: 0x7F0F00ED
-			public const int MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = 2131689709;
+			public const int MaterialAlertDialog_MaterialComponents_Body_Text = 2131689709;
 			
 			// aapt resource value: 0x7F0F00EE
-			public const int MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = 2131689710;
+			public const int MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = 2131689710;
 			
 			// aapt resource value: 0x7F0F00EF
-			public const int MaterialAlertDialog_MaterialComponents_Title_Icon = 2131689711;
+			public const int MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = 2131689711;
 			
 			// aapt resource value: 0x7F0F00F0
-			public const int MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = 2131689712;
+			public const int MaterialAlertDialog_MaterialComponents_Title_Icon = 2131689712;
 			
 			// aapt resource value: 0x7F0F00F1
-			public const int MaterialAlertDialog_MaterialComponents_Title_Panel = 2131689713;
+			public const int MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = 2131689713;
 			
 			// aapt resource value: 0x7F0F00F2
-			public const int MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = 2131689714;
+			public const int MaterialAlertDialog_MaterialComponents_Title_Panel = 2131689714;
 			
 			// aapt resource value: 0x7F0F00F3
-			public const int MaterialAlertDialog_MaterialComponents_Title_Text = 2131689715;
+			public const int MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = 2131689715;
 			
 			// aapt resource value: 0x7F0F00F4
-			public const int MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = 2131689716;
+			public const int MaterialAlertDialog_MaterialComponents_Title_Text = 2131689716;
 			
 			// aapt resource value: 0x7F0F00F5
-			public const int Platform_AppCompat = 2131689717;
+			public const int MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = 2131689717;
 			
 			// aapt resource value: 0x7F0F00F6
-			public const int Platform_AppCompat_Light = 2131689718;
+			public const int Platform_AppCompat = 2131689718;
 			
 			// aapt resource value: 0x7F0F00F7
-			public const int Platform_MaterialComponents = 2131689719;
+			public const int Platform_AppCompat_Light = 2131689719;
 			
 			// aapt resource value: 0x7F0F00F8
-			public const int Platform_MaterialComponents_Dialog = 2131689720;
+			public const int Platform_MaterialComponents = 2131689720;
 			
 			// aapt resource value: 0x7F0F00F9
-			public const int Platform_MaterialComponents_Light = 2131689721;
+			public const int Platform_MaterialComponents_Dialog = 2131689721;
 			
 			// aapt resource value: 0x7F0F00FA
-			public const int Platform_MaterialComponents_Light_Dialog = 2131689722;
+			public const int Platform_MaterialComponents_Light = 2131689722;
 			
 			// aapt resource value: 0x7F0F00FB
-			public const int Platform_ThemeOverlay_AppCompat = 2131689723;
+			public const int Platform_MaterialComponents_Light_Dialog = 2131689723;
 			
 			// aapt resource value: 0x7F0F00FC
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689724;
+			public const int Platform_ThemeOverlay_AppCompat = 2131689724;
 			
 			// aapt resource value: 0x7F0F00FD
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689725;
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689725;
 			
 			// aapt resource value: 0x7F0F00FE
-			public const int Platform_V21_AppCompat = 2131689726;
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689726;
 			
 			// aapt resource value: 0x7F0F00FF
-			public const int Platform_V21_AppCompat_Light = 2131689727;
+			public const int Platform_V21_AppCompat = 2131689727;
 			
 			// aapt resource value: 0x7F0F0100
-			public const int Platform_V25_AppCompat = 2131689728;
+			public const int Platform_V21_AppCompat_Light = 2131689728;
 			
 			// aapt resource value: 0x7F0F0101
-			public const int Platform_V25_AppCompat_Light = 2131689729;
+			public const int Platform_V25_AppCompat = 2131689729;
 			
 			// aapt resource value: 0x7F0F0102
-			public const int Platform_Widget_AppCompat_Spinner = 2131689730;
+			public const int Platform_V25_AppCompat_Light = 2131689730;
 			
 			// aapt resource value: 0x7F0F0103
-			public const int Preference = 2131689731;
-			
-			// aapt resource value: 0x7F0F0119
-			public const int PreferenceCategoryTitleTextStyle = 2131689753;
-			
-			// aapt resource value: 0x7F0F011A
-			public const int PreferenceFragment = 2131689754;
-			
-			// aapt resource value: 0x7F0F011C
-			public const int PreferenceFragmentList = 2131689756;
-			
-			// aapt resource value: 0x7F0F011D
-			public const int PreferenceFragmentList_Material = 2131689757;
-			
-			// aapt resource value: 0x7F0F011B
-			public const int PreferenceFragment_Material = 2131689755;
-			
-			// aapt resource value: 0x7F0F011E
-			public const int PreferenceSummaryTextStyle = 2131689758;
-			
-			// aapt resource value: 0x7F0F011F
-			public const int PreferenceThemeOverlay = 2131689759;
-			
-			// aapt resource value: 0x7F0F0120
-			public const int PreferenceThemeOverlay_v14 = 2131689760;
-			
-			// aapt resource value: 0x7F0F0121
-			public const int PreferenceThemeOverlay_v14_Material = 2131689761;
+			public const int Platform_Widget_AppCompat_Spinner = 2131689731;
 			
 			// aapt resource value: 0x7F0F0104
-			public const int Preference_Category = 2131689732;
+			public const int Preference = 2131689732;
 			
-			// aapt resource value: 0x7F0F0105
-			public const int Preference_Category_Material = 2131689733;
+			// aapt resource value: 0x7F0F011A
+			public const int PreferenceCategoryTitleTextStyle = 2131689754;
 			
-			// aapt resource value: 0x7F0F0106
-			public const int Preference_CheckBoxPreference = 2131689734;
+			// aapt resource value: 0x7F0F011B
+			public const int PreferenceFragment = 2131689755;
 			
-			// aapt resource value: 0x7F0F0107
-			public const int Preference_CheckBoxPreference_Material = 2131689735;
+			// aapt resource value: 0x7F0F011D
+			public const int PreferenceFragmentList = 2131689757;
 			
-			// aapt resource value: 0x7F0F0108
-			public const int Preference_DialogPreference = 2131689736;
+			// aapt resource value: 0x7F0F011E
+			public const int PreferenceFragmentList_Material = 2131689758;
 			
-			// aapt resource value: 0x7F0F0109
-			public const int Preference_DialogPreference_EditTextPreference = 2131689737;
+			// aapt resource value: 0x7F0F011C
+			public const int PreferenceFragment_Material = 2131689756;
 			
-			// aapt resource value: 0x7F0F010A
-			public const int Preference_DialogPreference_EditTextPreference_Material = 2131689738;
+			// aapt resource value: 0x7F0F011F
+			public const int PreferenceSummaryTextStyle = 2131689759;
 			
-			// aapt resource value: 0x7F0F010B
-			public const int Preference_DialogPreference_Material = 2131689739;
+			// aapt resource value: 0x7F0F0120
+			public const int PreferenceThemeOverlay = 2131689760;
 			
-			// aapt resource value: 0x7F0F010C
-			public const int Preference_DropDown = 2131689740;
-			
-			// aapt resource value: 0x7F0F010D
-			public const int Preference_DropDown_Material = 2131689741;
-			
-			// aapt resource value: 0x7F0F010E
-			public const int Preference_Information = 2131689742;
-			
-			// aapt resource value: 0x7F0F010F
-			public const int Preference_Information_Material = 2131689743;
-			
-			// aapt resource value: 0x7F0F0110
-			public const int Preference_Material = 2131689744;
-			
-			// aapt resource value: 0x7F0F0111
-			public const int Preference_PreferenceScreen = 2131689745;
-			
-			// aapt resource value: 0x7F0F0112
-			public const int Preference_PreferenceScreen_Material = 2131689746;
-			
-			// aapt resource value: 0x7F0F0113
-			public const int Preference_SeekBarPreference = 2131689747;
-			
-			// aapt resource value: 0x7F0F0114
-			public const int Preference_SeekBarPreference_Material = 2131689748;
-			
-			// aapt resource value: 0x7F0F0115
-			public const int Preference_SwitchPreference = 2131689749;
-			
-			// aapt resource value: 0x7F0F0117
-			public const int Preference_SwitchPreferenceCompat = 2131689751;
-			
-			// aapt resource value: 0x7F0F0118
-			public const int Preference_SwitchPreferenceCompat_Material = 2131689752;
-			
-			// aapt resource value: 0x7F0F0116
-			public const int Preference_SwitchPreference_Material = 2131689750;
+			// aapt resource value: 0x7F0F0121
+			public const int PreferenceThemeOverlay_v14 = 2131689761;
 			
 			// aapt resource value: 0x7F0F0122
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689762;
+			public const int PreferenceThemeOverlay_v14_Material = 2131689762;
+			
+			// aapt resource value: 0x7F0F0105
+			public const int Preference_Category = 2131689733;
+			
+			// aapt resource value: 0x7F0F0106
+			public const int Preference_Category_Material = 2131689734;
+			
+			// aapt resource value: 0x7F0F0107
+			public const int Preference_CheckBoxPreference = 2131689735;
+			
+			// aapt resource value: 0x7F0F0108
+			public const int Preference_CheckBoxPreference_Material = 2131689736;
+			
+			// aapt resource value: 0x7F0F0109
+			public const int Preference_DialogPreference = 2131689737;
+			
+			// aapt resource value: 0x7F0F010A
+			public const int Preference_DialogPreference_EditTextPreference = 2131689738;
+			
+			// aapt resource value: 0x7F0F010B
+			public const int Preference_DialogPreference_EditTextPreference_Material = 2131689739;
+			
+			// aapt resource value: 0x7F0F010C
+			public const int Preference_DialogPreference_Material = 2131689740;
+			
+			// aapt resource value: 0x7F0F010D
+			public const int Preference_DropDown = 2131689741;
+			
+			// aapt resource value: 0x7F0F010E
+			public const int Preference_DropDown_Material = 2131689742;
+			
+			// aapt resource value: 0x7F0F010F
+			public const int Preference_Information = 2131689743;
+			
+			// aapt resource value: 0x7F0F0110
+			public const int Preference_Information_Material = 2131689744;
+			
+			// aapt resource value: 0x7F0F0111
+			public const int Preference_Material = 2131689745;
+			
+			// aapt resource value: 0x7F0F0112
+			public const int Preference_PreferenceScreen = 2131689746;
+			
+			// aapt resource value: 0x7F0F0113
+			public const int Preference_PreferenceScreen_Material = 2131689747;
+			
+			// aapt resource value: 0x7F0F0114
+			public const int Preference_SeekBarPreference = 2131689748;
+			
+			// aapt resource value: 0x7F0F0115
+			public const int Preference_SeekBarPreference_Material = 2131689749;
+			
+			// aapt resource value: 0x7F0F0116
+			public const int Preference_SwitchPreference = 2131689750;
+			
+			// aapt resource value: 0x7F0F0118
+			public const int Preference_SwitchPreferenceCompat = 2131689752;
+			
+			// aapt resource value: 0x7F0F0119
+			public const int Preference_SwitchPreferenceCompat_Material = 2131689753;
+			
+			// aapt resource value: 0x7F0F0117
+			public const int Preference_SwitchPreference_Material = 2131689751;
 			
 			// aapt resource value: 0x7F0F0123
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689763;
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689763;
 			
 			// aapt resource value: 0x7F0F0124
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689764;
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689764;
 			
 			// aapt resource value: 0x7F0F0125
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689765;
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689765;
 			
 			// aapt resource value: 0x7F0F0126
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689766;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689766;
 			
 			// aapt resource value: 0x7F0F0127
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689767;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689767;
 			
 			// aapt resource value: 0x7F0F0128
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689768;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689768;
 			
 			// aapt resource value: 0x7F0F0129
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689769;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689769;
 			
 			// aapt resource value: 0x7F0F012A
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689770;
-			
-			// aapt resource value: 0x7F0F0130
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689776;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689770;
 			
 			// aapt resource value: 0x7F0F012B
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689771;
-			
-			// aapt resource value: 0x7F0F012C
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689772;
-			
-			// aapt resource value: 0x7F0F012D
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689773;
-			
-			// aapt resource value: 0x7F0F012E
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689774;
-			
-			// aapt resource value: 0x7F0F012F
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689775;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689771;
 			
 			// aapt resource value: 0x7F0F0131
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689777;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689777;
+			
+			// aapt resource value: 0x7F0F012C
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689772;
+			
+			// aapt resource value: 0x7F0F012D
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689773;
+			
+			// aapt resource value: 0x7F0F012E
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689774;
+			
+			// aapt resource value: 0x7F0F012F
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689775;
+			
+			// aapt resource value: 0x7F0F0130
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689776;
 			
 			// aapt resource value: 0x7F0F0132
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689778;
-			
-			// aapt resource value: 0x7F0F02F9
-			public const int scrollViewScrollBars = 2131690233;
-			
-			// aapt resource value: 0x7F0F02FA
-			public const int scrollViewTheme = 2131690234;
-			
-			// aapt resource value: 0x7F0F0139
-			public const int ShapeAppearanceOverlay = 2131689785;
-			
-			// aapt resource value: 0x7F0F013A
-			public const int ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = 2131689786;
-			
-			// aapt resource value: 0x7F0F013B
-			public const int ShapeAppearanceOverlay_BottomRightCut = 2131689787;
-			
-			// aapt resource value: 0x7F0F013C
-			public const int ShapeAppearanceOverlay_Cut = 2131689788;
-			
-			// aapt resource value: 0x7F0F013D
-			public const int ShapeAppearanceOverlay_DifferentCornerSize = 2131689789;
-			
-			// aapt resource value: 0x7F0F013E
-			public const int ShapeAppearanceOverlay_MaterialComponents_BottomSheet = 2131689790;
-			
-			// aapt resource value: 0x7F0F013F
-			public const int ShapeAppearanceOverlay_MaterialComponents_Chip = 2131689791;
-			
-			// aapt resource value: 0x7F0F0140
-			public const int ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = 2131689792;
-			
-			// aapt resource value: 0x7F0F0141
-			public const int ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = 2131689793;
-			
-			// aapt resource value: 0x7F0F0142
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689794;
-			
-			// aapt resource value: 0x7F0F0143
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = 2131689795;
-			
-			// aapt resource value: 0x7F0F0144
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = 2131689796;
-			
-			// aapt resource value: 0x7F0F0145
-			public const int ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = 2131689797;
-			
-			// aapt resource value: 0x7F0F0146
-			public const int ShapeAppearanceOverlay_TopLeftCut = 2131689798;
-			
-			// aapt resource value: 0x7F0F0147
-			public const int ShapeAppearanceOverlay_TopRightDifferentCornerSize = 2131689799;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689778;
 			
 			// aapt resource value: 0x7F0F0133
-			public const int ShapeAppearance_MaterialComponents = 2131689779;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689779;
 			
-			// aapt resource value: 0x7F0F0134
-			public const int ShapeAppearance_MaterialComponents_LargeComponent = 2131689780;
+			// aapt resource value: 0x7F0F02FA
+			public const int scrollViewScrollBars = 2131690234;
 			
-			// aapt resource value: 0x7F0F0135
-			public const int ShapeAppearance_MaterialComponents_MediumComponent = 2131689781;
+			// aapt resource value: 0x7F0F02FB
+			public const int scrollViewTheme = 2131690235;
 			
-			// aapt resource value: 0x7F0F0136
-			public const int ShapeAppearance_MaterialComponents_SmallComponent = 2131689782;
+			// aapt resource value: 0x7F0F013A
+			public const int ShapeAppearanceOverlay = 2131689786;
 			
-			// aapt resource value: 0x7F0F0137
-			public const int ShapeAppearance_MaterialComponents_Test = 2131689783;
+			// aapt resource value: 0x7F0F013B
+			public const int ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = 2131689787;
 			
-			// aapt resource value: 0x7F0F0138
-			public const int ShapeAppearance_MaterialComponents_Tooltip = 2131689784;
+			// aapt resource value: 0x7F0F013C
+			public const int ShapeAppearanceOverlay_BottomRightCut = 2131689788;
 			
-			// aapt resource value: 0x7F0F014D
-			public const int TestStyleWithLineHeight = 2131689805;
+			// aapt resource value: 0x7F0F013D
+			public const int ShapeAppearanceOverlay_Cut = 2131689789;
 			
-			// aapt resource value: 0x7F0F014E
-			public const int TestStyleWithLineHeightAppearance = 2131689806;
+			// aapt resource value: 0x7F0F013E
+			public const int ShapeAppearanceOverlay_DifferentCornerSize = 2131689790;
 			
-			// aapt resource value: 0x7F0F0150
-			public const int TestStyleWithoutLineHeight = 2131689808;
+			// aapt resource value: 0x7F0F013F
+			public const int ShapeAppearanceOverlay_MaterialComponents_BottomSheet = 2131689791;
 			
-			// aapt resource value: 0x7F0F014F
-			public const int TestStyleWithThemeLineHeightAttribute = 2131689807;
+			// aapt resource value: 0x7F0F0140
+			public const int ShapeAppearanceOverlay_MaterialComponents_Chip = 2131689792;
 			
-			// aapt resource value: 0x7F0F0151
-			public const int TestThemeWithLineHeight = 2131689809;
+			// aapt resource value: 0x7F0F0141
+			public const int ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = 2131689793;
 			
-			// aapt resource value: 0x7F0F0152
-			public const int TestThemeWithLineHeightDisabled = 2131689810;
+			// aapt resource value: 0x7F0F0142
+			public const int ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = 2131689794;
+			
+			// aapt resource value: 0x7F0F0143
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689795;
+			
+			// aapt resource value: 0x7F0F0144
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = 2131689796;
+			
+			// aapt resource value: 0x7F0F0145
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = 2131689797;
+			
+			// aapt resource value: 0x7F0F0146
+			public const int ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = 2131689798;
+			
+			// aapt resource value: 0x7F0F0147
+			public const int ShapeAppearanceOverlay_TopLeftCut = 2131689799;
 			
 			// aapt resource value: 0x7F0F0148
-			public const int Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689800;
+			public const int ShapeAppearanceOverlay_TopRightDifferentCornerSize = 2131689800;
 			
-			// aapt resource value: 0x7F0F0149
-			public const int Test_Theme_MaterialComponents_MaterialCalendar = 2131689801;
+			// aapt resource value: 0x7F0F0134
+			public const int ShapeAppearance_MaterialComponents = 2131689780;
 			
-			// aapt resource value: 0x7F0F014A
-			public const int Test_Widget_MaterialComponents_MaterialCalendar = 2131689802;
+			// aapt resource value: 0x7F0F0135
+			public const int ShapeAppearance_MaterialComponents_LargeComponent = 2131689781;
 			
-			// aapt resource value: 0x7F0F014B
-			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day = 2131689803;
+			// aapt resource value: 0x7F0F0136
+			public const int ShapeAppearance_MaterialComponents_MediumComponent = 2131689782;
 			
-			// aapt resource value: 0x7F0F014C
-			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131689804;
+			// aapt resource value: 0x7F0F0137
+			public const int ShapeAppearance_MaterialComponents_SmallComponent = 2131689783;
+			
+			// aapt resource value: 0x7F0F0138
+			public const int ShapeAppearance_MaterialComponents_Test = 2131689784;
+			
+			// aapt resource value: 0x7F0F0139
+			public const int ShapeAppearance_MaterialComponents_Tooltip = 2131689785;
+			
+			// aapt resource value: 0x7F0F014E
+			public const int TestStyleWithLineHeight = 2131689806;
+			
+			// aapt resource value: 0x7F0F014F
+			public const int TestStyleWithLineHeightAppearance = 2131689807;
+			
+			// aapt resource value: 0x7F0F0151
+			public const int TestStyleWithoutLineHeight = 2131689809;
+			
+			// aapt resource value: 0x7F0F0150
+			public const int TestStyleWithThemeLineHeightAttribute = 2131689808;
+			
+			// aapt resource value: 0x7F0F0152
+			public const int TestThemeWithLineHeight = 2131689810;
 			
 			// aapt resource value: 0x7F0F0153
-			public const int TextAppearance_AppCompat = 2131689811;
+			public const int TestThemeWithLineHeightDisabled = 2131689811;
+			
+			// aapt resource value: 0x7F0F0149
+			public const int Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689801;
+			
+			// aapt resource value: 0x7F0F014A
+			public const int Test_Theme_MaterialComponents_MaterialCalendar = 2131689802;
+			
+			// aapt resource value: 0x7F0F014B
+			public const int Test_Widget_MaterialComponents_MaterialCalendar = 2131689803;
+			
+			// aapt resource value: 0x7F0F014C
+			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day = 2131689804;
+			
+			// aapt resource value: 0x7F0F014D
+			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131689805;
 			
 			// aapt resource value: 0x7F0F0154
-			public const int TextAppearance_AppCompat_Body1 = 2131689812;
+			public const int TextAppearance_AppCompat = 2131689812;
 			
 			// aapt resource value: 0x7F0F0155
-			public const int TextAppearance_AppCompat_Body2 = 2131689813;
+			public const int TextAppearance_AppCompat_Body1 = 2131689813;
 			
 			// aapt resource value: 0x7F0F0156
-			public const int TextAppearance_AppCompat_Button = 2131689814;
+			public const int TextAppearance_AppCompat_Body2 = 2131689814;
 			
 			// aapt resource value: 0x7F0F0157
-			public const int TextAppearance_AppCompat_Caption = 2131689815;
+			public const int TextAppearance_AppCompat_Button = 2131689815;
 			
 			// aapt resource value: 0x7F0F0158
-			public const int TextAppearance_AppCompat_Display1 = 2131689816;
+			public const int TextAppearance_AppCompat_Caption = 2131689816;
 			
 			// aapt resource value: 0x7F0F0159
-			public const int TextAppearance_AppCompat_Display2 = 2131689817;
+			public const int TextAppearance_AppCompat_Display1 = 2131689817;
 			
 			// aapt resource value: 0x7F0F015A
-			public const int TextAppearance_AppCompat_Display3 = 2131689818;
+			public const int TextAppearance_AppCompat_Display2 = 2131689818;
 			
 			// aapt resource value: 0x7F0F015B
-			public const int TextAppearance_AppCompat_Display4 = 2131689819;
+			public const int TextAppearance_AppCompat_Display3 = 2131689819;
 			
 			// aapt resource value: 0x7F0F015C
-			public const int TextAppearance_AppCompat_Headline = 2131689820;
+			public const int TextAppearance_AppCompat_Display4 = 2131689820;
 			
 			// aapt resource value: 0x7F0F015D
-			public const int TextAppearance_AppCompat_Inverse = 2131689821;
+			public const int TextAppearance_AppCompat_Headline = 2131689821;
 			
 			// aapt resource value: 0x7F0F015E
-			public const int TextAppearance_AppCompat_Large = 2131689822;
+			public const int TextAppearance_AppCompat_Inverse = 2131689822;
 			
 			// aapt resource value: 0x7F0F015F
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131689823;
+			public const int TextAppearance_AppCompat_Large = 2131689823;
 			
 			// aapt resource value: 0x7F0F0160
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689824;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131689824;
 			
 			// aapt resource value: 0x7F0F0161
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689825;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689825;
 			
 			// aapt resource value: 0x7F0F0162
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689826;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689826;
 			
 			// aapt resource value: 0x7F0F0163
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689827;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689827;
 			
 			// aapt resource value: 0x7F0F0164
-			public const int TextAppearance_AppCompat_Medium = 2131689828;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689828;
 			
 			// aapt resource value: 0x7F0F0165
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689829;
+			public const int TextAppearance_AppCompat_Medium = 2131689829;
 			
 			// aapt resource value: 0x7F0F0166
-			public const int TextAppearance_AppCompat_Menu = 2131689830;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689830;
 			
 			// aapt resource value: 0x7F0F0167
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689831;
+			public const int TextAppearance_AppCompat_Menu = 2131689831;
 			
 			// aapt resource value: 0x7F0F0168
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689832;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689832;
 			
 			// aapt resource value: 0x7F0F0169
-			public const int TextAppearance_AppCompat_Small = 2131689833;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689833;
 			
 			// aapt resource value: 0x7F0F016A
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131689834;
+			public const int TextAppearance_AppCompat_Small = 2131689834;
 			
 			// aapt resource value: 0x7F0F016B
-			public const int TextAppearance_AppCompat_Subhead = 2131689835;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131689835;
 			
 			// aapt resource value: 0x7F0F016C
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689836;
+			public const int TextAppearance_AppCompat_Subhead = 2131689836;
 			
 			// aapt resource value: 0x7F0F016D
-			public const int TextAppearance_AppCompat_Title = 2131689837;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689837;
 			
 			// aapt resource value: 0x7F0F016E
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131689838;
+			public const int TextAppearance_AppCompat_Title = 2131689838;
 			
 			// aapt resource value: 0x7F0F016F
-			public const int TextAppearance_AppCompat_Tooltip = 2131689839;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131689839;
 			
 			// aapt resource value: 0x7F0F0170
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689840;
+			public const int TextAppearance_AppCompat_Tooltip = 2131689840;
 			
 			// aapt resource value: 0x7F0F0171
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689841;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689841;
 			
 			// aapt resource value: 0x7F0F0172
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689842;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689842;
 			
 			// aapt resource value: 0x7F0F0173
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689843;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689843;
 			
 			// aapt resource value: 0x7F0F0174
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689844;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689844;
 			
 			// aapt resource value: 0x7F0F0175
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689845;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689845;
 			
 			// aapt resource value: 0x7F0F0176
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689846;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689846;
 			
 			// aapt resource value: 0x7F0F0177
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689847;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689847;
 			
 			// aapt resource value: 0x7F0F0178
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689848;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689848;
 			
 			// aapt resource value: 0x7F0F0179
-			public const int TextAppearance_AppCompat_Widget_Button = 2131689849;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689849;
 			
 			// aapt resource value: 0x7F0F017A
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689850;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131689850;
 			
 			// aapt resource value: 0x7F0F017B
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689851;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689851;
 			
 			// aapt resource value: 0x7F0F017C
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689852;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689852;
 			
 			// aapt resource value: 0x7F0F017D
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689853;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689853;
 			
 			// aapt resource value: 0x7F0F017E
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689854;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689854;
 			
 			// aapt resource value: 0x7F0F017F
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689855;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689855;
 			
 			// aapt resource value: 0x7F0F0180
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689856;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689856;
 			
 			// aapt resource value: 0x7F0F0181
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131689857;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689857;
 			
 			// aapt resource value: 0x7F0F0182
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689858;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131689858;
 			
 			// aapt resource value: 0x7F0F0183
-			public const int TextAppearance_Compat_Notification = 2131689859;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689859;
 			
 			// aapt resource value: 0x7F0F0184
-			public const int TextAppearance_Compat_Notification_Info = 2131689860;
+			public const int TextAppearance_Compat_Notification = 2131689860;
 			
 			// aapt resource value: 0x7F0F0185
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131689861;
+			public const int TextAppearance_Compat_Notification_Info = 2131689861;
 			
 			// aapt resource value: 0x7F0F0186
-			public const int TextAppearance_Compat_Notification_Line2 = 2131689862;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131689862;
 			
 			// aapt resource value: 0x7F0F0187
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689863;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131689863;
 			
 			// aapt resource value: 0x7F0F0188
-			public const int TextAppearance_Compat_Notification_Media = 2131689864;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689864;
 			
 			// aapt resource value: 0x7F0F0189
-			public const int TextAppearance_Compat_Notification_Time = 2131689865;
+			public const int TextAppearance_Compat_Notification_Media = 2131689865;
 			
 			// aapt resource value: 0x7F0F018A
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131689866;
+			public const int TextAppearance_Compat_Notification_Time = 2131689866;
 			
 			// aapt resource value: 0x7F0F018B
-			public const int TextAppearance_Compat_Notification_Title = 2131689867;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131689867;
 			
 			// aapt resource value: 0x7F0F018C
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131689868;
+			public const int TextAppearance_Compat_Notification_Title = 2131689868;
 			
 			// aapt resource value: 0x7F0F018D
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689869;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131689869;
 			
 			// aapt resource value: 0x7F0F018E
-			public const int TextAppearance_Design_Counter = 2131689870;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689870;
 			
 			// aapt resource value: 0x7F0F018F
-			public const int TextAppearance_Design_Counter_Overflow = 2131689871;
+			public const int TextAppearance_Design_Counter = 2131689871;
 			
 			// aapt resource value: 0x7F0F0190
-			public const int TextAppearance_Design_Error = 2131689872;
+			public const int TextAppearance_Design_Counter_Overflow = 2131689872;
 			
 			// aapt resource value: 0x7F0F0191
-			public const int TextAppearance_Design_HelperText = 2131689873;
+			public const int TextAppearance_Design_Error = 2131689873;
 			
 			// aapt resource value: 0x7F0F0192
-			public const int TextAppearance_Design_Hint = 2131689874;
+			public const int TextAppearance_Design_HelperText = 2131689874;
 			
 			// aapt resource value: 0x7F0F0193
-			public const int TextAppearance_Design_Placeholder = 2131689875;
+			public const int TextAppearance_Design_Hint = 2131689875;
 			
 			// aapt resource value: 0x7F0F0194
-			public const int TextAppearance_Design_Prefix = 2131689876;
+			public const int TextAppearance_Design_Placeholder = 2131689876;
 			
 			// aapt resource value: 0x7F0F0195
-			public const int TextAppearance_Design_Snackbar_Message = 2131689877;
+			public const int TextAppearance_Design_Prefix = 2131689877;
 			
 			// aapt resource value: 0x7F0F0196
-			public const int TextAppearance_Design_Suffix = 2131689878;
+			public const int TextAppearance_Design_Snackbar_Message = 2131689878;
 			
 			// aapt resource value: 0x7F0F0197
-			public const int TextAppearance_Design_Tab = 2131689879;
+			public const int TextAppearance_Design_Suffix = 2131689879;
 			
 			// aapt resource value: 0x7F0F0198
-			public const int TextAppearance_MaterialComponents_Badge = 2131689880;
+			public const int TextAppearance_Design_Tab = 2131689880;
 			
 			// aapt resource value: 0x7F0F0199
-			public const int TextAppearance_MaterialComponents_Body1 = 2131689881;
+			public const int TextAppearance_MaterialComponents_Badge = 2131689881;
 			
 			// aapt resource value: 0x7F0F019A
-			public const int TextAppearance_MaterialComponents_Body2 = 2131689882;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131689882;
 			
 			// aapt resource value: 0x7F0F019B
-			public const int TextAppearance_MaterialComponents_Button = 2131689883;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131689883;
 			
 			// aapt resource value: 0x7F0F019C
-			public const int TextAppearance_MaterialComponents_Caption = 2131689884;
+			public const int TextAppearance_MaterialComponents_Button = 2131689884;
 			
 			// aapt resource value: 0x7F0F019D
-			public const int TextAppearance_MaterialComponents_Chip = 2131689885;
+			public const int TextAppearance_MaterialComponents_Caption = 2131689885;
 			
 			// aapt resource value: 0x7F0F019E
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131689886;
+			public const int TextAppearance_MaterialComponents_Chip = 2131689886;
 			
 			// aapt resource value: 0x7F0F019F
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131689887;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131689887;
 			
 			// aapt resource value: 0x7F0F01A0
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131689888;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131689888;
 			
 			// aapt resource value: 0x7F0F01A1
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131689889;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131689889;
 			
 			// aapt resource value: 0x7F0F01A2
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131689890;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131689890;
 			
 			// aapt resource value: 0x7F0F01A3
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131689891;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131689891;
 			
 			// aapt resource value: 0x7F0F01A4
-			public const int TextAppearance_MaterialComponents_Overline = 2131689892;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131689892;
 			
 			// aapt resource value: 0x7F0F01A5
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689893;
+			public const int TextAppearance_MaterialComponents_Overline = 2131689893;
 			
 			// aapt resource value: 0x7F0F01A6
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689894;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689894;
 			
 			// aapt resource value: 0x7F0F01A7
-			public const int TextAppearance_MaterialComponents_TimePicker_Title = 2131689895;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689895;
 			
 			// aapt resource value: 0x7F0F01A8
-			public const int TextAppearance_MaterialComponents_Tooltip = 2131689896;
+			public const int TextAppearance_MaterialComponents_TimePicker_Title = 2131689896;
 			
 			// aapt resource value: 0x7F0F01A9
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689897;
+			public const int TextAppearance_MaterialComponents_Tooltip = 2131689897;
 			
 			// aapt resource value: 0x7F0F01AA
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689898;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689898;
 			
 			// aapt resource value: 0x7F0F01AB
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689899;
-			
-			// aapt resource value: 0x7F0F0229
-			public const int ThemeOverlayColorAccentRed = 2131690025;
-			
-			// aapt resource value: 0x7F0F01F9
-			public const int ThemeOverlay_AppCompat = 2131689977;
-			
-			// aapt resource value: 0x7F0F01FA
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131689978;
-			
-			// aapt resource value: 0x7F0F01FB
-			public const int ThemeOverlay_AppCompat_Dark = 2131689979;
-			
-			// aapt resource value: 0x7F0F01FC
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689980;
-			
-			// aapt resource value: 0x7F0F01FD
-			public const int ThemeOverlay_AppCompat_DayNight = 2131689981;
-			
-			// aapt resource value: 0x7F0F01FE
-			public const int ThemeOverlay_AppCompat_DayNight_ActionBar = 2131689982;
-			
-			// aapt resource value: 0x7F0F01FF
-			public const int ThemeOverlay_AppCompat_Dialog = 2131689983;
-			
-			// aapt resource value: 0x7F0F0200
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689984;
-			
-			// aapt resource value: 0x7F0F0201
-			public const int ThemeOverlay_AppCompat_Light = 2131689985;
-			
-			// aapt resource value: 0x7F0F0202
-			public const int ThemeOverlay_Design_TextInputEditText = 2131689986;
-			
-			// aapt resource value: 0x7F0F0203
-			public const int ThemeOverlay_MaterialComponents = 2131689987;
-			
-			// aapt resource value: 0x7F0F0204
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689988;
-			
-			// aapt resource value: 0x7F0F0205
-			public const int ThemeOverlay_MaterialComponents_ActionBar_Primary = 2131689989;
-			
-			// aapt resource value: 0x7F0F0206
-			public const int ThemeOverlay_MaterialComponents_ActionBar_Surface = 2131689990;
-			
-			// aapt resource value: 0x7F0F0207
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView = 2131689991;
-			
-			// aapt resource value: 0x7F0F0208
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = 2131689992;
-			
-			// aapt resource value: 0x7F0F0209
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = 2131689993;
-			
-			// aapt resource value: 0x7F0F020A
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = 2131689994;
-			
-			// aapt resource value: 0x7F0F020B
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = 2131689995;
-			
-			// aapt resource value: 0x7F0F020C
-			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Primary = 2131689996;
-			
-			// aapt resource value: 0x7F0F020D
-			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Surface = 2131689997;
-			
-			// aapt resource value: 0x7F0F020E
-			public const int ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689998;
-			
-			// aapt resource value: 0x7F0F020F
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131689999;
-			
-			// aapt resource value: 0x7F0F0210
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131690000;
-			
-			// aapt resource value: 0x7F0F0211
-			public const int ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = 2131690001;
-			
-			// aapt resource value: 0x7F0F0212
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131690002;
-			
-			// aapt resource value: 0x7F0F0213
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131690003;
-			
-			// aapt resource value: 0x7F0F0214
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131690004;
-			
-			// aapt resource value: 0x7F0F0215
-			public const int ThemeOverlay_MaterialComponents_Light = 2131690005;
-			
-			// aapt resource value: 0x7F0F0216
-			public const int ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131690006;
-			
-			// aapt resource value: 0x7F0F0217
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131690007;
-			
-			// aapt resource value: 0x7F0F0218
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = 2131690008;
-			
-			// aapt resource value: 0x7F0F0219
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = 2131690009;
-			
-			// aapt resource value: 0x7F0F021A
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = 2131690010;
-			
-			// aapt resource value: 0x7F0F021B
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = 2131690011;
-			
-			// aapt resource value: 0x7F0F021C
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = 2131690012;
-			
-			// aapt resource value: 0x7F0F021D
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = 2131690013;
-			
-			// aapt resource value: 0x7F0F021E
-			public const int ThemeOverlay_MaterialComponents_MaterialCalendar = 2131690014;
-			
-			// aapt resource value: 0x7F0F021F
-			public const int ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = 2131690015;
-			
-			// aapt resource value: 0x7F0F0220
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131690016;
-			
-			// aapt resource value: 0x7F0F0221
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131690017;
-			
-			// aapt resource value: 0x7F0F0222
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131690018;
-			
-			// aapt resource value: 0x7F0F0223
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131690019;
-			
-			// aapt resource value: 0x7F0F0224
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131690020;
-			
-			// aapt resource value: 0x7F0F0225
-			public const int ThemeOverlay_MaterialComponents_TimePicker = 2131690021;
-			
-			// aapt resource value: 0x7F0F0226
-			public const int ThemeOverlay_MaterialComponents_TimePicker_Display = 2131690022;
-			
-			// aapt resource value: 0x7F0F0227
-			public const int ThemeOverlay_MaterialComponents_Toolbar_Primary = 2131690023;
-			
-			// aapt resource value: 0x7F0F0228
-			public const int ThemeOverlay_MaterialComponents_Toolbar_Surface = 2131690024;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689899;
 			
 			// aapt resource value: 0x7F0F01AC
-			public const int Theme_AppCompat = 2131689900;
-			
-			// aapt resource value: 0x7F0F01AD
-			public const int Theme_AppCompat_CompactMenu = 2131689901;
-			
-			// aapt resource value: 0x7F0F01AE
-			public const int Theme_AppCompat_DayNight = 2131689902;
-			
-			// aapt resource value: 0x7F0F01AF
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689903;
-			
-			// aapt resource value: 0x7F0F01B0
-			public const int Theme_AppCompat_DayNight_Dialog = 2131689904;
-			
-			// aapt resource value: 0x7F0F01B3
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689907;
-			
-			// aapt resource value: 0x7F0F01B1
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689905;
-			
-			// aapt resource value: 0x7F0F01B2
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689906;
-			
-			// aapt resource value: 0x7F0F01B4
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689908;
-			
-			// aapt resource value: 0x7F0F01B5
-			public const int Theme_AppCompat_Dialog = 2131689909;
-			
-			// aapt resource value: 0x7F0F01B8
-			public const int Theme_AppCompat_DialogWhenLarge = 2131689912;
-			
-			// aapt resource value: 0x7F0F01B6
-			public const int Theme_AppCompat_Dialog_Alert = 2131689910;
-			
-			// aapt resource value: 0x7F0F01B7
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131689911;
-			
-			// aapt resource value: 0x7F0F01B9
-			public const int Theme_AppCompat_Empty = 2131689913;
-			
-			// aapt resource value: 0x7F0F01BA
-			public const int Theme_AppCompat_Light = 2131689914;
-			
-			// aapt resource value: 0x7F0F01BB
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131689915;
-			
-			// aapt resource value: 0x7F0F01BC
-			public const int Theme_AppCompat_Light_Dialog = 2131689916;
-			
-			// aapt resource value: 0x7F0F01BF
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689919;
-			
-			// aapt resource value: 0x7F0F01BD
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689917;
-			
-			// aapt resource value: 0x7F0F01BE
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689918;
-			
-			// aapt resource value: 0x7F0F01C0
-			public const int Theme_AppCompat_Light_NoActionBar = 2131689920;
-			
-			// aapt resource value: 0x7F0F01C1
-			public const int Theme_AppCompat_NoActionBar = 2131689921;
-			
-			// aapt resource value: 0x7F0F01C2
-			public const int Theme_Design = 2131689922;
-			
-			// aapt resource value: 0x7F0F01C3
-			public const int Theme_Design_BottomSheetDialog = 2131689923;
-			
-			// aapt resource value: 0x7F0F01C4
-			public const int Theme_Design_Light = 2131689924;
-			
-			// aapt resource value: 0x7F0F01C5
-			public const int Theme_Design_Light_BottomSheetDialog = 2131689925;
-			
-			// aapt resource value: 0x7F0F01C6
-			public const int Theme_Design_Light_NoActionBar = 2131689926;
-			
-			// aapt resource value: 0x7F0F01C7
-			public const int Theme_Design_NoActionBar = 2131689927;
-			
-			// aapt resource value: 0x7F0F01C8
-			public const int Theme_MaterialComponents = 2131689928;
-			
-			// aapt resource value: 0x7F0F01C9
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689929;
-			
-			// aapt resource value: 0x7F0F01CA
-			public const int Theme_MaterialComponents_Bridge = 2131689930;
-			
-			// aapt resource value: 0x7F0F01CB
-			public const int Theme_MaterialComponents_CompactMenu = 2131689931;
-			
-			// aapt resource value: 0x7F0F01CC
-			public const int Theme_MaterialComponents_DayNight = 2131689932;
-			
-			// aapt resource value: 0x7F0F01CD
-			public const int Theme_MaterialComponents_DayNight_BottomSheetDialog = 2131689933;
-			
-			// aapt resource value: 0x7F0F01CE
-			public const int Theme_MaterialComponents_DayNight_Bridge = 2131689934;
-			
-			// aapt resource value: 0x7F0F01CF
-			public const int Theme_MaterialComponents_DayNight_DarkActionBar = 2131689935;
-			
-			// aapt resource value: 0x7F0F01D0
-			public const int Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = 2131689936;
-			
-			// aapt resource value: 0x7F0F01D1
-			public const int Theme_MaterialComponents_DayNight_Dialog = 2131689937;
-			
-			// aapt resource value: 0x7F0F01D9
-			public const int Theme_MaterialComponents_DayNight_DialogWhenLarge = 2131689945;
-			
-			// aapt resource value: 0x7F0F01D2
-			public const int Theme_MaterialComponents_DayNight_Dialog_Alert = 2131689938;
-			
-			// aapt resource value: 0x7F0F01D3
-			public const int Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = 2131689939;
-			
-			// aapt resource value: 0x7F0F01D4
-			public const int Theme_MaterialComponents_DayNight_Dialog_Bridge = 2131689940;
-			
-			// aapt resource value: 0x7F0F01D5
-			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize = 2131689941;
-			
-			// aapt resource value: 0x7F0F01D6
-			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = 2131689942;
-			
-			// aapt resource value: 0x7F0F01D7
-			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth = 2131689943;
-			
-			// aapt resource value: 0x7F0F01D8
-			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = 2131689944;
-			
-			// aapt resource value: 0x7F0F01DA
-			public const int Theme_MaterialComponents_DayNight_NoActionBar = 2131689946;
-			
-			// aapt resource value: 0x7F0F01DB
-			public const int Theme_MaterialComponents_DayNight_NoActionBar_Bridge = 2131689947;
-			
-			// aapt resource value: 0x7F0F01DC
-			public const int Theme_MaterialComponents_Dialog = 2131689948;
-			
-			// aapt resource value: 0x7F0F01E4
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689956;
-			
-			// aapt resource value: 0x7F0F01DD
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131689949;
-			
-			// aapt resource value: 0x7F0F01DE
-			public const int Theme_MaterialComponents_Dialog_Alert_Bridge = 2131689950;
-			
-			// aapt resource value: 0x7F0F01DF
-			public const int Theme_MaterialComponents_Dialog_Bridge = 2131689951;
-			
-			// aapt resource value: 0x7F0F01E0
-			public const int Theme_MaterialComponents_Dialog_FixedSize = 2131689952;
-			
-			// aapt resource value: 0x7F0F01E1
-			public const int Theme_MaterialComponents_Dialog_FixedSize_Bridge = 2131689953;
-			
-			// aapt resource value: 0x7F0F01E2
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689954;
-			
-			// aapt resource value: 0x7F0F01E3
-			public const int Theme_MaterialComponents_Dialog_MinWidth_Bridge = 2131689955;
-			
-			// aapt resource value: 0x7F0F01E5
-			public const int Theme_MaterialComponents_Light = 2131689957;
-			
-			// aapt resource value: 0x7F0F01E6
-			public const int Theme_MaterialComponents_Light_BarSize = 2131689958;
-			
-			// aapt resource value: 0x7F0F01E7
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689959;
-			
-			// aapt resource value: 0x7F0F01E8
-			public const int Theme_MaterialComponents_Light_Bridge = 2131689960;
-			
-			// aapt resource value: 0x7F0F01E9
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689961;
-			
-			// aapt resource value: 0x7F0F01EA
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689962;
-			
-			// aapt resource value: 0x7F0F01EB
-			public const int Theme_MaterialComponents_Light_Dialog = 2131689963;
-			
-			// aapt resource value: 0x7F0F01F3
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689971;
-			
-			// aapt resource value: 0x7F0F01EC
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689964;
-			
-			// aapt resource value: 0x7F0F01ED
-			public const int Theme_MaterialComponents_Light_Dialog_Alert_Bridge = 2131689965;
-			
-			// aapt resource value: 0x7F0F01EE
-			public const int Theme_MaterialComponents_Light_Dialog_Bridge = 2131689966;
-			
-			// aapt resource value: 0x7F0F01EF
-			public const int Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689967;
-			
-			// aapt resource value: 0x7F0F01F0
-			public const int Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = 2131689968;
-			
-			// aapt resource value: 0x7F0F01F1
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689969;
-			
-			// aapt resource value: 0x7F0F01F2
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = 2131689970;
-			
-			// aapt resource value: 0x7F0F01F4
-			public const int Theme_MaterialComponents_Light_LargeTouch = 2131689972;
-			
-			// aapt resource value: 0x7F0F01F5
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689973;
-			
-			// aapt resource value: 0x7F0F01F6
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689974;
-			
-			// aapt resource value: 0x7F0F01F7
-			public const int Theme_MaterialComponents_NoActionBar = 2131689975;
-			
-			// aapt resource value: 0x7F0F01F8
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689976;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689900;
 			
 			// aapt resource value: 0x7F0F022A
-			public const int Widget_AppCompat_ActionBar = 2131690026;
+			public const int ThemeOverlayColorAccentRed = 2131690026;
+			
+			// aapt resource value: 0x7F0F01FA
+			public const int ThemeOverlay_AppCompat = 2131689978;
+			
+			// aapt resource value: 0x7F0F01FB
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689979;
+			
+			// aapt resource value: 0x7F0F01FC
+			public const int ThemeOverlay_AppCompat_Dark = 2131689980;
+			
+			// aapt resource value: 0x7F0F01FD
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689981;
+			
+			// aapt resource value: 0x7F0F01FE
+			public const int ThemeOverlay_AppCompat_DayNight = 2131689982;
+			
+			// aapt resource value: 0x7F0F01FF
+			public const int ThemeOverlay_AppCompat_DayNight_ActionBar = 2131689983;
+			
+			// aapt resource value: 0x7F0F0200
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689984;
+			
+			// aapt resource value: 0x7F0F0201
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689985;
+			
+			// aapt resource value: 0x7F0F0202
+			public const int ThemeOverlay_AppCompat_Light = 2131689986;
+			
+			// aapt resource value: 0x7F0F0203
+			public const int ThemeOverlay_Design_TextInputEditText = 2131689987;
+			
+			// aapt resource value: 0x7F0F0204
+			public const int ThemeOverlay_MaterialComponents = 2131689988;
+			
+			// aapt resource value: 0x7F0F0205
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689989;
+			
+			// aapt resource value: 0x7F0F0206
+			public const int ThemeOverlay_MaterialComponents_ActionBar_Primary = 2131689990;
+			
+			// aapt resource value: 0x7F0F0207
+			public const int ThemeOverlay_MaterialComponents_ActionBar_Surface = 2131689991;
+			
+			// aapt resource value: 0x7F0F0208
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView = 2131689992;
+			
+			// aapt resource value: 0x7F0F0209
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = 2131689993;
+			
+			// aapt resource value: 0x7F0F020A
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = 2131689994;
+			
+			// aapt resource value: 0x7F0F020B
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = 2131689995;
+			
+			// aapt resource value: 0x7F0F020C
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = 2131689996;
+			
+			// aapt resource value: 0x7F0F020D
+			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Primary = 2131689997;
+			
+			// aapt resource value: 0x7F0F020E
+			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Surface = 2131689998;
+			
+			// aapt resource value: 0x7F0F020F
+			public const int ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689999;
+			
+			// aapt resource value: 0x7F0F0210
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131690000;
+			
+			// aapt resource value: 0x7F0F0211
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131690001;
+			
+			// aapt resource value: 0x7F0F0212
+			public const int ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = 2131690002;
+			
+			// aapt resource value: 0x7F0F0213
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131690003;
+			
+			// aapt resource value: 0x7F0F0214
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131690004;
+			
+			// aapt resource value: 0x7F0F0215
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131690005;
+			
+			// aapt resource value: 0x7F0F0216
+			public const int ThemeOverlay_MaterialComponents_Light = 2131690006;
+			
+			// aapt resource value: 0x7F0F0217
+			public const int ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131690007;
+			
+			// aapt resource value: 0x7F0F0218
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131690008;
+			
+			// aapt resource value: 0x7F0F0219
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = 2131690009;
+			
+			// aapt resource value: 0x7F0F021A
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = 2131690010;
+			
+			// aapt resource value: 0x7F0F021B
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = 2131690011;
+			
+			// aapt resource value: 0x7F0F021C
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = 2131690012;
+			
+			// aapt resource value: 0x7F0F021D
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = 2131690013;
+			
+			// aapt resource value: 0x7F0F021E
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = 2131690014;
+			
+			// aapt resource value: 0x7F0F021F
+			public const int ThemeOverlay_MaterialComponents_MaterialCalendar = 2131690015;
+			
+			// aapt resource value: 0x7F0F0220
+			public const int ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = 2131690016;
+			
+			// aapt resource value: 0x7F0F0221
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131690017;
+			
+			// aapt resource value: 0x7F0F0222
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131690018;
+			
+			// aapt resource value: 0x7F0F0223
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131690019;
+			
+			// aapt resource value: 0x7F0F0224
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131690020;
+			
+			// aapt resource value: 0x7F0F0225
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131690021;
+			
+			// aapt resource value: 0x7F0F0226
+			public const int ThemeOverlay_MaterialComponents_TimePicker = 2131690022;
+			
+			// aapt resource value: 0x7F0F0227
+			public const int ThemeOverlay_MaterialComponents_TimePicker_Display = 2131690023;
+			
+			// aapt resource value: 0x7F0F0228
+			public const int ThemeOverlay_MaterialComponents_Toolbar_Primary = 2131690024;
+			
+			// aapt resource value: 0x7F0F0229
+			public const int ThemeOverlay_MaterialComponents_Toolbar_Surface = 2131690025;
+			
+			// aapt resource value: 0x7F0F01AD
+			public const int Theme_AppCompat = 2131689901;
+			
+			// aapt resource value: 0x7F0F01AE
+			public const int Theme_AppCompat_CompactMenu = 2131689902;
+			
+			// aapt resource value: 0x7F0F01AF
+			public const int Theme_AppCompat_DayNight = 2131689903;
+			
+			// aapt resource value: 0x7F0F01B0
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689904;
+			
+			// aapt resource value: 0x7F0F01B1
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689905;
+			
+			// aapt resource value: 0x7F0F01B4
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689908;
+			
+			// aapt resource value: 0x7F0F01B2
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689906;
+			
+			// aapt resource value: 0x7F0F01B3
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689907;
+			
+			// aapt resource value: 0x7F0F01B5
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689909;
+			
+			// aapt resource value: 0x7F0F01B6
+			public const int Theme_AppCompat_Dialog = 2131689910;
+			
+			// aapt resource value: 0x7F0F01B9
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689913;
+			
+			// aapt resource value: 0x7F0F01B7
+			public const int Theme_AppCompat_Dialog_Alert = 2131689911;
+			
+			// aapt resource value: 0x7F0F01B8
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689912;
+			
+			// aapt resource value: 0x7F0F01BA
+			public const int Theme_AppCompat_Empty = 2131689914;
+			
+			// aapt resource value: 0x7F0F01BB
+			public const int Theme_AppCompat_Light = 2131689915;
+			
+			// aapt resource value: 0x7F0F01BC
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689916;
+			
+			// aapt resource value: 0x7F0F01BD
+			public const int Theme_AppCompat_Light_Dialog = 2131689917;
+			
+			// aapt resource value: 0x7F0F01C0
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689920;
+			
+			// aapt resource value: 0x7F0F01BE
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689918;
+			
+			// aapt resource value: 0x7F0F01BF
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689919;
+			
+			// aapt resource value: 0x7F0F01C1
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689921;
+			
+			// aapt resource value: 0x7F0F01C2
+			public const int Theme_AppCompat_NoActionBar = 2131689922;
+			
+			// aapt resource value: 0x7F0F01C3
+			public const int Theme_Design = 2131689923;
+			
+			// aapt resource value: 0x7F0F01C4
+			public const int Theme_Design_BottomSheetDialog = 2131689924;
+			
+			// aapt resource value: 0x7F0F01C5
+			public const int Theme_Design_Light = 2131689925;
+			
+			// aapt resource value: 0x7F0F01C6
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689926;
+			
+			// aapt resource value: 0x7F0F01C7
+			public const int Theme_Design_Light_NoActionBar = 2131689927;
+			
+			// aapt resource value: 0x7F0F01C8
+			public const int Theme_Design_NoActionBar = 2131689928;
+			
+			// aapt resource value: 0x7F0F01C9
+			public const int Theme_MaterialComponents = 2131689929;
+			
+			// aapt resource value: 0x7F0F01CA
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689930;
+			
+			// aapt resource value: 0x7F0F01CB
+			public const int Theme_MaterialComponents_Bridge = 2131689931;
+			
+			// aapt resource value: 0x7F0F01CC
+			public const int Theme_MaterialComponents_CompactMenu = 2131689932;
+			
+			// aapt resource value: 0x7F0F01CD
+			public const int Theme_MaterialComponents_DayNight = 2131689933;
+			
+			// aapt resource value: 0x7F0F01CE
+			public const int Theme_MaterialComponents_DayNight_BottomSheetDialog = 2131689934;
+			
+			// aapt resource value: 0x7F0F01CF
+			public const int Theme_MaterialComponents_DayNight_Bridge = 2131689935;
+			
+			// aapt resource value: 0x7F0F01D0
+			public const int Theme_MaterialComponents_DayNight_DarkActionBar = 2131689936;
+			
+			// aapt resource value: 0x7F0F01D1
+			public const int Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = 2131689937;
+			
+			// aapt resource value: 0x7F0F01D2
+			public const int Theme_MaterialComponents_DayNight_Dialog = 2131689938;
+			
+			// aapt resource value: 0x7F0F01DA
+			public const int Theme_MaterialComponents_DayNight_DialogWhenLarge = 2131689946;
+			
+			// aapt resource value: 0x7F0F01D3
+			public const int Theme_MaterialComponents_DayNight_Dialog_Alert = 2131689939;
+			
+			// aapt resource value: 0x7F0F01D4
+			public const int Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = 2131689940;
+			
+			// aapt resource value: 0x7F0F01D5
+			public const int Theme_MaterialComponents_DayNight_Dialog_Bridge = 2131689941;
+			
+			// aapt resource value: 0x7F0F01D6
+			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize = 2131689942;
+			
+			// aapt resource value: 0x7F0F01D7
+			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = 2131689943;
+			
+			// aapt resource value: 0x7F0F01D8
+			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth = 2131689944;
+			
+			// aapt resource value: 0x7F0F01D9
+			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = 2131689945;
+			
+			// aapt resource value: 0x7F0F01DB
+			public const int Theme_MaterialComponents_DayNight_NoActionBar = 2131689947;
+			
+			// aapt resource value: 0x7F0F01DC
+			public const int Theme_MaterialComponents_DayNight_NoActionBar_Bridge = 2131689948;
+			
+			// aapt resource value: 0x7F0F01DD
+			public const int Theme_MaterialComponents_Dialog = 2131689949;
+			
+			// aapt resource value: 0x7F0F01E5
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689957;
+			
+			// aapt resource value: 0x7F0F01DE
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689950;
+			
+			// aapt resource value: 0x7F0F01DF
+			public const int Theme_MaterialComponents_Dialog_Alert_Bridge = 2131689951;
+			
+			// aapt resource value: 0x7F0F01E0
+			public const int Theme_MaterialComponents_Dialog_Bridge = 2131689952;
+			
+			// aapt resource value: 0x7F0F01E1
+			public const int Theme_MaterialComponents_Dialog_FixedSize = 2131689953;
+			
+			// aapt resource value: 0x7F0F01E2
+			public const int Theme_MaterialComponents_Dialog_FixedSize_Bridge = 2131689954;
+			
+			// aapt resource value: 0x7F0F01E3
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689955;
+			
+			// aapt resource value: 0x7F0F01E4
+			public const int Theme_MaterialComponents_Dialog_MinWidth_Bridge = 2131689956;
+			
+			// aapt resource value: 0x7F0F01E6
+			public const int Theme_MaterialComponents_Light = 2131689958;
+			
+			// aapt resource value: 0x7F0F01E7
+			public const int Theme_MaterialComponents_Light_BarSize = 2131689959;
+			
+			// aapt resource value: 0x7F0F01E8
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689960;
+			
+			// aapt resource value: 0x7F0F01E9
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689961;
+			
+			// aapt resource value: 0x7F0F01EA
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689962;
+			
+			// aapt resource value: 0x7F0F01EB
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689963;
+			
+			// aapt resource value: 0x7F0F01EC
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689964;
+			
+			// aapt resource value: 0x7F0F01F4
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689972;
+			
+			// aapt resource value: 0x7F0F01ED
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689965;
+			
+			// aapt resource value: 0x7F0F01EE
+			public const int Theme_MaterialComponents_Light_Dialog_Alert_Bridge = 2131689966;
+			
+			// aapt resource value: 0x7F0F01EF
+			public const int Theme_MaterialComponents_Light_Dialog_Bridge = 2131689967;
+			
+			// aapt resource value: 0x7F0F01F0
+			public const int Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689968;
+			
+			// aapt resource value: 0x7F0F01F1
+			public const int Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = 2131689969;
+			
+			// aapt resource value: 0x7F0F01F2
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689970;
+			
+			// aapt resource value: 0x7F0F01F3
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = 2131689971;
+			
+			// aapt resource value: 0x7F0F01F5
+			public const int Theme_MaterialComponents_Light_LargeTouch = 2131689973;
+			
+			// aapt resource value: 0x7F0F01F6
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689974;
+			
+			// aapt resource value: 0x7F0F01F7
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689975;
+			
+			// aapt resource value: 0x7F0F01F8
+			public const int Theme_MaterialComponents_NoActionBar = 2131689976;
+			
+			// aapt resource value: 0x7F0F01F9
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689977;
 			
 			// aapt resource value: 0x7F0F022B
-			public const int Widget_AppCompat_ActionBar_Solid = 2131690027;
+			public const int Widget_AppCompat_ActionBar = 2131690027;
 			
 			// aapt resource value: 0x7F0F022C
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131690028;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131690028;
 			
 			// aapt resource value: 0x7F0F022D
-			public const int Widget_AppCompat_ActionBar_TabText = 2131690029;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131690029;
 			
 			// aapt resource value: 0x7F0F022E
-			public const int Widget_AppCompat_ActionBar_TabView = 2131690030;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131690030;
 			
 			// aapt resource value: 0x7F0F022F
-			public const int Widget_AppCompat_ActionButton = 2131690031;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131690031;
 			
 			// aapt resource value: 0x7F0F0230
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131690032;
+			public const int Widget_AppCompat_ActionButton = 2131690032;
 			
 			// aapt resource value: 0x7F0F0231
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131690033;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131690033;
 			
 			// aapt resource value: 0x7F0F0232
-			public const int Widget_AppCompat_ActionMode = 2131690034;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131690034;
 			
 			// aapt resource value: 0x7F0F0233
-			public const int Widget_AppCompat_ActivityChooserView = 2131690035;
+			public const int Widget_AppCompat_ActionMode = 2131690035;
 			
 			// aapt resource value: 0x7F0F0234
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131690036;
+			public const int Widget_AppCompat_ActivityChooserView = 2131690036;
 			
 			// aapt resource value: 0x7F0F0235
-			public const int Widget_AppCompat_Button = 2131690037;
-			
-			// aapt resource value: 0x7F0F023B
-			public const int Widget_AppCompat_ButtonBar = 2131690043;
-			
-			// aapt resource value: 0x7F0F023C
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131690044;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131690037;
 			
 			// aapt resource value: 0x7F0F0236
-			public const int Widget_AppCompat_Button_Borderless = 2131690038;
+			public const int Widget_AppCompat_Button = 2131690038;
 			
-			// aapt resource value: 0x7F0F0237
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131690039;
-			
-			// aapt resource value: 0x7F0F0238
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131690040;
-			
-			// aapt resource value: 0x7F0F0239
-			public const int Widget_AppCompat_Button_Colored = 2131690041;
-			
-			// aapt resource value: 0x7F0F023A
-			public const int Widget_AppCompat_Button_Small = 2131690042;
+			// aapt resource value: 0x7F0F023C
+			public const int Widget_AppCompat_ButtonBar = 2131690044;
 			
 			// aapt resource value: 0x7F0F023D
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131690045;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131690045;
+			
+			// aapt resource value: 0x7F0F0237
+			public const int Widget_AppCompat_Button_Borderless = 2131690039;
+			
+			// aapt resource value: 0x7F0F0238
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131690040;
+			
+			// aapt resource value: 0x7F0F0239
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131690041;
+			
+			// aapt resource value: 0x7F0F023A
+			public const int Widget_AppCompat_Button_Colored = 2131690042;
+			
+			// aapt resource value: 0x7F0F023B
+			public const int Widget_AppCompat_Button_Small = 2131690043;
 			
 			// aapt resource value: 0x7F0F023E
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131690046;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131690046;
 			
 			// aapt resource value: 0x7F0F023F
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131690047;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131690047;
 			
 			// aapt resource value: 0x7F0F0240
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131690048;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131690048;
 			
 			// aapt resource value: 0x7F0F0241
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131690049;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131690049;
 			
 			// aapt resource value: 0x7F0F0242
-			public const int Widget_AppCompat_EditText = 2131690050;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131690050;
 			
 			// aapt resource value: 0x7F0F0243
-			public const int Widget_AppCompat_ImageButton = 2131690051;
+			public const int Widget_AppCompat_EditText = 2131690051;
 			
 			// aapt resource value: 0x7F0F0244
-			public const int Widget_AppCompat_Light_ActionBar = 2131690052;
+			public const int Widget_AppCompat_ImageButton = 2131690052;
 			
 			// aapt resource value: 0x7F0F0245
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131690053;
+			public const int Widget_AppCompat_Light_ActionBar = 2131690053;
 			
 			// aapt resource value: 0x7F0F0246
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131690054;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131690054;
 			
 			// aapt resource value: 0x7F0F0247
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131690055;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131690055;
 			
 			// aapt resource value: 0x7F0F0248
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131690056;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131690056;
 			
 			// aapt resource value: 0x7F0F0249
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131690057;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131690057;
 			
 			// aapt resource value: 0x7F0F024A
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131690058;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131690058;
 			
 			// aapt resource value: 0x7F0F024B
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131690059;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131690059;
 			
 			// aapt resource value: 0x7F0F024C
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131690060;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131690060;
 			
 			// aapt resource value: 0x7F0F024D
-			public const int Widget_AppCompat_Light_ActionButton = 2131690061;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131690061;
 			
 			// aapt resource value: 0x7F0F024E
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131690062;
+			public const int Widget_AppCompat_Light_ActionButton = 2131690062;
 			
 			// aapt resource value: 0x7F0F024F
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131690063;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131690063;
 			
 			// aapt resource value: 0x7F0F0250
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131690064;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131690064;
 			
 			// aapt resource value: 0x7F0F0251
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131690065;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131690065;
 			
 			// aapt resource value: 0x7F0F0252
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131690066;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131690066;
 			
 			// aapt resource value: 0x7F0F0253
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131690067;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131690067;
 			
 			// aapt resource value: 0x7F0F0254
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131690068;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131690068;
 			
 			// aapt resource value: 0x7F0F0255
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131690069;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131690069;
 			
 			// aapt resource value: 0x7F0F0256
-			public const int Widget_AppCompat_Light_PopupMenu = 2131690070;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131690070;
 			
 			// aapt resource value: 0x7F0F0257
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131690071;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131690071;
 			
 			// aapt resource value: 0x7F0F0258
-			public const int Widget_AppCompat_Light_SearchView = 2131690072;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131690072;
 			
 			// aapt resource value: 0x7F0F0259
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131690073;
+			public const int Widget_AppCompat_Light_SearchView = 2131690073;
 			
 			// aapt resource value: 0x7F0F025A
-			public const int Widget_AppCompat_ListMenuView = 2131690074;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131690074;
 			
 			// aapt resource value: 0x7F0F025B
-			public const int Widget_AppCompat_ListPopupWindow = 2131690075;
+			public const int Widget_AppCompat_ListMenuView = 2131690075;
 			
 			// aapt resource value: 0x7F0F025C
-			public const int Widget_AppCompat_ListView = 2131690076;
+			public const int Widget_AppCompat_ListPopupWindow = 2131690076;
 			
 			// aapt resource value: 0x7F0F025D
-			public const int Widget_AppCompat_ListView_DropDown = 2131690077;
+			public const int Widget_AppCompat_ListView = 2131690077;
 			
 			// aapt resource value: 0x7F0F025E
-			public const int Widget_AppCompat_ListView_Menu = 2131690078;
+			public const int Widget_AppCompat_ListView_DropDown = 2131690078;
 			
 			// aapt resource value: 0x7F0F025F
-			public const int Widget_AppCompat_PopupMenu = 2131690079;
+			public const int Widget_AppCompat_ListView_Menu = 2131690079;
 			
 			// aapt resource value: 0x7F0F0260
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131690080;
+			public const int Widget_AppCompat_PopupMenu = 2131690080;
 			
 			// aapt resource value: 0x7F0F0261
-			public const int Widget_AppCompat_PopupWindow = 2131690081;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131690081;
 			
 			// aapt resource value: 0x7F0F0262
-			public const int Widget_AppCompat_ProgressBar = 2131690082;
+			public const int Widget_AppCompat_PopupWindow = 2131690082;
 			
 			// aapt resource value: 0x7F0F0263
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131690083;
+			public const int Widget_AppCompat_ProgressBar = 2131690083;
 			
 			// aapt resource value: 0x7F0F0264
-			public const int Widget_AppCompat_RatingBar = 2131690084;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131690084;
 			
 			// aapt resource value: 0x7F0F0265
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131690085;
+			public const int Widget_AppCompat_RatingBar = 2131690085;
 			
 			// aapt resource value: 0x7F0F0266
-			public const int Widget_AppCompat_RatingBar_Small = 2131690086;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131690086;
 			
 			// aapt resource value: 0x7F0F0267
-			public const int Widget_AppCompat_SearchView = 2131690087;
+			public const int Widget_AppCompat_RatingBar_Small = 2131690087;
 			
 			// aapt resource value: 0x7F0F0268
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131690088;
+			public const int Widget_AppCompat_SearchView = 2131690088;
 			
 			// aapt resource value: 0x7F0F0269
-			public const int Widget_AppCompat_SeekBar = 2131690089;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131690089;
 			
 			// aapt resource value: 0x7F0F026A
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131690090;
+			public const int Widget_AppCompat_SeekBar = 2131690090;
 			
 			// aapt resource value: 0x7F0F026B
-			public const int Widget_AppCompat_Spinner = 2131690091;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131690091;
 			
 			// aapt resource value: 0x7F0F026C
-			public const int Widget_AppCompat_Spinner_DropDown = 2131690092;
+			public const int Widget_AppCompat_Spinner = 2131690092;
 			
 			// aapt resource value: 0x7F0F026D
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131690093;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131690093;
 			
 			// aapt resource value: 0x7F0F026E
-			public const int Widget_AppCompat_Spinner_Underlined = 2131690094;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131690094;
 			
 			// aapt resource value: 0x7F0F026F
-			public const int Widget_AppCompat_TextView = 2131690095;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131690095;
 			
 			// aapt resource value: 0x7F0F0270
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131690096;
+			public const int Widget_AppCompat_TextView = 2131690096;
 			
 			// aapt resource value: 0x7F0F0271
-			public const int Widget_AppCompat_Toolbar = 2131690097;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131690097;
 			
 			// aapt resource value: 0x7F0F0272
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131690098;
+			public const int Widget_AppCompat_Toolbar = 2131690098;
 			
 			// aapt resource value: 0x7F0F0273
-			public const int Widget_Compat_NotificationActionContainer = 2131690099;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131690099;
 			
 			// aapt resource value: 0x7F0F0274
-			public const int Widget_Compat_NotificationActionText = 2131690100;
+			public const int Widget_Compat_NotificationActionContainer = 2131690100;
 			
 			// aapt resource value: 0x7F0F0275
-			public const int Widget_Design_AppBarLayout = 2131690101;
+			public const int Widget_Compat_NotificationActionText = 2131690101;
 			
 			// aapt resource value: 0x7F0F0276
-			public const int Widget_Design_BottomNavigationView = 2131690102;
+			public const int Widget_Design_AppBarLayout = 2131690102;
 			
 			// aapt resource value: 0x7F0F0277
-			public const int Widget_Design_BottomSheet_Modal = 2131690103;
+			public const int Widget_Design_BottomNavigationView = 2131690103;
 			
 			// aapt resource value: 0x7F0F0278
-			public const int Widget_Design_CollapsingToolbar = 2131690104;
+			public const int Widget_Design_BottomSheet_Modal = 2131690104;
 			
 			// aapt resource value: 0x7F0F0279
-			public const int Widget_Design_FloatingActionButton = 2131690105;
+			public const int Widget_Design_CollapsingToolbar = 2131690105;
 			
 			// aapt resource value: 0x7F0F027A
-			public const int Widget_Design_NavigationView = 2131690106;
+			public const int Widget_Design_FloatingActionButton = 2131690106;
 			
 			// aapt resource value: 0x7F0F027B
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131690107;
+			public const int Widget_Design_NavigationView = 2131690107;
 			
 			// aapt resource value: 0x7F0F027C
-			public const int Widget_Design_Snackbar = 2131690108;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131690108;
 			
 			// aapt resource value: 0x7F0F027D
-			public const int Widget_Design_TabLayout = 2131690109;
+			public const int Widget_Design_Snackbar = 2131690109;
 			
 			// aapt resource value: 0x7F0F027E
-			public const int Widget_Design_TextInputEditText = 2131690110;
+			public const int Widget_Design_TabLayout = 2131690110;
 			
 			// aapt resource value: 0x7F0F027F
-			public const int Widget_Design_TextInputLayout = 2131690111;
+			public const int Widget_Design_TextInputEditText = 2131690111;
 			
 			// aapt resource value: 0x7F0F0280
-			public const int Widget_MaterialComponents_ActionBar_Primary = 2131690112;
+			public const int Widget_Design_TextInputLayout = 2131690112;
 			
 			// aapt resource value: 0x7F0F0281
-			public const int Widget_MaterialComponents_ActionBar_PrimarySurface = 2131690113;
+			public const int Widget_MaterialComponents_ActionBar_Primary = 2131690113;
 			
 			// aapt resource value: 0x7F0F0282
-			public const int Widget_MaterialComponents_ActionBar_Solid = 2131690114;
+			public const int Widget_MaterialComponents_ActionBar_PrimarySurface = 2131690114;
 			
 			// aapt resource value: 0x7F0F0283
-			public const int Widget_MaterialComponents_ActionBar_Surface = 2131690115;
+			public const int Widget_MaterialComponents_ActionBar_Solid = 2131690115;
 			
 			// aapt resource value: 0x7F0F0284
-			public const int Widget_MaterialComponents_AppBarLayout_Primary = 2131690116;
+			public const int Widget_MaterialComponents_ActionBar_Surface = 2131690116;
 			
 			// aapt resource value: 0x7F0F0285
-			public const int Widget_MaterialComponents_AppBarLayout_PrimarySurface = 2131690117;
+			public const int Widget_MaterialComponents_AppBarLayout_Primary = 2131690117;
 			
 			// aapt resource value: 0x7F0F0286
-			public const int Widget_MaterialComponents_AppBarLayout_Surface = 2131690118;
+			public const int Widget_MaterialComponents_AppBarLayout_PrimarySurface = 2131690118;
 			
 			// aapt resource value: 0x7F0F0287
-			public const int Widget_MaterialComponents_AutoCompleteTextView_FilledBox = 2131690119;
+			public const int Widget_MaterialComponents_AppBarLayout_Surface = 2131690119;
 			
 			// aapt resource value: 0x7F0F0288
-			public const int Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = 2131690120;
+			public const int Widget_MaterialComponents_AutoCompleteTextView_FilledBox = 2131690120;
 			
 			// aapt resource value: 0x7F0F0289
-			public const int Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = 2131690121;
+			public const int Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = 2131690121;
 			
 			// aapt resource value: 0x7F0F028A
-			public const int Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = 2131690122;
+			public const int Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = 2131690122;
 			
 			// aapt resource value: 0x7F0F028B
-			public const int Widget_MaterialComponents_Badge = 2131690123;
+			public const int Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = 2131690123;
 			
 			// aapt resource value: 0x7F0F028C
-			public const int Widget_MaterialComponents_BottomAppBar = 2131690124;
+			public const int Widget_MaterialComponents_Badge = 2131690124;
 			
 			// aapt resource value: 0x7F0F028D
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131690125;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131690125;
 			
 			// aapt resource value: 0x7F0F028E
-			public const int Widget_MaterialComponents_BottomAppBar_PrimarySurface = 2131690126;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131690126;
 			
 			// aapt resource value: 0x7F0F028F
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131690127;
+			public const int Widget_MaterialComponents_BottomAppBar_PrimarySurface = 2131690127;
 			
 			// aapt resource value: 0x7F0F0290
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131690128;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131690128;
 			
 			// aapt resource value: 0x7F0F0291
-			public const int Widget_MaterialComponents_BottomNavigationView_PrimarySurface = 2131690129;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131690129;
 			
 			// aapt resource value: 0x7F0F0292
-			public const int Widget_MaterialComponents_BottomSheet = 2131690130;
+			public const int Widget_MaterialComponents_BottomNavigationView_PrimarySurface = 2131690130;
 			
 			// aapt resource value: 0x7F0F0293
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131690131;
+			public const int Widget_MaterialComponents_BottomSheet = 2131690131;
 			
 			// aapt resource value: 0x7F0F0294
-			public const int Widget_MaterialComponents_Button = 2131690132;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131690132;
 			
 			// aapt resource value: 0x7F0F0295
-			public const int Widget_MaterialComponents_Button_Icon = 2131690133;
+			public const int Widget_MaterialComponents_Button = 2131690133;
 			
 			// aapt resource value: 0x7F0F0296
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131690134;
+			public const int Widget_MaterialComponents_Button_Icon = 2131690134;
 			
 			// aapt resource value: 0x7F0F0297
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131690135;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131690135;
 			
 			// aapt resource value: 0x7F0F0298
-			public const int Widget_MaterialComponents_Button_TextButton = 2131690136;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131690136;
 			
 			// aapt resource value: 0x7F0F0299
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131690137;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131690137;
 			
 			// aapt resource value: 0x7F0F029A
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Flush = 2131690138;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131690138;
 			
 			// aapt resource value: 0x7F0F029B
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131690139;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Flush = 2131690139;
 			
 			// aapt resource value: 0x7F0F029C
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131690140;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131690140;
 			
 			// aapt resource value: 0x7F0F029D
-			public const int Widget_MaterialComponents_Button_TextButton_Snackbar = 2131690141;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131690141;
 			
 			// aapt resource value: 0x7F0F029E
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131690142;
+			public const int Widget_MaterialComponents_Button_TextButton_Snackbar = 2131690142;
 			
 			// aapt resource value: 0x7F0F029F
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131690143;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131690143;
 			
 			// aapt resource value: 0x7F0F02A0
-			public const int Widget_MaterialComponents_CardView = 2131690144;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131690144;
 			
 			// aapt resource value: 0x7F0F02A1
-			public const int Widget_MaterialComponents_CheckedTextView = 2131690145;
-			
-			// aapt resource value: 0x7F0F02A6
-			public const int Widget_MaterialComponents_ChipGroup = 2131690150;
+			public const int Widget_MaterialComponents_CardView = 2131690145;
 			
 			// aapt resource value: 0x7F0F02A2
-			public const int Widget_MaterialComponents_Chip_Action = 2131690146;
-			
-			// aapt resource value: 0x7F0F02A3
-			public const int Widget_MaterialComponents_Chip_Choice = 2131690147;
-			
-			// aapt resource value: 0x7F0F02A4
-			public const int Widget_MaterialComponents_Chip_Entry = 2131690148;
-			
-			// aapt resource value: 0x7F0F02A5
-			public const int Widget_MaterialComponents_Chip_Filter = 2131690149;
+			public const int Widget_MaterialComponents_CheckedTextView = 2131690146;
 			
 			// aapt resource value: 0x7F0F02A7
-			public const int Widget_MaterialComponents_CircularProgressIndicator = 2131690151;
+			public const int Widget_MaterialComponents_ChipGroup = 2131690151;
+			
+			// aapt resource value: 0x7F0F02A3
+			public const int Widget_MaterialComponents_Chip_Action = 2131690147;
+			
+			// aapt resource value: 0x7F0F02A4
+			public const int Widget_MaterialComponents_Chip_Choice = 2131690148;
+			
+			// aapt resource value: 0x7F0F02A5
+			public const int Widget_MaterialComponents_Chip_Entry = 2131690149;
+			
+			// aapt resource value: 0x7F0F02A6
+			public const int Widget_MaterialComponents_Chip_Filter = 2131690150;
 			
 			// aapt resource value: 0x7F0F02A8
-			public const int Widget_MaterialComponents_CircularProgressIndicator_ExtraSmall = 2131690152;
+			public const int Widget_MaterialComponents_CircularProgressIndicator = 2131690152;
 			
 			// aapt resource value: 0x7F0F02A9
-			public const int Widget_MaterialComponents_CircularProgressIndicator_Medium = 2131690153;
+			public const int Widget_MaterialComponents_CircularProgressIndicator_ExtraSmall = 2131690153;
 			
 			// aapt resource value: 0x7F0F02AA
-			public const int Widget_MaterialComponents_CircularProgressIndicator_Small = 2131690154;
+			public const int Widget_MaterialComponents_CircularProgressIndicator_Medium = 2131690154;
 			
 			// aapt resource value: 0x7F0F02AB
-			public const int Widget_MaterialComponents_CollapsingToolbar = 2131690155;
+			public const int Widget_MaterialComponents_CircularProgressIndicator_Small = 2131690155;
 			
 			// aapt resource value: 0x7F0F02AC
-			public const int Widget_MaterialComponents_CompoundButton_CheckBox = 2131690156;
+			public const int Widget_MaterialComponents_CollapsingToolbar = 2131690156;
 			
 			// aapt resource value: 0x7F0F02AD
-			public const int Widget_MaterialComponents_CompoundButton_RadioButton = 2131690157;
+			public const int Widget_MaterialComponents_CompoundButton_CheckBox = 2131690157;
 			
 			// aapt resource value: 0x7F0F02AE
-			public const int Widget_MaterialComponents_CompoundButton_Switch = 2131690158;
+			public const int Widget_MaterialComponents_CompoundButton_RadioButton = 2131690158;
 			
 			// aapt resource value: 0x7F0F02AF
-			public const int Widget_MaterialComponents_ExtendedFloatingActionButton = 2131690159;
+			public const int Widget_MaterialComponents_CompoundButton_Switch = 2131690159;
 			
 			// aapt resource value: 0x7F0F02B0
-			public const int Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = 2131690160;
+			public const int Widget_MaterialComponents_ExtendedFloatingActionButton = 2131690160;
 			
 			// aapt resource value: 0x7F0F02B1
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131690161;
+			public const int Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = 2131690161;
 			
 			// aapt resource value: 0x7F0F02B2
-			public const int Widget_MaterialComponents_Light_ActionBar_Solid = 2131690162;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131690162;
 			
 			// aapt resource value: 0x7F0F02B3
-			public const int Widget_MaterialComponents_LinearProgressIndicator = 2131690163;
+			public const int Widget_MaterialComponents_Light_ActionBar_Solid = 2131690163;
 			
 			// aapt resource value: 0x7F0F02B4
-			public const int Widget_MaterialComponents_MaterialButtonToggleGroup = 2131690164;
+			public const int Widget_MaterialComponents_LinearProgressIndicator = 2131690164;
 			
 			// aapt resource value: 0x7F0F02B5
-			public const int Widget_MaterialComponents_MaterialCalendar = 2131690165;
+			public const int Widget_MaterialComponents_MaterialButtonToggleGroup = 2131690165;
 			
 			// aapt resource value: 0x7F0F02B6
-			public const int Widget_MaterialComponents_MaterialCalendar_Day = 2131690166;
-			
-			// aapt resource value: 0x7F0F02BA
-			public const int Widget_MaterialComponents_MaterialCalendar_DayTextView = 2131690170;
+			public const int Widget_MaterialComponents_MaterialCalendar = 2131690166;
 			
 			// aapt resource value: 0x7F0F02B7
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Invalid = 2131690167;
-			
-			// aapt resource value: 0x7F0F02B8
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131690168;
-			
-			// aapt resource value: 0x7F0F02B9
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Today = 2131690169;
+			public const int Widget_MaterialComponents_MaterialCalendar_Day = 2131690167;
 			
 			// aapt resource value: 0x7F0F02BB
-			public const int Widget_MaterialComponents_MaterialCalendar_Fullscreen = 2131690171;
+			public const int Widget_MaterialComponents_MaterialCalendar_DayTextView = 2131690171;
+			
+			// aapt resource value: 0x7F0F02B8
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Invalid = 2131690168;
+			
+			// aapt resource value: 0x7F0F02B9
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131690169;
+			
+			// aapt resource value: 0x7F0F02BA
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Today = 2131690170;
 			
 			// aapt resource value: 0x7F0F02BC
-			public const int Widget_MaterialComponents_MaterialCalendar_HeaderCancelButton = 2131690172;
+			public const int Widget_MaterialComponents_MaterialCalendar_Fullscreen = 2131690172;
 			
 			// aapt resource value: 0x7F0F02BD
-			public const int Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = 2131690173;
+			public const int Widget_MaterialComponents_MaterialCalendar_HeaderCancelButton = 2131690173;
 			
 			// aapt resource value: 0x7F0F02BE
-			public const int Widget_MaterialComponents_MaterialCalendar_HeaderDivider = 2131690174;
+			public const int Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = 2131690174;
 			
 			// aapt resource value: 0x7F0F02BF
-			public const int Widget_MaterialComponents_MaterialCalendar_HeaderLayout = 2131690175;
+			public const int Widget_MaterialComponents_MaterialCalendar_HeaderDivider = 2131690175;
 			
 			// aapt resource value: 0x7F0F02C0
-			public const int Widget_MaterialComponents_MaterialCalendar_HeaderSelection = 2131690176;
+			public const int Widget_MaterialComponents_MaterialCalendar_HeaderLayout = 2131690176;
 			
 			// aapt resource value: 0x7F0F02C1
-			public const int Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = 2131690177;
+			public const int Widget_MaterialComponents_MaterialCalendar_HeaderSelection = 2131690177;
 			
 			// aapt resource value: 0x7F0F02C2
-			public const int Widget_MaterialComponents_MaterialCalendar_HeaderTitle = 2131690178;
+			public const int Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = 2131690178;
 			
 			// aapt resource value: 0x7F0F02C3
-			public const int Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = 2131690179;
+			public const int Widget_MaterialComponents_MaterialCalendar_HeaderTitle = 2131690179;
 			
 			// aapt resource value: 0x7F0F02C4
-			public const int Widget_MaterialComponents_MaterialCalendar_Item = 2131690180;
+			public const int Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = 2131690180;
 			
 			// aapt resource value: 0x7F0F02C5
-			public const int Widget_MaterialComponents_MaterialCalendar_MonthNavigationButton = 2131690181;
+			public const int Widget_MaterialComponents_MaterialCalendar_Item = 2131690181;
 			
 			// aapt resource value: 0x7F0F02C6
-			public const int Widget_MaterialComponents_MaterialCalendar_MonthTextView = 2131690182;
+			public const int Widget_MaterialComponents_MaterialCalendar_MonthNavigationButton = 2131690182;
 			
 			// aapt resource value: 0x7F0F02C7
-			public const int Widget_MaterialComponents_MaterialCalendar_Year = 2131690183;
-			
-			// aapt resource value: 0x7F0F02CA
-			public const int Widget_MaterialComponents_MaterialCalendar_YearNavigationButton = 2131690186;
+			public const int Widget_MaterialComponents_MaterialCalendar_MonthTextView = 2131690183;
 			
 			// aapt resource value: 0x7F0F02C8
-			public const int Widget_MaterialComponents_MaterialCalendar_Year_Selected = 2131690184;
-			
-			// aapt resource value: 0x7F0F02C9
-			public const int Widget_MaterialComponents_MaterialCalendar_Year_Today = 2131690185;
+			public const int Widget_MaterialComponents_MaterialCalendar_Year = 2131690184;
 			
 			// aapt resource value: 0x7F0F02CB
-			public const int Widget_MaterialComponents_NavigationRailView = 2131690187;
+			public const int Widget_MaterialComponents_MaterialCalendar_YearNavigationButton = 2131690187;
+			
+			// aapt resource value: 0x7F0F02C9
+			public const int Widget_MaterialComponents_MaterialCalendar_Year_Selected = 2131690185;
+			
+			// aapt resource value: 0x7F0F02CA
+			public const int Widget_MaterialComponents_MaterialCalendar_Year_Today = 2131690186;
 			
 			// aapt resource value: 0x7F0F02CC
-			public const int Widget_MaterialComponents_NavigationRailView_Colored = 2131690188;
+			public const int Widget_MaterialComponents_NavigationRailView = 2131690188;
 			
 			// aapt resource value: 0x7F0F02CD
-			public const int Widget_MaterialComponents_NavigationRailView_Colored_Compact = 2131690189;
+			public const int Widget_MaterialComponents_NavigationRailView_Colored = 2131690189;
 			
 			// aapt resource value: 0x7F0F02CE
-			public const int Widget_MaterialComponents_NavigationRailView_Compact = 2131690190;
+			public const int Widget_MaterialComponents_NavigationRailView_Colored_Compact = 2131690190;
 			
 			// aapt resource value: 0x7F0F02CF
-			public const int Widget_MaterialComponents_NavigationRailView_PrimarySurface = 2131690191;
+			public const int Widget_MaterialComponents_NavigationRailView_Compact = 2131690191;
 			
 			// aapt resource value: 0x7F0F02D0
-			public const int Widget_MaterialComponents_NavigationView = 2131690192;
+			public const int Widget_MaterialComponents_NavigationRailView_PrimarySurface = 2131690192;
 			
 			// aapt resource value: 0x7F0F02D1
-			public const int Widget_MaterialComponents_PopupMenu = 2131690193;
+			public const int Widget_MaterialComponents_NavigationView = 2131690193;
 			
 			// aapt resource value: 0x7F0F02D2
-			public const int Widget_MaterialComponents_PopupMenu_ContextMenu = 2131690194;
+			public const int Widget_MaterialComponents_PopupMenu = 2131690194;
 			
 			// aapt resource value: 0x7F0F02D3
-			public const int Widget_MaterialComponents_PopupMenu_ListPopupWindow = 2131690195;
+			public const int Widget_MaterialComponents_PopupMenu_ContextMenu = 2131690195;
 			
 			// aapt resource value: 0x7F0F02D4
-			public const int Widget_MaterialComponents_PopupMenu_Overflow = 2131690196;
+			public const int Widget_MaterialComponents_PopupMenu_ListPopupWindow = 2131690196;
 			
 			// aapt resource value: 0x7F0F02D5
-			public const int Widget_MaterialComponents_ProgressIndicator = 2131690197;
+			public const int Widget_MaterialComponents_PopupMenu_Overflow = 2131690197;
 			
 			// aapt resource value: 0x7F0F02D6
-			public const int Widget_MaterialComponents_ShapeableImageView = 2131690198;
+			public const int Widget_MaterialComponents_ProgressIndicator = 2131690198;
 			
 			// aapt resource value: 0x7F0F02D7
-			public const int Widget_MaterialComponents_Slider = 2131690199;
+			public const int Widget_MaterialComponents_ShapeableImageView = 2131690199;
 			
 			// aapt resource value: 0x7F0F02D8
-			public const int Widget_MaterialComponents_Snackbar = 2131690200;
+			public const int Widget_MaterialComponents_Slider = 2131690200;
 			
 			// aapt resource value: 0x7F0F02D9
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131690201;
+			public const int Widget_MaterialComponents_Snackbar = 2131690201;
 			
 			// aapt resource value: 0x7F0F02DA
-			public const int Widget_MaterialComponents_Snackbar_TextView = 2131690202;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131690202;
 			
 			// aapt resource value: 0x7F0F02DB
-			public const int Widget_MaterialComponents_TabLayout = 2131690203;
+			public const int Widget_MaterialComponents_Snackbar_TextView = 2131690203;
 			
 			// aapt resource value: 0x7F0F02DC
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131690204;
+			public const int Widget_MaterialComponents_TabLayout = 2131690204;
 			
 			// aapt resource value: 0x7F0F02DD
-			public const int Widget_MaterialComponents_TabLayout_PrimarySurface = 2131690205;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131690205;
 			
 			// aapt resource value: 0x7F0F02DE
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131690206;
+			public const int Widget_MaterialComponents_TabLayout_PrimarySurface = 2131690206;
 			
 			// aapt resource value: 0x7F0F02DF
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131690207;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131690207;
 			
 			// aapt resource value: 0x7F0F02E0
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131690208;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131690208;
 			
 			// aapt resource value: 0x7F0F02E1
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131690209;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131690209;
 			
 			// aapt resource value: 0x7F0F02E2
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131690210;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131690210;
 			
 			// aapt resource value: 0x7F0F02E3
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131690211;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131690211;
 			
 			// aapt resource value: 0x7F0F02E4
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = 2131690212;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131690212;
 			
 			// aapt resource value: 0x7F0F02E5
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = 2131690213;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = 2131690213;
 			
 			// aapt resource value: 0x7F0F02E6
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131690214;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = 2131690214;
 			
 			// aapt resource value: 0x7F0F02E7
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131690215;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131690215;
 			
 			// aapt resource value: 0x7F0F02E8
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = 2131690216;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131690216;
 			
 			// aapt resource value: 0x7F0F02E9
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = 2131690217;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = 2131690217;
 			
 			// aapt resource value: 0x7F0F02EA
-			public const int Widget_MaterialComponents_TextView = 2131690218;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = 2131690218;
 			
 			// aapt resource value: 0x7F0F02EB
-			public const int Widget_MaterialComponents_TimePicker = 2131690219;
+			public const int Widget_MaterialComponents_TextView = 2131690219;
 			
 			// aapt resource value: 0x7F0F02EC
-			public const int Widget_MaterialComponents_TimePicker_Button = 2131690220;
+			public const int Widget_MaterialComponents_TimePicker = 2131690220;
 			
 			// aapt resource value: 0x7F0F02ED
-			public const int Widget_MaterialComponents_TimePicker_Clock = 2131690221;
+			public const int Widget_MaterialComponents_TimePicker_Button = 2131690221;
 			
 			// aapt resource value: 0x7F0F02EE
-			public const int Widget_MaterialComponents_TimePicker_Display = 2131690222;
+			public const int Widget_MaterialComponents_TimePicker_Clock = 2131690222;
 			
 			// aapt resource value: 0x7F0F02EF
-			public const int Widget_MaterialComponents_TimePicker_Display_TextInputEditText = 2131690223;
+			public const int Widget_MaterialComponents_TimePicker_Display = 2131690223;
 			
 			// aapt resource value: 0x7F0F02F0
-			public const int Widget_MaterialComponents_TimePicker_ImageButton = 2131690224;
+			public const int Widget_MaterialComponents_TimePicker_Display_TextInputEditText = 2131690224;
 			
 			// aapt resource value: 0x7F0F02F1
-			public const int Widget_MaterialComponents_TimePicker_ImageButton_ShapeAppearance = 2131690225;
+			public const int Widget_MaterialComponents_TimePicker_ImageButton = 2131690225;
 			
 			// aapt resource value: 0x7F0F02F2
-			public const int Widget_MaterialComponents_Toolbar = 2131690226;
+			public const int Widget_MaterialComponents_TimePicker_ImageButton_ShapeAppearance = 2131690226;
 			
 			// aapt resource value: 0x7F0F02F3
-			public const int Widget_MaterialComponents_Toolbar_Primary = 2131690227;
+			public const int Widget_MaterialComponents_Toolbar = 2131690227;
 			
 			// aapt resource value: 0x7F0F02F4
-			public const int Widget_MaterialComponents_Toolbar_PrimarySurface = 2131690228;
+			public const int Widget_MaterialComponents_Toolbar_Primary = 2131690228;
 			
 			// aapt resource value: 0x7F0F02F5
-			public const int Widget_MaterialComponents_Toolbar_Surface = 2131690229;
+			public const int Widget_MaterialComponents_Toolbar_PrimarySurface = 2131690229;
 			
 			// aapt resource value: 0x7F0F02F6
-			public const int Widget_MaterialComponents_Tooltip = 2131690230;
+			public const int Widget_MaterialComponents_Toolbar_Surface = 2131690230;
 			
 			// aapt resource value: 0x7F0F02F7
-			public const int Widget_Support_CoordinatorLayout = 2131690231;
+			public const int Widget_MaterialComponents_Tooltip = 2131690231;
+			
+			// aapt resource value: 0x7F0F02F8
+			public const int Widget_Support_CoordinatorLayout = 2131690232;
 			
 			static Style()
 			{
