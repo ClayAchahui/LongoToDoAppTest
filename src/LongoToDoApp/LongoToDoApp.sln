@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongoToDo.Forms", "LongoToD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongoToDo.Core", "LongoToDo.Core\LongoToDo.Core.csproj", "{6E897739-F56F-492E-8986-26475A2FAFE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongoToDo.Tests", "LongoToDo.Tests\LongoToDo.Tests.csproj", "{1B37B208-2B6B-429B-86BA-D133EB558383}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongoToDo.Tests", "LongoToDo.Tests\LongoToDo.Tests.csproj", "{B4F37475-AB6B-47B3-9B69-DF635F6A1F32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{6E897739-F56F-492E-8986-26475A2FAFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E897739-F56F-492E-8986-26475A2FAFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E897739-F56F-492E-8986-26475A2FAFE3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1B37B208-2B6B-429B-86BA-D133EB558383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B37B208-2B6B-429B-86BA-D133EB558383}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B37B208-2B6B-429B-86BA-D133EB558383}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B37B208-2B6B-429B-86BA-D133EB558383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F37475-AB6B-47B3-9B69-DF635F6A1F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F37475-AB6B-47B3-9B69-DF635F6A1F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F37475-AB6B-47B3-9B69-DF635F6A1F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F37475-AB6B-47B3-9B69-DF635F6A1F32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -28,11 +28,8 @@ namespace LongoToDo.Core.ViewModels
 
         }
 
-        private async Task CreateTodo()
+        private async void CreateTodo()
         {
-            if (!ValidateTodoText())
-                return;
-
             try
             {
                 var response = await _todoService.Add(new TodoItem { Name = TodoText, IsComplete = false });
@@ -52,6 +49,7 @@ namespace LongoToDo.Core.ViewModels
                 await _dialogService.DisplayAlert(ex.Message, Constants.Messages.TitleMessage, Constants.Messages.OK);
                 //TODO: Track the error 
             }
+
         }
 
         private bool ValidateTodoText()
@@ -59,7 +57,7 @@ namespace LongoToDo.Core.ViewModels
             return !string.IsNullOrWhiteSpace(TodoText);
         }
 
-        public ICommand CreateTodoCommand => new DelegateCommand(async () => await CreateTodo());
+        public ICommand CreateTodoCommand => new DelegateCommand(CreateTodo, ValidateTodoText).ObservesProperty(() => TodoText);
     }
 }
 
